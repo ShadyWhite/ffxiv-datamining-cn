@@ -379,14 +379,14 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 375,374,8,7,7,6,"TripleTriadCardRarity#4","",800,32,358,0,True,3,"雪山奥窟冥魂石洞",,"气息的真相"
 376,375,7,6,7,8,"TripleTriadCardRarity#4","",800,32,359,0,True,3,"卢比坎特歼灭战",,"高贝扎的打算"
 377,376,4,7,10,8,"TripleTriadCardRarity#5","",0,47,363,0,True,11,"九宫卡手12",,"决斗！九宫幻卡"
-378,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-379,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-380,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+378,377,4,1,4,5,"TripleTriadCardRarity#1","",100,1,369,0,False,6,"时守","Level#9728781","紫州六根山奇幻之旅"
+379,378,7,6,4,2,"TripleTriadCardRarity#2","",300,8,370,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
+380,379,3,7,3,6,"TripleTriadCardRarity#2","",300,8,371,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
 381,380,6,4,5,8,"TripleTriadCardRarity#3","",500,20,364,0,False,3,"间歇灵泉哈姆岛",,"打开昏暗之门前的准备"
 382,381,3,5,7,7,"TripleTriadCardRarity#3","",500,20,365,0,False,6,"吕斯诺","Level#8980103","向星星许愿"
-383,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-384,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+383,382,4,8,8,2,"TripleTriadCardRarity#3","",500,20,372,0,False,10,"泪男子拉图迦","Level#8157292","反派之路"
+384,383,7,2,8,5,"TripleTriadCardRarity#3","",500,20,373,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
 385,384,5,9,8,5,"TripleTriadCardRarity#4","",800,39,366,0,False,6,"吕斯诺","Level#8980103","向星星许愿"
-386,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+386,385,8,5,9,5,"TripleTriadCardRarity#4","",800,32,374,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
 387,386,10,2,10,5,"TripleTriadCardRarity#5","",1500,40,367,0,False,3,"高贝扎歼灭战",,"堕入黑暗"
 388,387,9,10,4,5,"TripleTriadCardRarity#5","",1500,40,368,0,False,3,"万魔殿 荒天之狱4",,"登天之路"

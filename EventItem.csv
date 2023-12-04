@@ -2431,7 +2431,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2002612,"束缚魔法球",0,"",0,0,1,0,0,False,"","ui/icon/021000/021263.tex","任务道具",1,1," 优等市民的义务",3,"normal/item_start",0
 2002613,"以太绳",0,"",0,0,1,0,0,False,"","ui/icon/021000/021663.tex","任务道具",1,1," 优良市民需注意形象",1,"normal/item_start",0
 2002614,"被束缚的卡部斯",0,"",0,0,1,0,0,False,"","ui/icon/025000/025979.tex","",1,1," 优良市民需注意形象",0,"normal/item_start",0
-2002615,"新鲜的羊奶",0,"",0,0,1,0,0,False,"","ui/icon/024000/024453.tex","",1,1," 海狸的呼唤",0,"normal/item_start",0
+2002615,"新鲜的羊奶",0,"",0,0,1,0,0,False,"","ui/icon/024000/024453.tex","",1,1," 河狸的呼唤",0,"normal/item_start",0
 2002616,"结实的海藻绳",0,"",0,0,1,0,0,False,"","ui/icon/026000/026103.tex","任务道具",3,1," 海底生活的魅惑",1,"normal/item_start",0
 2002617,"捕获的海洋生物",0,"",0,0,1,0,0,False,"","ui/icon/026000/026108.tex","",3,1," 海底生活的魅惑",0,"normal/item_start",0
 2002618,"订购商品",0,"",0,0,1,0,0,False,"","ui/icon/026000/026108.tex","",3,1,"大概可以吃",0,"normal/item_start",0
@@ -3211,6 +3211,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003456,"特殊传送魔纹地图3",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003457,"蛇牛革制的宝物地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003458,"6级传送魔纹的地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
+2003459,"大型陆龟的肝脏",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,"神秘的嫌疑人",0,"normal/item_start",0
+2003460,"紫州土偶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
 2003461,"经过调制的专用香辛料",0,"",0,0,1,0,0,False,"","ui/icon/025000/025979.tex","",1,1,"寻味拉札罕",0,"normal/item_start",0
 2003463,"特殊宝物地图4",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003464,"特殊传送魔纹地图4",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0

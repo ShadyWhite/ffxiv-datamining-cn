@@ -300,7 +300,12 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131381,289,17,0,0,0,,"庭院小溪",False,False,True,0,0,0,False,True
 131382,290,17,0,0,0,,"分层台阶式蘑菇灯",False,False,True,0,0,0,False,True
 131383,291,17,0,0,0,,"乡村秋千双人长椅",False,False,True,0,0,0,False,True
+131384,292,17,0,0,0,,"装饰喷泉",False,False,True,0,0,0,False,True
+131385,293,17,0,0,0,,"破损花钵",False,False,True,0,0,0,False,True
 131386,294,17,0,0,0,"CmnDefHousingObject_00141","井泵",False,False,True,0,0,0,False,True
 131387,295,17,0,0,0,,"常青藤遮阳棚木制平台",False,False,True,0,0,0,False,True
+131388,296,17,0,0,0,,"狛犬石像",False,False,True,0,0,0,False,True
+131389,297,17,0,0,0,,"石灯笼",False,False,True,0,0,0,False,True
+131390,298,17,0,0,0,,"基桩石灯笼",False,False,True,0,0,0,False,True
 131391,299,17,0,0,0,,"陆行鸟照明灌木",False,False,True,5,0,0,False,True
 131392,263,17,0,0,0,,"特制夏日篝火",False,False,True,3,0,0,False,True

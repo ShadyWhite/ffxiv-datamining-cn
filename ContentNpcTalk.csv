@@ -246,3 +246,5 @@ int32,int32,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentT
 77,4,"要是还有需要确认的事项，就赶紧趁现在。
 如果没有问题的话，那就开始作战吧。","要做什么？","确认作战的详细内容","确认特殊技能","<UIForeground>F20224</UIForeground>开始作战<UIForeground>01</UIForeground>","取消","",""
 78,2,"确定要开始作战吗？","","","","","","",""
+79,4,"噫……是我错了，我不该阻碍你们……！
+我这就解除障壁，请放我一马吧！","要说什么？","让我们过去的话就饶了你","要不要放过你呢……","","","",""
