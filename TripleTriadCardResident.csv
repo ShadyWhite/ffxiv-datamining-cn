@@ -356,7 +356,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 352,351,8,6,7,1,"TripleTriadCardRarity#3","",500,23,336,0,True,2,"灿烂神域阿格莱亚",,"灿烂神域阿格莱亚"
 353,352,6,8,1,7,"TripleTriadCardRarity#3","",500,23,337,0,True,10,"卡片兑换员","Level#5581330","灿烂神域阿格莱亚"
 354,353,8,9,7,1,"TripleTriadCardRarity#4","",800,32,338,0,True,10,"广域交易商 N-1499","Level#8865563","晓月之终途"
-355,354,7,1,9,8,"TripleTriadCardRarity#4","",800,32,339,0,True,10,"广域交易商 玛维怛","Level#8865409","晓月之终途"
+355,354,7,1,9,8,"TripleTriadCardRarity#4","蛮神",800,35,339,0,True,10,"广域交易商 玛维怛","Level#8865409","晓月之终途"
 356,355,7,2,9,10,"TripleTriadCardRarity#5","",1500,40,340,0,True,10,"卡片兑换员","Level#5581330","晓月之终途"
 357,356,1,1,6,5,"TripleTriadCardRarity#1","",100,6,349,0,True,10,"N-0598","Level#9308277"," 渴望所有的鱼"
 358,357,2,6,6,4,"TripleTriadCardRarity#2","",300,8,350,0,True,6,"奇尔芙芙","Level#9405323","女王陛下与通往约定的钥匙"
@@ -379,14 +379,34 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 375,374,8,7,7,6,"TripleTriadCardRarity#4","",800,32,358,0,True,3,"雪山奥窟冥魂石洞",,"气息的真相"
 376,375,7,6,7,8,"TripleTriadCardRarity#4","",800,32,359,0,True,3,"卢比坎特歼灭战",,"高贝扎的打算"
 377,376,4,7,10,8,"TripleTriadCardRarity#5","",0,47,363,0,True,11,"九宫卡手12",,"决斗！九宫幻卡"
-378,377,4,1,4,5,"TripleTriadCardRarity#1","",100,1,369,0,False,6,"时守","Level#9728781","紫州六根山奇幻之旅"
-379,378,7,6,4,2,"TripleTriadCardRarity#2","",300,8,370,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
-380,379,3,7,3,6,"TripleTriadCardRarity#2","",300,8,371,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
-381,380,6,4,5,8,"TripleTriadCardRarity#3","",500,20,364,0,False,3,"间歇灵泉哈姆岛",,"打开昏暗之门前的准备"
-382,381,3,5,7,7,"TripleTriadCardRarity#3","",500,20,365,0,False,6,"吕斯诺","Level#8980103","向星星许愿"
-383,382,4,8,8,2,"TripleTriadCardRarity#3","",500,20,372,0,False,10,"泪男子拉图迦","Level#8157292","反派之路"
-384,383,7,2,8,5,"TripleTriadCardRarity#3","",500,20,373,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
-385,384,5,9,8,5,"TripleTriadCardRarity#4","",800,39,366,0,False,6,"吕斯诺","Level#8980103","向星星许愿"
-386,385,8,5,9,5,"TripleTriadCardRarity#4","",800,32,374,0,False,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
-387,386,10,2,10,5,"TripleTriadCardRarity#5","",1500,40,367,0,False,3,"高贝扎歼灭战",,"堕入黑暗"
-388,387,9,10,4,5,"TripleTriadCardRarity#5","",1500,40,368,0,False,3,"万魔殿 荒天之狱4",,"登天之路"
+378,377,4,1,4,5,"TripleTriadCardRarity#1","",100,1,369,0,True,6,"时守","Level#9728781","紫州六根山奇幻之旅"
+379,378,7,6,4,2,"TripleTriadCardRarity#2","",300,8,370,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
+380,379,3,7,3,6,"TripleTriadCardRarity#2","",300,8,371,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
+381,380,6,4,5,8,"TripleTriadCardRarity#3","",500,20,364,0,True,3,"间歇灵泉哈姆岛",,"打开昏暗之门前的准备"
+382,381,3,5,7,7,"TripleTriadCardRarity#3","",500,20,365,0,True,6,"吕斯诺","Level#8980103","向星星许愿"
+383,382,4,8,8,2,"TripleTriadCardRarity#3","",500,20,372,0,True,10,"泪男子拉图迦","Level#8157292","反派之路"
+384,383,7,2,8,5,"TripleTriadCardRarity#3","",500,20,373,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
+385,384,5,9,8,5,"TripleTriadCardRarity#4","",800,39,366,0,True,6,"吕斯诺","Level#8980103","向星星许愿"
+386,385,8,5,9,5,"TripleTriadCardRarity#4","",800,32,374,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
+387,386,10,2,10,5,"TripleTriadCardRarity#5","",1500,40,367,0,True,3,"高贝扎歼灭战",,"堕入黑暗"
+388,387,9,10,4,5,"TripleTriadCardRarity#5","",1500,40,368,0,True,3,"万魔殿 荒天之狱4",,"登天之路"
+389,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+390,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+391,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+392,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+393,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+394,393,8,7,1,6,"TripleTriadCardRarity#3","",500,23,375,0,False,6,"伊莱尔","Level#10189405","十二神的秘密"
+395,394,1,8,6,7,"TripleTriadCardRarity#3","",500,23,376,0,False,6,"伊莱尔","Level#10189405","十二神的秘密"
+396,395,1,6,7,8,"TripleTriadCardRarity#3","",500,23,377,0,False,6,"伊莱尔","Level#10189405","十二神的秘密"
+397,396,1,7,6,8,"TripleTriadCardRarity#3","",500,23,378,0,False,10,"卡片兑换员","Level#5581330","喜悦神域欧芙洛绪涅"
+398,397,7,6,1,8,"TripleTriadCardRarity#3","",500,23,379,0,False,6,"马利亚尔特","Level#10189407","受众神眷顾之地——艾欧泽亚"
+399,398,7,1,6,8,"TripleTriadCardRarity#3","",500,23,380,0,False,6,"马利亚尔特","Level#10189407","受众神眷顾之地——艾欧泽亚"
+400,399,7,8,1,6,"TripleTriadCardRarity#3","",500,23,381,0,False,10,"卡片兑换员","Level#5581330","荣华神域塔利亚"
+401,400,7,6,6,6,"TripleTriadCardRarity#3","",500,20,382,0,False,3,"异界深渊月面地下溪谷",,"超越时空的思念"
+402,401,6,6,7,9,"TripleTriadCardRarity#4","",800,33,383,0,False,2,"荣华神域塔利亚",,"受众神眷顾之地——艾欧泽亚"
+403,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+404,403,9,9,1,9,"TripleTriadCardRarity#5","",1500,40,384,0,False,3,"泽罗姆斯歼灭战",,"虚无界的英雄"
+405,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+406,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+407,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+408,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

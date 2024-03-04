@@ -100,6 +100,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131168,96,17,0,0,0,,"仙人刺绿雕",False,False,True,0,0,0,False,True
 131169,97,17,0,0,0,,"看板",False,False,True,0,0,0,False,True
 131170,98,17,0,0,0,,"晒衣杆",False,False,True,0,0,0,False,True
+131171,99,17,0,0,0,"CmnDefHousingObject_00141","夺心小魔庭院喷水器",False,False,True,0,0,0,False,True
 131172,100,17,0,0,0,,"特制红莲灯笼",False,False,True,3,0,0,False,True
 131173,101,17,0,0,0,,"特制东方的许愿竹",False,False,True,3,0,0,False,True
 131174,102,17,0,0,0,,"特制西瓜水盆",False,False,True,3,0,0,False,True
@@ -179,6 +180,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131250,167,17,0,0,0,,"转角树篱隔离墙",False,False,True,0,0,0,False,True
 131251,168,17,0,0,0,,"竹林",False,False,True,0,0,0,False,True
 131252,169,17,0,0,0,,"东洋温泉",False,False,True,0,0,0,False,True
+131253,170,17,0,0,0,,"仙人刺先生时钟",False,False,True,5,0,0,False,True
 131254,171,17,0,0,0,,"獭獭长椅",False,False,True,0,0,0,False,True
 131255,112,17,0,0,0,,"特制东方落樱",False,False,True,3,0,0,False,True
 131256,166,17,0,0,0,,"特制玫瑰花手推车",False,False,True,3,0,0,False,True
@@ -309,3 +311,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131390,298,17,0,0,0,,"基桩石灯笼",False,False,True,0,0,0,False,True
 131391,299,17,0,0,0,,"陆行鸟照明灌木",False,False,True,5,0,0,False,True
 131392,263,17,0,0,0,,"特制夏日篝火",False,False,True,3,0,0,False,True
+131396,303,17,0,0,0,,"可移动式庭院斜梯",False,False,True,0,0,0,False,True
+131397,304,17,0,0,0,,"花亭",False,False,True,0,0,0,False,True
+131399,306,17,0,0,0,,"厄尔庇斯庭院喷泉",False,False,True,5,0,0,False,True
+131400,307,17,0,0,47,,"野草草丛",False,False,True,0,0,0,False,True
+131406,269,17,0,0,0,,"特制幻光枯树",False,False,True,3,0,0,False,True
