@@ -1402,3 +1402,12 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198092,1244,15,0,0,0,0,,"特制女儿节的海报2024",False,False,3,0,0,True,False
 198093,1243,15,0,0,0,0,,"特制彩蛋狩猎的海报2024",False,False,3,0,0,True,False
 198094,1350,15,0,0,0,0,,"特制光明的零点海报",False,False,3,0,0,True,False
+198095,1352,15,0,0,0,0,,"阿罗阿罗壁挂吊灯",False,False,0,0,0,True,False
+198096,1353,14,0,0,0,0,,"被遗忘的神子像",False,False,5,0,0,True,False
+198097,1354,12,0,0,0,0,,"阿罗阿罗小仙女坐垫",False,False,0,0,0,True,False
+198098,1355,14,0,0,101,0,,"金碟巨豆中心胜者王冠",False,False,5,0,0,True,False
+198099,1356,14,0,0,0,0,,"金碟巨豆中心装饰旗",False,False,5,0,0,True,False
+198100,1357,12,0,0,0,0,,"金碟巨豆中心甜甜圈障碍柱",False,False,5,0,0,True,False
+198101,1358,12,0,0,0,0,,"金碟巨豆中心填充墙",False,False,5,0,0,True,False
+198102,1359,12,0,0,0,0,,"金碟巨豆中心彩虹柱",False,False,5,0,0,True,False
+198103,1360,12,0,0,0,0,"CmnDefHousingObject_00141","金碟巨豆中心巨锤",False,False,5,0,0,True,False

@@ -3219,5 +3219,10 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003465,"少年们的礼物",0,"",0,0,1,0,0,False,"","ui/icon/026000/026109.tex","任务道具",1,1,"她的梦，她的家",0,"normal/item_start",0
 2003466,"绳编手环",0,"",0,0,1,0,0,False,"","ui/icon/026000/026113.tex","",3,1,"星芒节与孩子们的友情",0,"normal/item_start",0
 2003467,"刻有朋友名字的手环",0,"",0,0,1,0,0,False,"","ui/icon/026000/026107.tex","",1,1,"星芒节与孩子们的友情",0,"normal/item_start",0
+2003468,"文鸟木像",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003469,"南洋潮虫",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003470,"南洋蠕虫",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
 2003471,"胡萝卜型增幅装置",0,"",0,0,1,0,0,False,"","ui/icon/025000/025207.tex","任务道具",1,1,"幽愿得偿",0,"normal/item_start",0
 2003472,"无穷魔笛",0,"",0,0,1,0,0,False,"","ui/icon/026000/026038.tex","任务道具",1,1,"幽愿得偿",0,"normal/item_start",0
+2003474,"海龟木像",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003475,"鲸鱼木像",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
