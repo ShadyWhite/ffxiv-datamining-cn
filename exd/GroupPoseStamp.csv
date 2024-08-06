@@ -220,7 +220,7 @@ int32,Image,int32,GroupPoseStampCategory,uint16,byte,uint32,int32,bit&01,bit&02,
 216,,0,"无",0,0,0,0,False,False,False,""
 217,"ui/icon/076000/076653.tex",1,"宠物",152,6,499,0,True,True,True,"宠物：粉红糖豆人"
 218,"ui/icon/076000/076654.tex",1,"宠物",153,6,500,0,True,True,True,"宠物：糖豆企鹅"
-219,,0,"无",0,0,0,0,False,False,False,""
+219,"ui/icon/076000/076652.tex",1,"宠物",149,6,498,0,True,True,True,"宠物：小托加尔"
 220,"ui/icon/076000/076651.tex",1,"宠物",138,6,233,0,True,True,True,"宠物：迷你尼德霍格"
 221,"ui/icon/076000/076701.tex",1,"宠物",140,10,0,0,True,True,True,"宠物：自走人偶001号"
 222,"ui/icon/076000/076702.tex",1,"宠物",1,10,0,0,True,True,True,"宠物：巧儿陆行鸟"

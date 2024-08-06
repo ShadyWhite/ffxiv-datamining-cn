@@ -306,13 +306,13 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 302,301,1,8,7,9,"TripleTriadCardRarity#4","帝国",800,36,285,0,True,6,"很有气势的帝国兵","Level#8378786","神兵来袭"
 303,302,4,10,6,8,"TripleTriadCardRarity#5","",1500,41,286,0,True,2,"人偶军事基地",,"与2P的再会"
 304,303,2,10,5,10,"TripleTriadCardRarity#5","蛮神",1500,42,287,0,True,3,"光之战士歼灭战",,"起始与终结之光"
-305,304,4,1,1,7,"TripleTriadCardRarity#1","",100,6,297,0,True,10,"泪男子拉图迦","Level#8157292","真正的齐格弗里德"
+305,304,4,1,1,7,"TripleTriadCardRarity#1","",100,6,297,0,True,10,"泪男子拉图加","Level#8157292","真正的齐格弗里德"
 306,305,3,7,6,3,"TripleTriadCardRarity#2","",300,8,291,0,True,3,"魔术工房玛托雅工作室",,"师徒情深"
 307,306,6,8,7,1,"TripleTriadCardRarity#3","",500,20,298,0,True,10,"义军补给兵","Level#8395975","神佑女王"
 308,307,8,6,1,7,"TripleTriadCardRarity#3","",500,20,299,0,True,10,"义军补给兵","Level#8395975","神佑女王"
 309,308,4,6,6,8,"TripleTriadCardRarity#3","",500,20,300,0,True,6,"德罗因","Level#8612500","永别了，初代蓝色假面"
 310,309,6,4,8,6,"TripleTriadCardRarity#3","",500,20,301,0,True,6,"德罗因","Level#8612500","永别了，初代蓝色假面"
-311,310,8,4,6,6,"TripleTriadCardRarity#3","",500,20,302,0,True,10,"泪男子拉图迦","Level#8157292","青魔法的未来"
+311,310,8,4,6,6,"TripleTriadCardRarity#3","",500,20,302,0,True,10,"泪男子拉图加","Level#8157292","青魔法的未来"
 312,311,7,9,8,1,"TripleTriadCardRarity#4","帝国",800,36,292,0,True,3,"绿宝石神兵破坏作战",,"悲伤的阿莉"
 313,312,7,7,1,9,"TripleTriadCardRarity#4","",800,39,293,0,True,6,"琉托·素","Level#8610547","终将诞生于明日的生命诗篇"
 314,313,5,1,9,9,"TripleTriadCardRarity#4","",800,39,294,0,True,6,"琉托·素","Level#8610547","终将诞生于明日的生命诗篇"
@@ -384,7 +384,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 380,379,3,7,3,6,"TripleTriadCardRarity#2","",300,8,371,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
 381,380,6,4,5,8,"TripleTriadCardRarity#3","",500,20,364,0,True,3,"间歇灵泉哈姆岛",,"打开昏暗之门前的准备"
 382,381,3,5,7,7,"TripleTriadCardRarity#3","",500,20,365,0,True,6,"吕斯诺","Level#8980103","向星星许愿"
-383,382,4,8,8,2,"TripleTriadCardRarity#3","",500,20,372,0,True,10,"泪男子拉图迦","Level#8157292","反派之路"
+383,382,4,8,8,2,"TripleTriadCardRarity#3","",500,20,372,0,True,10,"泪男子拉图加","Level#8157292","反派之路"
 384,383,7,2,8,5,"TripleTriadCardRarity#3","",500,20,373,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
 385,384,5,9,8,5,"TripleTriadCardRarity#4","",800,39,366,0,True,6,"吕斯诺","Level#8980103","向星星许愿"
 386,385,8,5,9,5,"TripleTriadCardRarity#4","",800,32,374,0,True,2,"多变迷宫 六根山",,"紫州六根山奇幻之旅"
@@ -406,7 +406,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 402,401,6,6,7,9,"TripleTriadCardRarity#4","",800,33,383,0,False,2,"荣华神域塔利亚",,"受众神眷顾之地——艾欧泽亚"
 403,402,9,7,6,5,"TripleTriadCardRarity#4","蛮神",800,35,390,0,False,3,"阿修罗歼灭战",,"曼德维尔之谜"
 404,403,9,9,1,9,"TripleTriadCardRarity#5","",1500,40,384,0,False,3,"泽罗姆斯歼灭战",,"虚无界的英雄"
-405,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+405,404,10,8,5,7,"TripleTriadCardRarity#5","",1500,48,15,5,False,10,"卡片兑换员","Level#5581330","纵使前路狱火焰毒"
 406,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
 407,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
 408,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
