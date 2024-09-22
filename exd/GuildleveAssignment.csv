@@ -37,3 +37,4 @@ int32,str,byte,GuildleveAssignmentTalk,Quest,Quest,bit&01,bit&02,bit&04,bit&08,b
 393249,"行会理符发行处",4,"GuildleveAssignmentTalk#34","黄金港理符开放","黄金港理符开放",False,False,False,False,True,0
 393250,"中庸工艺馆理符发行处",5,"GuildleveAssignmentTalk#35","水晶都理符开放","水晶都理符开放",False,False,False,False,True,0
 393251,"拾穗人理符发行处",7,"GuildleveAssignmentTalk#36","旧萨雷安理符开放","旧萨雷安理符开放",False,False,False,False,True,0
+393252,"图莱尤拉理符发行处",8,"GuildleveAssignmentTalk#37","图莱尤拉理符开放","图莱尤拉理符开放",False,False,False,False,True,0

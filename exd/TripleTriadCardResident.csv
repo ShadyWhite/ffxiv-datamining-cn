@@ -406,7 +406,24 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 402,401,6,6,7,9,"TripleTriadCardRarity#4","",800,33,383,0,False,2,"荣华神域塔利亚",,"受众神眷顾之地——艾欧泽亚"
 403,402,9,7,6,5,"TripleTriadCardRarity#4","蛮神",800,35,390,0,False,3,"阿修罗歼灭战",,"曼德维尔之谜"
 404,403,9,9,1,9,"TripleTriadCardRarity#5","",1500,40,384,0,False,3,"泽罗姆斯歼灭战",,"虚无界的英雄"
-405,404,10,8,5,7,"TripleTriadCardRarity#5","",1500,48,15,5,False,10,"卡片兑换员","Level#5581330","纵使前路狱火焰毒"
-406,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-407,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-408,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+405,404,10,8,5,7,"TripleTriadCardRarity#5","",1500,48,15,5,False,10,"卡片兑换员","Level#5581330","决斗！九宫幻卡"
+406,405,5,4,2,3,"TripleTriadCardRarity#1","兽人",100,3,391,0,False,6,"尼凯尼","Level#10806908","了解佩鲁佩鲁族"
+407,406,3,3,3,5,"TripleTriadCardRarity#1","",100,1,392,0,False,6,"沃皮利","Level#10806913","了解佩鲁佩鲁族"
+408,407,5,4,5,5,"TripleTriadCardRarity#2","兽人",300,10,393,0,False,6,"瓦索沃坷","Level#10806431","收集之民——莫布林族"
+409,408,6,3,4,5,"TripleTriadCardRarity#2","",300,8,394,0,False,6,"布鲁克·诺可","Level#10806914","友之试炼"
+410,409,3,4,6,5,"TripleTriadCardRarity#2","",300,8,395,0,False,6,"鲁亚瓦","Level#10806917","一路向北"
+411,410,4,4,5,6,"TripleTriadCardRarity#2","",300,8,396,0,False,6,"瓦塔艾","Level#10806452","理王斯菲因"
+412,411,5,6,5,3,"TripleTriadCardRarity#2","",300,8,397,0,False,6,"菈莉萨","Level#10806915","这温柔而残酷的世界"
+413,412,5,7,2,7,"TripleTriadCardRarity#3","",500,31,398,0,False,6,"嘎乌加","Level#10806911","拭去血泪"
+414,413,3,5,6,7,"TripleTriadCardRarity#3","",500,20,399,0,False,3,"丛林竞流生息河岸",,"为了图拉尔的人民"
+415,414,6,4,6,6,"TripleTriadCardRarity#3","",500,20,400,0,False,3,"通天绝壁沃刻佐莫山",,"祭司长固伏鲁"
+416,415,7,4,4,7,"TripleTriadCardRarity#3","",500,20,401,0,False,3,"神圣禁地深空天坑",,"通往黄金乡的道路"
+417,416,5,7,6,3,"TripleTriadCardRarity#3","",500,20,402,0,False,3,"魂魄工厂创生设施",,"奇迹之子"
+418,417,7,6,8,5,"TripleTriadCardRarity#4","",800,32,403,0,False,3,"艳翼蛇鸟歼灭战",,"最强威爪"
+419,418,9,5,7,8,"TripleTriadCardRarity#5","",1500,40,404,0,False,3,"佐拉加歼灭战",,"奇迹之子"
+420,419,3,9,5,10,"TripleTriadCardRarity#5","",1500,40,405,0,False,3,"永恒女王歼灭战",,"金曦之遗辉"
+421,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+422,421,5,8,6,7,"TripleTriadCardRarity#4","",800,39,406,0,False,10,"广域交易商 陶夏那","Level#10417506","守护者还是毁灭者"
+423,422,8,5,5,8,"TripleTriadCardRarity#4","",800,39,407,0,False,10,"广域交易商 办事员PX-0027","Level#10417540","踏上永远的旅途"
+424,423,5,10,9,5,"TripleTriadCardRarity#5","",0,47,408,0,False,11,"街头决斗者9",,"决斗！九宫幻卡"
+425,424,9,6,3,10,"TripleTriadCardRarity#5","",0,47,409,0,False,11,"九宫卡手13",,"金曦之遗辉"

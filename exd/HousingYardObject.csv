@@ -317,9 +317,16 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131400,307,17,0,0,47,,"野草草丛",False,False,True,0,0,0,False,True
 131402,309,17,0,0,0,"CmnDefHousingObject_00141","仿制魔导维修站墙",False,False,True,0,0,0,False,True
 131403,310,17,0,0,0,,"迷津葡萄路灯",False,False,True,0,0,0,False,True
+131404,311,17,0,0,0,,"东方枯山水庭",False,False,True,0,0,0,False,True
+131405,312,17,0,0,0,,"萨雷安反射水池",False,False,True,0,0,0,False,True
 131406,269,17,0,0,0,,"特制幻光枯树",False,False,True,3,0,0,False,True
 131407,313,17,0,0,0,"CmnDefHousingObject_00141","仿制魔导维修站地台",False,False,True,0,0,0,False,True
 131408,314,17,0,0,0,,"贡贝萨鱼吊架",False,False,True,0,0,0,False,True
 131409,315,17,0,0,0,,"文鸟雕像",False,False,True,0,0,0,False,True
 131410,316,17,0,0,0,,"阿罗阿罗海岛棕榈树",False,False,True,0,0,0,False,True
 131411,317,17,0,0,0,,"阿罗阿罗洛济葵花丛",False,False,True,0,0,0,False,True
+131412,318,17,16,7,30,,"永护塔木人",False,False,True,0,0,0,False,False
+131413,319,17,0,0,0,,"观星平台",False,False,True,0,0,0,False,True
+131414,320,17,0,0,0,,"木制庭院门",False,False,True,0,0,0,False,True
+131415,308,17,0,0,0,,"亚克特尔景观树",False,False,True,0,0,0,False,True
+131416,321,17,0,0,0,,"新生王国灯柱",False,False,True,0,0,0,False,True

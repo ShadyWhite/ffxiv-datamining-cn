@@ -1,17 +1,33 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,,,,,,,,,,,,,
-int32,byte,uint32,uint32,uint32,uint32,uint32,bit&01,bit&02,uint32,uint32,uint32,uint32,uint32
-0,0,0,0,0,0,0,False,False,0,0,0,0,0
-1,2,15938,15916,15922,0,0,False,False,0,0,0,0,4
-2,4,15938,15916,15922,0,0,False,False,0,0,0,0,56
-3,5,15938,15916,15922,0,0,False,False,70058,0,0,0,0
-4,6,15938,15916,15923,15934,0,False,True,66641,66640,66642,0,0
-5,21,15905,15939,15931,0,0,False,False,67092,0,0,0,0
-6,31,15905,15939,15925,0,112383,False,False,69379,0,0,0,0
-7,32,15905,15939,15928,0,111044,False,False,65973,0,0,0,0
-8,9,15905,15939,15937,0,111042,False,False,66747,0,0,0,0
-9,33,15905,15939,15929,0,111041,False,False,0,0,0,99,0
-10,34,15905,15939,15930,0,111043,False,False,66643,0,0,0,0
-11,35,15905,15939,15924,15935,111046,True,False,65970,0,0,0,0
-12,8,15905,15939,15927,0,111045,False,False,0,0,0,0,0
-13,0,0,0,0,0,0,False,False,0,0,0,0,0
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,ContentType,Text[0],Text[1],Text[2],Text[3],Image,,UnlockQuest,,
+int32,ContentType,Addon,Addon,Addon,Addon,Image,bit&01,Quest,uint32,uint32
+0,"","","","","",,False,,0,0
+1,"迷宫挑战","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级 <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","突破<Sheet(InstanceContent,IntegerParameter(5),3)/>。","",,False,,0,0
+2,"讨伐歼灭战","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级 <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","突破<Sheet(InstanceContent,IntegerParameter(5),3)/>。","",,False,,0,0
+3,"大型任务","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级 <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","突破<Sheet(InstanceContent,IntegerParameter(5),3)/>。","",,False,,0,0
+4,"对战","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级 <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","参加<Sheet(InstanceContent,IntegerParameter(5),3)/>。","胜败会影响奖励量。",,False,,0,0
+5,"深层迷宫","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","突破<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(ContentFinderCondition,<Sheet(InstanceContent,IntegerParameter(5),8)/>,1)/>,5)/>,0)/>的<If(Equal(IntegerParameter(14),0))>地下<Value>IntegerParameter(12)</Value><Else/><Value>IntegerParameter(12)</Value></If>层。","",,False,,0,0
+6,"出海垂钓","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","1次<Sheet(ContentType,IntegerParameter(2),0)/>中合计渔分达到<If(GreaterThan(IntegerParameter(7),0))><Value>IntegerParameter(7)</Value><Else/><Value>IntegerParameter(8)</Value></If>以上。","","ui/icon/112000/112383.tex",False,"引人注目的出海垂钓",0,0
+7,"九宫幻卡","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","以<Sheet(ContentType,IntegerParameter(2),0)/>战胜<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(Level,IntegerParameter(10),9)/>,5)/>,0)/>的<Sheet(ENpcResident,IntegerParameter(5),0)/>。","","ui/icon/111000/111044.tex",False,"决斗！九宫幻卡",0,0
+8,"寻宝","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","解读任意陈旧的地图，开启宝箱。","","ui/icon/111000/111042.tex",False,"浪漫的寻宝猎人",0,0
+9,"怪物狩猎","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","完成<Sheet(EventItem,<Sheet(MobHuntOrderType,IntegerParameter(5),2)/>,0)/>。","","ui/icon/111000/111041.tex",False,,99,0
+10,"钓鱼","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","钓上<Sheet(Item,<Sheet(FishParameter,IntegerParameter(5),4)/>,0)/>。","","ui/icon/111000/111043.tex",False,"代理渔头希希蒲",0,0
+11,"机遇任务","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","在任意<Sheet(ContentType,IntegerParameter(2),0)/>中获得金碟币。","各种机遇任务给予的奖励数量不同。
+详情可打开“确认奖励详情”查看。","ui/icon/111000/111046.tex",True,"前往游乐场",0,0
+12,"危命任务","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","<If(Equal(IntegerParameter(4),2))>合计完成<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>或<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(6),5)/>,0)/>的<Sheet(ContentType,IntegerParameter(2),0)/><Value>IntegerParameter(8)</Value>次。<Else/>完成<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>的<Sheet(ContentType,IntegerParameter(2),0)/><Value>IntegerParameter(8)</Value>次。</If>","","ui/icon/111000/111045.tex",False,,0,0
+13,"","","","","",,False,,0,0
+14,"寻宝","寻宝：宝物库","寻宝：宝物库
+<Value>IntegerParameter(7)</Value>级","挑战<Value>IntegerParameter(8)</Value>次通过寻宝传送魔纹进入的宝物库
+※中途退出宝物库时不会计入挑战次数","","ui/icon/111000/111047.tex",False,,0,179

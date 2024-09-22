@@ -774,7 +774,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 27.12,"","GrandCompanyRank#0",0,0
 28.0,"天鹅之羽","GrandCompanyRank#4",200,200
 28.1,"雄鹰之羽","GrandCompanyRank#4",200,200
-28.2,"软糊怪肉","GrandCompanyRank#4",200,200
+28.2,"软糊怪的肉","GrandCompanyRank#4",200,200
 28.3,"","GrandCompanyRank#0",0,0
 29.0,"","GrandCompanyRank#0",0,0
 30.0,"高级料酒","GrandCompanyRank#9",20,40
@@ -821,7 +821,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 30.41,"","GrandCompanyRank#0",0,0
 31.0,"天鹅之羽","GrandCompanyRank#4",200,200
 31.1,"雄鹰之羽","GrandCompanyRank#4",200,200
-31.2,"软糊怪肉","GrandCompanyRank#4",200,200
+31.2,"软糊怪的肉","GrandCompanyRank#4",200,200
 31.3,"","GrandCompanyRank#0",0,0
 32.0,"","GrandCompanyRank#0",0,0
 33.0,"高级料酒","GrandCompanyRank#9",20,40
@@ -868,7 +868,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 33.41,"","GrandCompanyRank#0",0,0
 34.0,"天鹅之羽","GrandCompanyRank#4",200,200
 34.1,"雄鹰之羽","GrandCompanyRank#4",200,200
-34.2,"软糊怪肉","GrandCompanyRank#4",200,200
+34.2,"软糊怪的肉","GrandCompanyRank#4",200,200
 34.3,"","GrandCompanyRank#0",0,0
 35.0,"","GrandCompanyRank#0",0,0
 36.0,"高级料酒","GrandCompanyRank#9",20,40
