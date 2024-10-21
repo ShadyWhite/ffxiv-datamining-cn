@@ -1000,7 +1000,7 @@ int32,bit&01,ClassJobCategory,byte,uint16,RetainerTaskParameter,uint16,uint16,in
 996,False,"采矿工",99,0,"RetainerTaskParameter#685",1,60,2378900,0,72,0,3238,0,"白黄金矿"
 997,False,"采矿工",100,0,"RetainerTaskParameter#690",1,60,2902300,0,72,0,3277,0,"黑铁矿"
 998,False,"园艺工",91,0,"RetainerTaskParameter#645",1,60,1365900,0,72,0,2921,0,"雪木棉"
-999,False,"园艺工",91,0,"RetainerTaskParameter#645",1,60,1365900,0,72,0,2921,0,"桉树"
+999,False,"园艺工",91,0,"RetainerTaskParameter#645",1,60,1365900,0,72,0,2921,0,"桉叶"
 1000,False,"园艺工",91,0,"RetainerTaskParameter#645",1,60,1365900,0,72,0,2921,0,"乌托姆番茄"
 1001,False,"园艺工",93,0,"RetainerTaskParameter#655",1,60,1591200,0,72,0,3000,0,"木棉原木"
 1002,False,"园艺工",92,0,"RetainerTaskParameter#650",1,60,1534800,0,72,0,2961,0,"野生加提卡香蕉"

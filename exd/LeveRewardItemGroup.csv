@@ -1101,8 +1101,8 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1097,"火之水晶",106,False,"土之水晶",106,False,"钌金锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1098,"火之水晶",88,False,"土之水晶",88,False,"钴钨锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1099,"火之水晶",108,False,"土之水晶",108,False,"钴钨锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1100,"火之水晶",89,False,"土之水晶",89,False,"钛金锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1101,"火之水晶",110,False,"土之水晶",110,False,"钛金锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1100,"火之水晶",89,False,"土之水晶",89,False,"钛金块",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1101,"火之水晶",110,False,"土之水晶",110,False,"钛金块",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1102,"火之水晶",90,False,"土之水晶",90,False,"卡扎纳尔锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1103,"火之水晶",112,False,"土之水晶",112,False,"卡扎纳尔锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1104,"冰之水晶",36,False,"土之水晶",36,False,"奥阔铬铁矿",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
@@ -1115,8 +1115,8 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1111,"冰之水晶",106,False,"土之水晶",106,False,"钌金锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1112,"冰之水晶",88,False,"土之水晶",88,False,"钴钨锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1113,"冰之水晶",108,False,"土之水晶",108,False,"钴钨锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1114,"冰之水晶",89,False,"土之水晶",89,False,"钛金锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1115,"冰之水晶",110,False,"土之水晶",110,False,"钛金锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1114,"冰之水晶",89,False,"土之水晶",89,False,"钛金块",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1115,"冰之水晶",110,False,"土之水晶",110,False,"钛金块",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1116,"冰之水晶",90,False,"土之水晶",90,False,"卡扎纳尔锭",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1117,"冰之水晶",112,False,"土之水晶",112,False,"卡扎纳尔锭",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1118,"风之水晶",36,False,"火之水晶",36,False,"混金矿",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
@@ -1174,7 +1174,7 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1170,"水之水晶",86,False,"雷之水晶",86,False,"毒蛙的粘液",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1171,"水之水晶",104,False,"雷之水晶",104,False,"高级枫树树液",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1172,"水之水晶",87,False,"雷之水晶",87,False,"克扎玛乌甘菊",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1173,"水之水晶",106,False,"雷之水晶",106,False,"桉树",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1173,"水之水晶",106,False,"雷之水晶",106,False,"桉叶",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1174,"水之水晶",88,False,"雷之水晶",88,False,"小鸣鼠的刃爪",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1175,"水之水晶",108,False,"雷之水晶",108,False,"香风月桂叶",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1176,"水之水晶",89,False,"雷之水晶",89,False,"珍珠草",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

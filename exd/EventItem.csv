@@ -3563,7 +3563,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003559,"香气扑鼻的撒饵",0,"",0,0,1,0,0,False,"","ui/icon/025000/025978.tex","任务道具",3,1,"旅行画家的东方旅程",3,"normal/item_start",0
 2003560,"盖诺尔特用的能量饮料",0,"",0,0,1,0,0,False,"","ui/icon/024000/024421.tex","",1,1,"嗷嗷有劲能量特饮",0,"normal/item_start",0
 2003561,"新人用的能量饮料",0,"",0,0,1,0,0,False,"","ui/icon/024000/024420.tex","",1,1,"嗷嗷有劲能量特饮",0,"normal/item_start",1
-2003562,"灰狼革制的宝物地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
+2003562,"银狼革制的宝物地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003563,"狞豹革制的宝物地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003564,"7级传送魔纹的地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003565,"佩鲁佩鲁族的香气羊鞍",0,"",0,0,1,0,0,False,"","ui/icon/026000/026661.tex","",1,1,,0,"normal/item_start",0
