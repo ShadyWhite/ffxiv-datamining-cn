@@ -5840,7 +5840,7 @@ int32,Row,Quest,byte,DefaultTalk
 2033199.1,,"导游理王",255,"DefaultTalk#599901"
 2033199.2,,"金曦之遗辉",255,"DefaultTalk#599902"
 2033200.0,,,0,"DefaultTalk#599486"
-2033200.1,"",,0,"DefaultTalk#599490"
+2033200.1,"巳蛇百问降神节",,0,"DefaultTalk#599490"
 2033201.0,,,0,"DefaultTalk#599604"
 2033201.1,"嗷嗷有劲能量特饮",,0,"DefaultTalk#599891"
 2033201.2,,"守护者还是毁灭者",255,"DefaultTalk#599908"

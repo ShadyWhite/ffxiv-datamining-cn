@@ -111,7 +111,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 107,11,"说明","所有职业",1,"BannerCondition#119",0,0,1705,"ui/icon/064000/064369.tex",""
 108,11,"嘘","所有职业",1,"BannerCondition#16",0,0,1706,"ui/icon/064000/064412.tex",""
 109,11,"练武","所有职业",1,"BannerCondition#60",0,0,1707,"ui/icon/064000/064353.tex",""
-110,11,"神典石","所有职业",1,"BannerCondition#55",0,0,1709,"ui/icon/064000/064375.tex",""
+110,11,"神典石","所有职业",1,"BannerCondition#55",233,234,1709,"ui/icon/064000/064375.tex",""
 111,11,"坚持主张","所有职业",1,"BannerCondition#35",0,0,1710,"ui/icon/064000/064393.tex",""
 112,11,"吃面包","所有职业",1,"BannerCondition#36",0,0,1711,"ui/icon/064000/064390.tex",""
 113,11,"吃饭团","所有职业",1,"BannerCondition#37",0,0,1712,"ui/icon/064000/064402.tex",""

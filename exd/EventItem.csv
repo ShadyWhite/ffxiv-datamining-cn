@@ -2365,7 +2365,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2002361,"雉鸡的羽毛",0,"",0,0,1,0,0,False,"","ui/icon/021000/021904.tex","",4,1,"王族狩猎场",0,"normal/item_start",0
 2002362,"长毛象的肉",0,"",0,0,1,0,0,False,"","ui/icon/025000/025155.tex","",2,1,"最弱的缘由",0,"normal/item_start",0
 2002363,"写给也速根的信",0,"",0,0,1,0,0,False,"","ui/icon/026000/026173.tex","",1,1,"兄弟斗技",0,"normal/item_start",0
-2002364,"果子",0,"",0,0,1,0,0,False,"","ui/icon/024000/024054.tex","",1,1,"最强的厨师",0,"normal/item_start",0
+2002364,"馃子",0,"",0,0,1,0,0,False,"","ui/icon/024000/024054.tex","",1,1,"最强的厨师",0,"normal/item_start",0
 2002365,"迷途羊羔的骨头",0,"",0,0,1,0,0,False,"","ui/icon/022000/022202.tex","任务道具",1,1,"最强的厨师",3,"normal/item_start",0
 2002366,"毕方的胸肉",0,"",0,0,1,0,0,False,"","ui/icon/025000/025151.tex","",1,1,"最强的厨师",0,"normal/item_start",0
 2002367,"小包裹",0,"",0,0,1,0,0,False,"","ui/icon/026000/026110.tex","",1,1,"朵塔儿部的教练",0,"normal/item_start",0
@@ -3482,7 +3482,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003478,"香气扑鼻的野草",0,"",0,0,1,0,0,False,"","ui/icon/021000/021681.tex","",3,1,"蝰蛇剑士的狩猎",0,"normal/item_start",0
 2003479,"羊驼绒",0,"",0,0,1,0,0,False,"","ui/icon/021000/021655.tex","",1,1,"金之试炼",0,"normal/item_start",0
 2003480,"手斧",0,"",0,0,1,0,0,False,"","ui/icon/038000/038101.tex","",1,1,"玛布露的梦想",0,"normal/item_start",0
-2003481,"蓝色的马黛茶叶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025020.tex","",5,1,"玛布露的梦想",0,"normal/item_start",0
+2003481,"碧绿的马黛茶叶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025020.tex","",5,1,"玛布露的梦想",0,"normal/item_start",0
 2003482,"大袋高级马黛茶叶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025992.tex","",1,1,"出色的交易",0,"normal/item_start",0
 2003483,"起风结晶",0,"",0,0,1,0,0,False,"","ui/icon/020000/020010.tex","",1,1,"罐子工的看护人",0,"normal/item_start",0
 2003484,"海牛的诱饵",0,"",0,0,1,0,0,False,"","ui/icon/025000/025979.tex","任务道具",2,1,"埃伦维尔与海牛",3,"normal/item_start",0
@@ -3685,7 +3685,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003681,"灵豹之民武器样品",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1," 能者多劳",0,"normal/item_start",0
 2003682,"红豹村织物样品",0,"",0,0,1,0,0,False,"","ui/icon/021000/021680.tex","",1,1," 能者多劳",0,"normal/item_start",0
 2003683,"特制防虫剂",0,"",0,0,1,0,0,False,"","ui/icon/020000/020705.tex","任务道具",3,1," 以森林为生的武器工匠",0,"normal/item_start",0
-2003684,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003684,"白色土龙摆件",0,"",0,0,1,0,0,False,"","ui/icon/059000/059892.tex","",1,1,"巳蛇百问降神节",0,"normal/item_start",0
 2003685,"那皮凯的笔记",0,"",0,0,1,0,0,False,"","ui/icon/026000/026167.tex","",1,1,"高级图拉尔大陆怪物狩猎",0,"normal/item_start",0
 2003686,"宝石化的化石",0,"",0,0,1,0,0,False,"","ui/icon/021000/021477.tex","",1,1," 为了夏劳尼荒野的和平",0,"normal/item_start",0
 2003687,"预备工匠道具",0,"",0,0,1,0,0,False,"","ui/icon/026000/026108.tex","",1,1," 看护人的宝物",0,"normal/item_start",0

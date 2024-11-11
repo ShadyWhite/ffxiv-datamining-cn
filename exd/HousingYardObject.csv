@@ -295,6 +295,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131373,281,17,0,0,0,,"焦化叶小妖石窑",False,False,True,0,0,0,False,True
 131374,282,17,0,0,0,,"石制花园围墙",False,False,True,0,0,0,False,True
 131375,283,17,0,0,0,,"五彩缤纷的花丛",False,False,True,0,0,0,False,True
+131376,284,17,0,0,0,,"伊尔美格花架",False,False,True,0,0,0,False,True
 131377,285,17,0,0,0,,"海岛庭园围栏",False,False,True,0,0,0,False,True
 131378,286,17,0,0,0,,"海岛阳伞桌",False,False,True,0,0,0,False,True
 131379,287,17,0,0,0,,"海岛庭园木椅",False,False,True,0,0,0,False,True
@@ -313,6 +314,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131392,263,17,0,0,0,,"特制夏日篝火",False,False,True,3,0,0,False,True
 131396,303,17,0,0,0,,"可移动式庭院斜梯",False,False,True,0,0,0,False,True
 131397,304,17,0,0,0,,"花亭",False,False,True,0,0,0,False,True
+131398,305,17,0,0,0,,"阿尔扎达尔园艺灯",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"厄尔庇斯庭院喷泉",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"野草草丛",False,False,True,0,0,0,False,True
 131402,309,17,0,0,0,"CmnDefHousingObject_00141","仿制魔导维修站墙",False,False,True,0,0,0,False,True
@@ -328,5 +330,5 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131412,318,17,16,7,30,,"永护塔木人",False,False,True,0,0,0,False,False
 131413,319,17,0,0,0,,"观星平台",False,False,True,0,0,0,False,True
 131414,320,17,0,0,0,,"木制庭院门",False,False,True,0,0,0,False,True
-131415,308,17,0,0,0,,"亚克特尔景观树",False,False,True,0,0,0,False,True
+131415,308,17,0,0,0,,"亚克特尔光鳞树",False,False,True,0,0,0,False,True
 131416,321,17,0,0,0,,"新生王国灯柱",False,False,True,0,0,0,False,True

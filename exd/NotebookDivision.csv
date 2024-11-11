@@ -103,7 +103,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1058,"珠串万货街交易","职业任务",90,255,"街上的五金店",92,False,False,True,True,True,False,False,False,False
 1059,"珠串万货街交易","职业任务",90,255,"记录传奇之人",91,False,True,False,False,False,True,True,False,False
 1060,"珠串万货街交易","职业任务",90,255,"果汁店的倒闭危机",90,False,False,False,False,False,False,False,True,True
-1061,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1061,"秘籍：第11卷","秘籍",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"库尔札斯","传承录",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"龙堡","传承录",255,50,,11,False,True,True,True,True,True,True,True,True

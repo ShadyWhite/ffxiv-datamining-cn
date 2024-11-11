@@ -9,6 +9,6 @@ int32,bit&01,uint16,uint16,bool,bool,Item,uint16,uint16,uint16,uint16,CSBonusTex
 5,True,2,4,True,True,"",0,0,0,0,"","",1
 6,False,2,4,True,True,"",0,0,0,0,"","",1
 7,False,0,0,False,False,"",0,0,0,0,"","",1
-8,True,8,0,True,False,"稀少魔典神典石",9,10,11,12,"莫古莫古★大收集","",26
+8,True,8,0,True,False,"稀少魔典神典石",9,10,11,12,"莫古莫古★大收集","黄金的魔典",26
 9,True,8,0,True,False,"",0,0,0,0,"","",1
 10,False,0,0,False,False,"",0,0,0,0,"","",0
