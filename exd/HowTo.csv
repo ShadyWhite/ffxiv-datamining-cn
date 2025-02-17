@@ -164,7 +164,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 160,"最优队员",True,"ui/icon/151000/chs/151721.tex","ui/icon/151000/chs/151722.tex","ui/icon/151000/chs/151723.tex","","","","","","","","使命任务",26
 161,"入队申请",True,"ui/icon/151000/chs/151731.tex","ui/icon/151000/chs/151732.tex","","","","ui/icon/151000/chs/151731.tex","ui/icon/151000/chs/151733.tex","","","","部队",7
 162,"挑战笔记",True,"ui/icon/151000/chs/151741.tex","ui/icon/151000/chs/151742.tex","","","","ui/icon/151000/chs/151743.tex","ui/icon/151000/chs/151742.tex","","","","使命任务",6
-163,"制作秘籍",True,"ui/icon/151000/chs/151751.tex","","","","","","","","","","制作",10
+163,"制作秘籍",True,"ui/icon/151000/chs/151751.tex","ui/icon/151000/chs/151752.tex","","","","","","","","","制作",10
 164,"武具投影",True,"ui/icon/151000/chs/151761.tex","ui/icon/151000/chs/151762.tex","ui/icon/151000/chs/151763.tex","","","","","","","","装备",25
 165,"栽培",True,"ui/icon/151000/chs/151771.tex","ui/icon/151000/chs/151772.tex","","","","","","","","","冒险者基础",18
 166,"培育",True,"ui/icon/151000/chs/151781.tex","ui/icon/151000/chs/151782.tex","","","","","","","","","冒险者基础",20
@@ -288,4 +288,4 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 284,"关于大地使者职能技能",True,"ui/icon/152000/chs/152941.tex","ui/icon/152000/chs/152942.tex","ui/icon/152000/chs/152943.tex","","","","","","","","采集",1
 285,"关于面部配饰",True,"ui/icon/152000/chs/152951.tex","ui/icon/152000/chs/152952.tex","","","","","","","","","冒险者基础",29
 286,"关于主线向导",True,"ui/icon/152000/chs/152961.tex","ui/icon/152000/chs/152962.tex","","","","","","","","","通常任务",7
-287,"",False,"","","","","","","","","","","无",0
+287,"关于特殊配方",True,"ui/icon/152000/chs/152971.tex","ui/icon/152000/chs/152972.tex","","","","","","","","","制作",22

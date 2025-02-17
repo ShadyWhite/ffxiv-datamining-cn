@@ -75,3 +75,8 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 71,"垂头丧气","",True,False,False,False,3,False
 72,"比心","",True,False,False,False,3,True
 73,"众生离绝","",True,False,False,False,3,True
+74,"待命","",True,False,False,False,3,False
+75,"浇水","",True,False,False,False,3,False
+76,"调饮","",True,False,False,False,3,False
+77,"花束を贈る","",True,False,False,False,3,False
+78,"","",True,False,False,False,3,False

@@ -1317,7 +1317,7 @@ int32,Item,CollectablesShopItemGroup,uint16,uint32,uint16,byte,byte,Collectables
 27.20,"收藏用蛇牛革上装","81～90级",88,0,89,0,3,"CollectablesShopRefine#133","2"
 27.21,"收藏用蛇牛革半手套","81～90级",89,0,90,0,3,"CollectablesShopRefine#134","2"
 27.22,"收藏用银狼革半指护手","91～100级",90,0,91,0,3,"CollectablesShopRefine#182","2"
-27.23,"收藏用锤头鳄护腿","91～100级",92,0,93,0,3,"CollectablesShopRefine#183","2"
+27.23,"收藏用锤头鳄革护腿","91～100级",92,0,93,0,3,"CollectablesShopRefine#183","2"
 27.24,"收藏用狞豹革护臂","91～100级",94,0,95,0,3,"CollectablesShopRefine#184","2"
 27.25,"收藏用嵌齿象革衬裤","91～100级",96,0,97,0,3,"CollectablesShopRefine#185","2"
 27.26,"收藏用卡冈图亚革软甲裤","91～100级",98,0,99,0,3,"CollectablesShopRefine#186","2"

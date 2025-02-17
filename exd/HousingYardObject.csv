@@ -332,3 +332,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131414,320,17,0,0,0,,"木制庭院门",False,False,True,0,0,0,False,True
 131415,308,17,0,0,0,,"亚克特尔光鳞树",False,False,True,0,0,0,False,True
 131416,321,17,0,0,0,,"新生王国灯柱",False,False,True,0,0,0,False,True
+131417,188,17,0,0,0,,"特制仙人掌花园",False,False,True,3,0,0,False,True
+131418,192,17,0,0,0,,"特制园艺棕榈树",False,False,True,3,0,0,False,True
+131419,322,17,0,0,0,,"东方东屋",False,False,True,0,0,0,False,True
+131420,323,17,0,0,0,,"方形踏脚石",False,False,True,0,0,0,False,True
+131425,328,17,0,0,0,,"加加财富树",False,False,True,0,0,0,False,True
+131426,299,17,0,0,0,,"特制陆行鸟照明灌木",False,False,True,3,0,0,False,True

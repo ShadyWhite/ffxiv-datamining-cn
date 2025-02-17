@@ -264,16 +264,18 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 52.0,10570830,2,"祭司长固伏鲁",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.0,9867101,2,"展翅节",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.1,10562741,2,"了解哈努族",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-53.2,10562742,2,"了解哈努族",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-53.3,10613522,2,"了解哈努族",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.2,10562742,2,"了解哈努族",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.3,10613522,2,"了解哈努族",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.4,10429375,2,"兄长之责",255,False,2,"拯救乌克·拉玛特",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.5,11140956,1," 新事业！图拉尔旅行公司",0,False,1," 来访！第一位游客",0,False,1," 开拓！通往上游水域之路",0,False,1," 急聘！旅行公司的新同伴",0,False,1," 国宾？！来自外国的游客",0,False,0,,0,False,0,0,0,False
 54.0,10614014,2,"穿越冥境隧路",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"守护者还是毁灭者",3,False,2,"金曦之遗辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"金曦之遗辉",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.2,10968008,2,"困惑不解的居民们",2,False,2,"与未知邂逅",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.0,10511646,2,"大地轰鸣之日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.1,9872339,2,"大地轰鸣之日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.2,10746983,2,"覆盖荒野的黑影",2,False,2,"守护者还是毁灭者",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-56.3,10510357,2,"因为我喜欢图莱尤拉",255,False,2,"金曦晨辉",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.3,10510357,2,"因为我喜欢图莱尤拉",255,False,2,"金曦晨辉",3,False,2,"家人的温暖",255,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.4,10515675,2,"金曦晨辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 57.0,10617550,2,"九号解决方案",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.0,10591852,2,"这温柔而残酷的世界",9,False,2,"这温柔而残酷的世界",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
