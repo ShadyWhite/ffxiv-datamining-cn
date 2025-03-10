@@ -1507,7 +1507,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198172,1434,15,0,0,0,0,,"学校黑板",False,False,0,0,0,True,False
 198173,1435,13,0,0,0,0,,"现代铁艺橱柜",False,False,0,0,0,True,False
 198174,1436,15,0,0,0,0,,"星芒节的海报2025",False,False,5,0,0,True,False
-198175,1437,15,0,0,0,0,,"ヴァレンティオンデー・ポスター2025",False,False,5,0,0,True,False
+198175,1437,15,0,0,0,0,,"恋人节海报2025",False,False,5,0,0,True,False
 198176,1438,15,0,0,0,0,,"特制与未知邂逅海报",False,False,3,0,0,True,False
 198177,1439,14,7,90,0,0,"CmnDefHousingDish_00213","星芒儿童潘趣软饮",True,False,8,4,11,True,False
 198178,1440,14,0,0,0,0,,"星芒马克杯套装",False,False,5,0,0,True,False

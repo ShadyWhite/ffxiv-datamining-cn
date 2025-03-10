@@ -541,7 +541,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 537,"强发泡水","GatheringItemLevelConvertTable#390",True,,0,0,False,0,0,65535
 538,"三重石原石","GatheringItemLevelConvertTable#390",True,,0,0,False,0,0,65535
 539,"钛铜矿","GatheringItemLevelConvertTable#400",True,,0,0,False,0,0,65535
-540,"暴风岩","GatheringItemLevelConvertTable#390",True,,0,0,False,0,5,12
+540,"暴风性岩","GatheringItemLevelConvertTable#390",True,,0,0,False,0,5,12
 541,"光耀石","GatheringItemLevelConvertTable#390",True,,0,0,False,0,5,13
 542,"地下天然水","GatheringItemLevelConvertTable#410",True,,0,0,False,0,0,65535
 543,"透锂长石原石","GatheringItemLevelConvertTable#410",True,,0,0,False,0,0,65535

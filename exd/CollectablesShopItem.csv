@@ -182,7 +182,7 @@ int32,Item,CollectablesShopItemGroup,uint16,uint32,uint16,byte,byte,Collectables
 14.56,"水泡眼","71～80级",80,0,80,1,3,"CollectablesShopRefine#47","4"
 14.57,"永暗鱼","71～80级",80,0,80,1,3,"CollectablesShopRefine#48","4"
 14.58,"斑斓菊石螺","71～80级",80,0,80,1,3,"CollectablesShopRefine#49","4"
-14.59,"鳍人族的鱼叉","71～80级",80,0,80,0,3,"CollectablesShopRefine#50","4"
+14.59,"鳍人族的渔叉","71～80级",80,0,80,0,3,"CollectablesShopRefine#50","4"
 14.60,"薄饼章鱼","71～80级",80,0,80,0,3,"CollectablesShopRefine#51","4"
 14.61,"大琉璃龙睛","71～80级",75,0,80,0,3,"CollectablesShopRefine#150","4"
 14.62,"维斯之耳","71～80级",75,0,80,0,3,"CollectablesShopRefine#151","4"

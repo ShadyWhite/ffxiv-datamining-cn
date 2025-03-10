@@ -78,5 +78,5 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 74,"待命","",True,False,False,False,3,False
 75,"浇水","",True,False,False,False,3,False
 76,"调饮","",True,False,False,False,3,False
-77,"花束を贈る","",True,False,False,False,3,False
+77,"赠送花束","",True,False,False,False,3,False
 78,"","",True,False,False,False,3,False
