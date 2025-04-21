@@ -798,11 +798,11 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 794,"火山草","GatheringItemLevelConvertTable#690",True,,0,0,False,0,5,95
 795,"光学纤维草","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
 796,"亚历山德里亚金属矿","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
-797,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-798,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-799,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-800,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-801,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+797,"新列车用润滑油","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,51
+798,"客车用内装素材","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,52
+799,"导览地图素材","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,53
+800,"业务用清洁剂素材","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,54
+801,"修复铁轨用的素材","GatheringItemLevelConvertTable#655",True,,0,70775,False,0,3,55
 802,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 803,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 804,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0

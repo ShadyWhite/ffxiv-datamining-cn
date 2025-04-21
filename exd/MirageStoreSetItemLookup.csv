@@ -1911,6 +1911,14 @@ int32,MirageStoreSetItem,MirageStoreSetItem,uint32,uint32,uint32
 44664,"MirageStoreSetItem#45569","MirageStoreSetItem#45570",0,0,0
 44665,"MirageStoreSetItem#45569","MirageStoreSetItem#45570",0,0,0
 44666,"MirageStoreSetItem#45570","MirageStoreSetItem#0",0,0,0
+44668,"MirageStoreSetItem#45571","MirageStoreSetItem#45572",0,0,0
+44669,"MirageStoreSetItem#45571","MirageStoreSetItem#0",0,0,0
+44670,"MirageStoreSetItem#45571","MirageStoreSetItem#45572",0,0,0
+44671,"MirageStoreSetItem#45571","MirageStoreSetItem#0",0,0,0
+44672,"MirageStoreSetItem#45571","MirageStoreSetItem#0",0,0,0
+44673,"MirageStoreSetItem#45572","MirageStoreSetItem#0",0,0,0
+44674,"MirageStoreSetItem#45572","MirageStoreSetItem#0",0,0,0
+44675,"MirageStoreSetItem#45572","MirageStoreSetItem#0",0,0,0
 44676,"MirageStoreSetItem#45573","MirageStoreSetItem#0",0,0,0
 44677,"MirageStoreSetItem#45573","MirageStoreSetItem#0",0,0,0
 44678,"MirageStoreSetItem#45573","MirageStoreSetItem#0",0,0,0

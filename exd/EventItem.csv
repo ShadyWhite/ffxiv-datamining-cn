@@ -3707,8 +3707,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003703,"装着货款的皮袋",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,"奇迹之药",0,"normal/item_start",0
 2003704,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003705,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003706,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003707,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003706,"面试宣传单",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"第二代干部面试",0,"normal/item_start",0
+2003707,"不明飞行物体的插画",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"调查员的行踪",0,"normal/item_start",0
 2003708,"碧绿芦苇",0,"",0,0,1,0,0,False,"","ui/icon/025000/025035.tex","",5,1," 开拓！通往上游水域之路",0,"normal/item_start",0
 2003709,"钥匙卡",0,"",0,0,1,0,0,False,"","ui/icon/020000/020961.tex","",1,1,"在废弃的实验站中",0,"normal/item_start",0
 2003710,"崇灵之民的裁缝工具",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"了解祖灵",0,"normal/item_start",0
@@ -3733,4 +3733,4 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003729,"生息红木的种子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025023.tex","",3,1," 香料库存告急",0,"normal/item_start",0
 2003730,"特制盒饭",0,"",0,0,1,0,0,False,"","ui/icon/021000/021005.tex","",1,1," 饿肚子救星",0,"normal/item_start",0
 2003731,"伞的素材",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"彩蛋狩猎与飘在空中的装饰彩蛋",0,"normal/item_start",0
-2003732,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003732,"感恩大酬宾的装饰品",0,"",0,0,1,0,0,False,"","ui/icon/052000/052546.tex","",3,1,"珠串万货街感恩大酬宾",0,"normal/item_start",0

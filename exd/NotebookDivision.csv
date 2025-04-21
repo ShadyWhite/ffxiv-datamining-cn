@@ -105,7 +105,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1060,"珠串万货街交易","职业任务",90,255,"果汁店的倒闭危机",90,False,False,False,False,False,False,False,True,True
 1061,"秘籍：第11卷","秘籍",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
-1063,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1063,"尼托维凯","老主顾交易",90,255,"尼托维凯的老主顾",1,False,True,True,True,True,True,True,True,True
 1064,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"库尔札斯","传承录",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"龙堡","传承录",255,50,,11,False,True,True,True,True,True,True,True,True

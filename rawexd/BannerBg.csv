@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Image,Icon,,UnlockCondition,,,SortKey,Name
+#,Image,Icon,,UnlockCondition,,,,SortKey
 int32,Image,Image,byte,BannerCondition,uint16,uint16,uint16,str
 0,0,82091,0,0,0,0,0,"无"
 1,190002,82091,1,1,0,0,1,"灰色"

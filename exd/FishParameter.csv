@@ -1433,11 +1433,11 @@ int32,str,str,str,str,Row,GatheringItemLevelConvertTable,byte,uint16,bit&01,Fish
 1429,"拥有健壮而发达的鱼鳍，无论怎样的角落都能穿行自如。见它在高速游动时左躲右闪避开漂流垃圾的样子就好像是一道闪电，人们便给它起了现在的名字。","闪电般迅捷的黑影划破了水面！","闪电一般迅捷的黑影不见了……","钓起了闪电般迅捷的黑影！","雷流鳟","GatheringItemLevelConvertTable#700",0,7000,True,"河川","终流地","鱼类传承录·亚历山德里亚篇",True,1145
 1430,"身上长满了永护塔显示装置用的像素一样的花纹，若是水中有电流通过，体色甚至还会有不同变化。","","","","像素鳅","GatheringItemLevelConvertTable#700",0,7000,True,"湖泊","居住区域","鱼类传承录·亚历山德里亚篇",True,1145
 1431,"这种畅游于南北图拉尔间的云海中的大型鱼拥有风帆一般的背鳍和尖锐的吻部。当地人很喜欢它云朵一样柔软的鱼肉，是最受人喜爱的海鲜之一。","","","","云旗鱼","GatheringItemLevelConvertTable#700",0,7000,True,"云海","佐戈海峡东侧","鱼类传承录·萨卡图拉尔篇",True,0
-1432,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
-1433,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
-1434,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
-1435,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
-1436,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
+1432,"体表覆有油脂丰富的黏膜，可以灵活适应水温变化。从它身上提取出的鱼油能够制成品质优良的润滑油，因而被工匠和技师们视若珍宝。","","","","油带鱼","GatheringItemLevelConvertTable#645",0,7000,False,"湖泊","水没羽毛树林",,True,0
+1433,"蓝咬鹃天坑湖中的莹润核状生物。它柔和的光犹如群星闪烁，是乌托姆地平线的人们珍贵的光源。","","","","蓝咬鹃光核","GatheringItemLevelConvertTable#645",0,7000,False,"湖泊","蓝咬鹃天坑",,True,0
+1434,"与章鱼同源的生物，遇到危险就会喷出大量浓墨保护自己。它的墨汁可以制成防水墨水，是绘制航海图不可或缺的利器。","","","","墨章鱼","GatheringItemLevelConvertTable#650",0,7000,False,"海岸","船头小屋",,True,0
+1435,"拥有复杂的海绵质网状纤维组织的生物，多栖息于淡水中。去除活体组织后的柔软骨骼可以制成发泡能力优越的清洁布。","","","","蜂巢海绵","GatheringItemLevelConvertTable#650",0,7000,False,"河川","活船水路上游",,True,0
+1436,"栖息于海水天坑的厚壳牡蛎。将其外壳粉碎后可以制成一种疏水性优越的建筑材料，这种材料可以大大延长建筑物的寿命。","","","","天坑牡蛎","GatheringItemLevelConvertTable#655",0,7000,False,"湖泊","涩水天坑",,True,0
 1437,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
 1438,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
 1439,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"海岸","未知钓场",,False,0
