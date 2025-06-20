@@ -11,7 +11,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 7,"战斗",True,"ui/icon/150000/chs/150931.tex","ui/icon/150000/chs/150082.tex","ui/icon/150000/chs/150083.tex","ui/icon/150000/chs/150084.tex","","ui/icon/150000/chs/150931.tex","ui/icon/150000/chs/150932.tex","ui/icon/150000/chs/150933.tex","ui/icon/150000/chs/150934.tex","ui/icon/150000/chs/150084.tex","战斗",1
 8,"打倒敌人的经验值与报酬",True,"ui/icon/151000/chs/151391.tex","","","","","","","","","","战斗",2
 9,"交纳所需道具",True,"ui/icon/150000/chs/150921.tex","","","","","ui/icon/150000/chs/150922.tex","","","","","通常任务",13
-10,"职业转换",True,"ui/icon/150000/chs/150111.tex","ui/icon/150000/chs/150112.tex","","","","","","","","","冒险者基础",8
+10,"职业转换",True,"ui/icon/150000/chs/150111.tex","ui/icon/150000/chs/150112.tex","","","","","","","","","冒险者基础",9
 11,"领取报酬",False,"ui/icon/150000/chs/150811.tex","","","","","ui/icon/150000/chs/150812.tex","","","","","通常任务",5
 12,"接受任务",False,"ui/icon/150000/chs/150121.tex","","","","","ui/icon/150000/chs/150121.tex","","","","","通常任务",2
 13,"关于返回",True,"ui/icon/150000/chs/150131.tex","ui/icon/150000/chs/150132.tex","","","","ui/icon/150000/chs/150131.tex","ui/icon/150000/chs/150133.tex","","","","移动方式",1
@@ -23,7 +23,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 19,"都市传送网",True,"ui/icon/150000/chs/150191.tex","","","","","","","","","","移动方式",3
 20,"关于商店",True,"ui/icon/150000/chs/150201.tex","ui/icon/150000/chs/150202.tex","","","","ui/icon/150000/chs/150201.tex","ui/icon/150000/chs/150202.tex","","","","道具",5
 21,"关于收藏柜",True,"ui/icon/151000/chs/151521.tex","ui/icon/151000/chs/151522.tex","","","","","","","","","装备",11
-22,"莫古力速递",True,"ui/icon/150000/chs/150221.tex","ui/icon/150000/chs/150222.tex","","","","ui/icon/150000/chs/150221.tex","ui/icon/150000/chs/150222.tex","","","","冒险者基础",7
+22,"莫古力速递",True,"ui/icon/150000/chs/150221.tex","ui/icon/150000/chs/150222.tex","","","","ui/icon/150000/chs/150221.tex","ui/icon/150000/chs/150222.tex","","","","冒险者基础",8
 23,"寻找良材",True,"ui/icon/150000/chs/150231.tex","ui/icon/150000/chs/150232.tex","ui/icon/150000/chs/150233.tex","","","ui/icon/150000/chs/150231.tex","ui/icon/150000/chs/150232.tex","ui/icon/150000/chs/150233.tex","","","采集",3
 24,"采集",True,"ui/icon/150000/chs/150241.tex","ui/icon/150000/chs/150242.tex","ui/icon/150000/chs/150243.tex","","","","","","","","采集",4
 25,"采集方法",True,"ui/icon/150000/chs/150251.tex","ui/icon/150000/chs/150252.tex","ui/icon/150000/chs/150253.tex","","","","","","","","采集",5
@@ -37,7 +37,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 33,"领取行会理符任务",True,"ui/icon/150000/chs/150331.tex","ui/icon/150000/chs/150332.tex","","","","","","","","","理符任务",1
 34,"行会理符任务",True,"ui/icon/150000/chs/150341.tex","ui/icon/150000/chs/150342.tex","ui/icon/150000/chs/150343.tex","","","ui/icon/150000/chs/150341.tex","ui/icon/150000/chs/150342.tex","ui/icon/150000/chs/150343.tex","","","理符任务",2
 35,"调节任务难度",True,"ui/icon/150000/chs/150351.tex","ui/icon/150000/chs/150352.tex","","","","","","","","","理符任务",3
-36,"休息区",True,"ui/icon/150000/chs/150361.tex","ui/icon/150000/chs/150362.tex","ui/icon/150000/chs/150363.tex","ui/icon/150000/chs/150364.tex","","ui/icon/150000/chs/150361.tex","ui/icon/150000/chs/150362.tex","ui/icon/150000/chs/150363.tex","ui/icon/150000/chs/150364.tex","","冒险者基础",6
+36,"休息区",True,"ui/icon/150000/chs/150361.tex","ui/icon/150000/chs/150362.tex","ui/icon/150000/chs/150363.tex","ui/icon/150000/chs/150364.tex","","","","","","","冒险者基础",7
 37,"兵装库",True,"ui/icon/151000/chs/151141.tex","ui/icon/151000/chs/151142.tex","ui/icon/151000/chs/151143.tex","","","ui/icon/151000/chs/151141.tex","ui/icon/151000/chs/151142.tex","ui/icon/151000/chs/151143.tex","","","装备",3
 38,"转职",True,"ui/icon/150000/chs/150101.tex","ui/icon/150000/chs/150102.tex","","","","","","","","","冒险者基础",4
 39,"情感表现",True,"ui/icon/150000/chs/150381.tex","ui/icon/150000/chs/150382.tex","ui/icon/150000/chs/150383.tex","","","ui/icon/150000/chs/150381.tex","ui/icon/150000/chs/150382.tex","","","","冒险者基础",3
@@ -95,7 +95,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 91,"玩家部队",True,"ui/icon/150000/chs/150961.tex","ui/icon/150000/chs/150962.tex","ui/icon/150000/chs/150963.tex","","","","","","","","部队",1
 92,"极限技",True,"ui/icon/150000/chs/150971.tex","ui/icon/150000/chs/150972.tex","ui/icon/150000/chs/150973.tex","ui/icon/150000/chs/150974.tex","","","","","","","战斗",13
 93,"等级同步",True,"ui/icon/150000/chs/150981.tex","ui/icon/150000/chs/150982.tex","ui/icon/150000/chs/150983.tex","","","","","","","","使命任务",4
-94,"特职",True,"ui/icon/150000/chs/150991.tex","ui/icon/150000/chs/150992.tex","ui/icon/150000/chs/150993.tex","","","","","","","","冒险者基础",9
+94,"特职",True,"ui/icon/150000/chs/150991.tex","ui/icon/150000/chs/150992.tex","ui/icon/150000/chs/150993.tex","","","","","","","","冒险者基础",10
 95,"给装备染色",True,"ui/icon/151000/chs/151001.tex","ui/icon/151000/chs/151002.tex","ui/icon/151000/chs/151003.tex","ui/icon/151000/chs/151004.tex","","","","","","","装备",8
 96,"带上陆行鸟一起战斗",True,"ui/icon/151000/chs/151151.tex","ui/icon/151000/chs/151152.tex","","","","","","","","","战斗",21
 97,"生产魔晶石",True,"ui/icon/151000/chs/151021.tex","ui/icon/151000/chs/151022.tex","ui/icon/151000/chs/151023.tex","","","","","","","","装备",21
@@ -148,7 +148,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 144,"房屋与门牌",True,"ui/icon/151000/chs/151561.tex","ui/icon/151000/chs/151562.tex","","","","","","","","","冒险者基础",17
 145,"关于团队任务",True,"ui/icon/151000/chs/151571.tex","ui/icon/151000/chs/151572.tex","","","","","","","","","使命任务",40
 146,"每周取得报酬的限制",True,"ui/icon/151000/chs/151581.tex","ui/icon/151000/chs/151582.tex","ui/icon/151000/chs/151583.tex","","","","","","","","使命任务",41
-147,"关于队员招募功能",True,"ui/icon/151000/chs/151591.tex","ui/icon/151000/chs/151592.tex","ui/icon/151000/chs/151593.tex","","","ui/icon/151000/chs/151591.tex","ui/icon/151000/chs/151592.tex","ui/icon/151000/chs/151593.tex","","","冒险者基础",5
+147,"关于队员招募功能",True,"ui/icon/151000/chs/151591.tex","ui/icon/151000/chs/151592.tex","ui/icon/151000/chs/151593.tex","","","ui/icon/151000/chs/151591.tex","ui/icon/151000/chs/151592.tex","ui/icon/151000/chs/151593.tex","","","冒险者基础",6
 148,"关于隐藏资源",True,"ui/icon/151000/chs/151601.tex","ui/icon/151000/chs/151602.tex","","","","","","","","","采集",19
 149,"关于陈旧的地图",True,"ui/icon/151000/chs/151611.tex","ui/icon/151000/chs/151612.tex","ui/icon/151000/chs/151613.tex","","","","","","","","道具",31
 150,"解读陈旧的地图",True,"ui/icon/151000/chs/151621.tex","ui/icon/151000/chs/151622.tex","","","","","","","","","道具",32
@@ -205,7 +205,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 201,"欢迎来到金碟游乐场",True,"ui/icon/152000/chs/152131.tex","ui/icon/152000/chs/152132.tex","ui/icon/152000/chs/152133.tex","","","","","","","","金碟游乐场",1
 202,"竞赛参加条件",True,"ui/icon/152000/chs/152141.tex","ui/icon/152000/chs/152142.tex","ui/icon/152000/chs/152143.tex","","","","","","","","金碟游乐场",3
 203,"关于专家",True,"ui/icon/152000/chs/152151.tex","ui/icon/152000/chs/152152.tex","","","","","","","","","制作",21
-204,"交纳收藏品",True,"ui/icon/152000/chs/152161.tex","","","","","","","","","","道具",41
+204,"",False,"","","","","","","","","","","无",0
 205,"展翅高飞",True,"ui/icon/152000/chs/152171.tex","ui/icon/152000/chs/152172.tex","","","","ui/icon/152000/chs/152171.tex","ui/icon/152000/chs/152172.tex","","","","移动方式",20
 206,"",False,"","","","","","","","","","","无",0
 207,"",False,"","","","","","","","","","","无",0
@@ -245,7 +245,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 241,"刺鱼的准备",True,"ui/icon/152000/chs/152521.tex","","","","","","","","","","钓鱼",30
 242,"探索渔场",True,"ui/icon/152000/chs/152531.tex","ui/icon/152000/chs/152532.tex","ui/icon/152000/chs/152533.tex","","","","","","","","钓鱼",31
 243,"",False,"","","","","","","","","","","无",0
-244,"职能技能",True,"ui/icon/152000/chs/152551.tex","ui/icon/152000/chs/152552.tex","","","","ui/icon/152000/chs/152551.tex","ui/icon/152000/chs/152552.tex","","","","战斗",10
+244,"职能技能",True,"ui/icon/152000/chs/152551.tex","ui/icon/152000/chs/152552.tex","","","","","","","","","战斗",10
 245,"演奏一曲试试看吧♪",True,"ui/icon/152000/chs/152571.tex","","","","","","","","","","冒险者基础",45
 246,"挑战时尚品鉴",True,"ui/icon/152000/chs/152581.tex","ui/icon/152000/chs/152582.tex","ui/icon/152000/chs/152583.tex","ui/icon/152000/chs/152584.tex","","","","","","","装备",30
 247,"活用投影台",True,"ui/icon/152000/chs/152591.tex","ui/icon/152000/chs/152592.tex","","","","","","","","","装备",26
@@ -254,9 +254,9 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 250,"使用投影模板进行武具投影",True,"ui/icon/152000/chs/152621.tex","","","","","","","","","","装备",29
 251,"探索禁地优雷卡的准备",True,"ui/icon/152000/chs/152631.tex","ui/icon/152000/chs/152632.tex","","","","","","","","","使命任务",50
 252,"陆行鸟鞍囊",True,"ui/icon/152000/chs/152641.tex","ui/icon/152000/chs/152642.tex","","","","","","","","","道具",18
-253,"关于任务回顾",True,"ui/icon/152000/chs/152651.tex","ui/icon/152000/chs/152652.tex","","","","","","","","","使命任务",56
-254,"任务记录方法",True,"ui/icon/152000/chs/152661.tex","ui/icon/152000/chs/152662.tex","ui/icon/152000/chs/152663.tex","ui/icon/152000/chs/152664.tex","","ui/icon/152000/chs/152661.tex","ui/icon/152000/chs/152662.tex","ui/icon/152000/chs/152663.tex","ui/icon/152000/chs/152665.tex","","使命任务",57
-255,"播放任务回顾",True,"ui/icon/152000/chs/152671.tex","","","","","","","","","","使命任务",58
+253,"关于任务回顾",True,"ui/icon/152000/chs/152651.tex","ui/icon/152000/chs/152652.tex","","","","","","","","","使命任务",57
+254,"任务记录方法",True,"ui/icon/152000/chs/152661.tex","ui/icon/152000/chs/152662.tex","ui/icon/152000/chs/152663.tex","ui/icon/152000/chs/152664.tex","","ui/icon/152000/chs/152661.tex","ui/icon/152000/chs/152662.tex","ui/icon/152000/chs/152663.tex","ui/icon/152000/chs/152665.tex","","使命任务",58
+255,"播放任务回顾",True,"ui/icon/152000/chs/152671.tex","","","","","","","","","","使命任务",59
 256,"探索幸福兔的财宝",True,"ui/icon/152000/chs/152701.tex","ui/icon/152000/chs/152702.tex","","","","","","","","","使命任务",51
 257,"关于交流簿",True,"ui/icon/152000/chs/152681.tex","ui/icon/152000/chs/152682.tex","ui/icon/152000/chs/152683.tex","ui/icon/152000/chs/152684.tex","","","","","","","冒险者基础",23
 258,"关于老主顾换装",True,"ui/icon/152000/chs/152691.tex","ui/icon/152000/chs/152692.tex","","","","","","","","","使命任务",61
@@ -289,3 +289,11 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 285,"关于面部配饰",True,"ui/icon/152000/chs/152951.tex","ui/icon/152000/chs/152952.tex","","","","","","","","","冒险者基础",29
 286,"关于主线向导",True,"ui/icon/152000/chs/152961.tex","ui/icon/152000/chs/152962.tex","","","","","","","","","通常任务",7
 287,"关于特殊配方",True,"ui/icon/152000/chs/152971.tex","ui/icon/152000/chs/152972.tex","","","","","","","","","制作",22
+288,"",False,"","","","","","","","","","","无",0
+289,"",False,"","","","","","","","","","","无",0
+290,"",False,"","","","","","","","","","","无",0
+291,"",False,"","","","","","","","","","","无",0
+292,"",False,"","","","","","","","","","","无",0
+293,"",False,"","","","","","","","","","","无",0
+294,"",False,"","","","","","","","","","","无",0
+295,"",False,"","","","","","","","","","","无",0

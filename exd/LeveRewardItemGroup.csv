@@ -1165,14 +1165,14 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1161,"雷之水晶",110,False,"风之水晶",110,False,"犎牛哔叽",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1162,"雷之水晶",90,False,"风之水晶",90,False,"落雷绢",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1163,"雷之水晶",112,False,"风之水晶",112,False,"落雷绢",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1164,"水之水晶",36,False,"雷之水晶",36,False,"高级枫树树液",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1164,"水之水晶",36,False,"雷之水晶",36,False,"高级枫树树汁",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1165,"水之水晶",43,False,"雷之水晶",43,False,"毒蛙的粘液",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1166,"水之水晶",37,False,"雷之水晶",37,False,"风芹",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1167,"水之水晶",44,False,"雷之水晶",44,False,"小亚波伦的甲壳",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1168,"水之水晶",38,False,"雷之水晶",38,False,"亚克特尔天然水",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1169,"水之水晶",45,False,"雷之水晶",45,False,"小鸣鼠的刃爪",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1170,"水之水晶",86,False,"雷之水晶",86,False,"毒蛙的粘液",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1171,"水之水晶",104,False,"雷之水晶",104,False,"高级枫树树液",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1171,"水之水晶",104,False,"雷之水晶",104,False,"高级枫树树汁",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1172,"水之水晶",87,False,"雷之水晶",87,False,"克扎玛乌甘菊",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1173,"水之水晶",106,False,"雷之水晶",106,False,"桉叶",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1174,"水之水晶",88,False,"雷之水晶",88,False,"小鸣鼠的刃爪",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

@@ -218,6 +218,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 46.4,9627908,1," 去寻找梦想吧！",0,False,1," 发明帅气的机器吧！",0,False,1," 来尝试烹饪吧！",0,False,1," 用情感来创作吧！",0,False,1," 开设播音电台吧！",0,False,0,,0,False,0,0,0,False
 46.5,9808974,1,"月球上的“剑”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.6,9838150,2,"虚无界的月球",2,False,1,"月龙归来",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.7,11534096,2,"重逢与新的计划！",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.0,8964469,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.1,8998095,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.2,8998096,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -269,6 +270,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 53.4,10429375,2,"兄长之责",255,False,2,"拯救乌克·拉玛特",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.5,11140956,1," 新事业！图拉尔旅行公司",0,False,1," 来访！第一位游客",0,False,1," 开拓！通往上游水域之路",0,False,1," 急聘！旅行公司的新同伴",0,False,1," 国宾？！来自外国的游客",0,False,0,,0,False,0,0,0,False
 54.0,10614014,2,"穿越冥境隧路",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+54.1,11741016,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"守护者还是毁灭者",3,False,2,"金曦之遗辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"金曦之遗辉",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.2,10968008,2,"困惑不解的居民们",2,False,2,"与未知邂逅",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -285,3 +287,4 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 58.4,10596151,2,"金曦之遗辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.5,10109854,2,"亚历山德里亚王国骑士",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+59.0,11622293,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

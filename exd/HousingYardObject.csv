@@ -342,3 +342,10 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131424,327,17,0,0,0,,"佐莫石灯笼",False,False,True,0,0,0,False,True
 131425,328,17,0,0,0,,"加加财富树",False,False,True,0,0,0,False,True
 131426,299,17,0,0,0,,"特制陆行鸟照明灌木",False,False,True,3,0,0,False,True
+131427,170,17,0,0,0,,"特制仙人刺先生时钟",False,False,True,3,0,0,False,True
+131428,191,17,0,0,0,,"东境园艺树",False,False,True,0,0,0,False,True
+131429,329,17,0,0,0,,"花店花园大门",False,False,True,0,0,0,False,True
+131430,330,17,0,0,0,,"砖石圈",False,False,True,0,0,0,False,True
+131431,331,17,0,0,0,,"四分树篱",False,False,True,0,0,0,False,True
+131432,332,17,0,0,0,,"巧儿陆行鸟喷泉",False,False,True,0,0,0,False,True
+131434,335,17,0,0,0,,"宇宙路灯",False,False,True,0,0,0,False,True

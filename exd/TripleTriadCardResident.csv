@@ -427,13 +427,22 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 423,422,8,5,5,8,"TripleTriadCardRarity#4","",800,39,407,0,True,10,"广域交易商 办事员PX-0027","Level#10417540","踏上永远的旅途"
 424,423,5,10,9,5,"TripleTriadCardRarity#5","",0,47,408,0,True,11,"街头决斗者9",,"决斗！九宫幻卡"
 425,424,9,6,3,10,"TripleTriadCardRarity#5","",0,47,409,0,True,11,"九宫卡手13",,"金曦之遗辉"
-426,425,6,5,4,4,"TripleTriadCardRarity#2","",300,8,411,0,False,3,"废弃据点玉韦亚瓦塔实验站",,"古鲁加的冒险"
-427,426,7,4,4,8,"TripleTriadCardRarity#3","",500,23,412,0,False,10,"卡片兑换员","Level#5581330","前往朱诺"
-428,427,8,4,7,4,"TripleTriadCardRarity#3","",500,23,413,0,False,6,"帕库凯","Level#10968710","前往朱诺"
-429,428,4,7,8,4,"TripleTriadCardRarity#3","",500,23,414,0,False,6,"帕库凯","Level#10968710","前往朱诺"
-430,429,4,4,8,7,"TripleTriadCardRarity#3","",500,23,415,0,False,6,"密泽","Level#10967716","前往朱诺"
-431,430,4,8,4,7,"TripleTriadCardRarity#3","",500,23,416,0,False,6,"密泽","Level#10967716","前往朱诺"
-432,431,9,7,2,7,"TripleTriadCardRarity#4","",800,32,417,0,False,10,"广域交易商 米特佩","Level#10417500","金曦之遗辉"
-433,432,8,9,6,2,"TripleTriadCardRarity#4","",800,32,418,0,False,10,"广域交易商 办事员PX-0027","Level#10417540","金曦之遗辉"
-434,433,6,8,5,8,"TripleTriadCardRarity#4","",800,33,419,0,False,10,"卡片兑换员","Level#5581330","前往朱诺"
-435,434,10,4,4,10,"TripleTriadCardRarity#5","",1500,41,420,0,False,2,"朱诺：第一巡行",,"交错的世界"
+426,425,6,5,4,4,"TripleTriadCardRarity#2","",300,8,411,0,True,3,"废弃据点玉韦亚瓦塔实验站",,"古鲁加的冒险"
+427,426,7,4,4,8,"TripleTriadCardRarity#3","",500,23,412,0,True,10,"卡片兑换员","Level#5581330","前往朱诺"
+428,427,8,4,7,4,"TripleTriadCardRarity#3","",500,23,413,0,True,6,"帕库凯","Level#10968710","前往朱诺"
+429,428,4,7,8,4,"TripleTriadCardRarity#3","",500,23,414,0,True,6,"帕库凯","Level#10968710","前往朱诺"
+430,429,4,4,8,7,"TripleTriadCardRarity#3","",500,23,415,0,True,6,"密泽","Level#10967716","前往朱诺"
+431,430,4,8,4,7,"TripleTriadCardRarity#3","",500,23,416,0,True,6,"密泽","Level#10967716","前往朱诺"
+432,431,9,7,2,7,"TripleTriadCardRarity#4","",800,32,417,0,True,10,"广域交易商 米特佩","Level#10417500","金曦之遗辉"
+433,432,8,9,6,2,"TripleTriadCardRarity#4","",800,32,418,0,True,10,"广域交易商 办事员PX-0027","Level#10417540","金曦之遗辉"
+434,433,6,8,5,8,"TripleTriadCardRarity#4","",800,33,419,0,True,10,"卡片兑换员","Level#5581330","前往朱诺"
+435,434,10,4,4,10,"TripleTriadCardRarity#5","",1500,41,420,0,True,2,"朱诺：第一巡行",,"交错的世界"
+436,435,3,5,4,6,"TripleTriadCardRarity#2","",300,8,421,0,False,3,"王城古迹永护塔底",,"前往塔底"
+437,436,8,6,3,5,"TripleTriadCardRarity#3","",500,31,422,0,False,6,"玛勒沃伦特·威塞尔","Level#11738323","决斗！九宫幻卡"
+438,437,7,7,7,7,"TripleTriadCardRarity#4","",800,32,423,0,False,3,"泽莲尼娅歼灭战",,"前往塔底"
+439,438,7,1,10,9,"TripleTriadCardRarity#5","",1500,40,424,0,False,3,"阿卡狄亚登天斗技场 中量级4",,"孤高独狼"
+440,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+441,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+442,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+443,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+444,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

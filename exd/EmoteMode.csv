@@ -80,3 +80,7 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 76,"调饮","",True,False,False,False,3,False
 77,"赠送花束","",True,False,False,False,3,False
 78,"","",True,False,False,False,3,False
+79,"晕头转向","",True,False,False,False,3,False
+80,"气得发抖","",True,False,False,False,3,False
+81,"玩神典石","",True,False,False,False,3,False
+82,"认真看书","",True,False,False,False,3,False
