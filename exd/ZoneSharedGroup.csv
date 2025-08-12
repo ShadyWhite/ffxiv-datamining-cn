@@ -21,8 +21,8 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 2.6,8468226,1,"威尔布兰德扬帆起航",0,False,2,"月亮的囚徒",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 3.0,5889398,2,"玛托雅的洞穴",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 3.1,5889399,2,"田园郡",1,True,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-3.2,5472828,1,"苍穹之禁城",0,False,1,"死斗的终焉",0,False,2,"小小世界的大事件",4,False,2,"因果的分割线",2,False,2,"加速的危机",4,False,2,"神圣审判",4,False,0,0,0,False
-3.3,5935225,1,"苍穹之禁城",0,False,2,"迈向毁灭",6,False,1,"死斗的终焉",0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+3.2,5472828,1,"苍穹之禁城",0,False,1,"死斗的终结",0,False,2,"小小世界的大事件",4,False,2,"因果的分割线",2,False,2,"加速的危机",4,False,2,"神圣审判",4,False,0,0,0,False
+3.3,5935225,1,"苍穹之禁城",0,False,2,"迈向毁灭",6,False,1,"死斗的终结",0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 3.4,5935260,0,,0,False,2,"小小世界的大事件",4,False,2,"因果的分割线",2,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 3.5,5935263,0,,0,False,2,"加速的危机",4,False,2,"神圣审判",4,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 3.6,5904772,2,"神圣审判",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -36,7 +36,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 6.0,5865967,3,,0,True,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 6.1,5865980,3,,0,True,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 7.0,5907817,2,"玛托雅的洞穴",255,True,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-7.1,5932745,1,"苍穹之禁城",0,False,1,"死斗的终焉",0,False,2,"小小世界的大事件",4,False,2,"因果的分割线",2,False,2,"加速的危机",4,False,2,"神圣审判",4,False,0,0,0,False
+7.1,5932745,1,"苍穹之禁城",0,False,1,"死斗的终结",0,False,2,"小小世界的大事件",4,False,2,"因果的分割线",2,False,2,"加速的危机",4,False,2,"神圣审判",4,False,0,0,0,False
 7.2,6422946,1,"第一个家",0,False,1,"理想的每一天",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 7.3,6658903,2,"神圣审判",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 7.4,6973210,1,"她和她的菜园",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -155,7 +155,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 29.1,7811622,2,"点灯之地",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 29.2,7852579,2,"暗影之逆焰",7,False,2,"暗影之逆焰",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 30.0,7964397,1,"实录数据002“点亮工房的工匠”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-30.1,7964396,1,"实录数据003“修复羁绊的工匠”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+30.1,7964396,1,"实录数据003“修复思念的工匠”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 30.2,8376775,2,"异界强者",3,False,2,"起始与终结之光",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 30.3,9662171,1,"贴近工匠需求的新工具",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 31.0,8047917,2,"谎言的泡沫",255,False,2,"熄灭最后的光",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -270,7 +270,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 53.4,10429375,2,"兄长之责",255,False,2,"拯救乌克·拉玛特",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.5,11140956,1," 新事业！图拉尔旅行公司",0,False,1," 来访！第一位游客",0,False,1," 开拓！通往上游水域之路",0,False,1," 急聘！旅行公司的新同伴",0,False,1," 国宾？！来自外国的游客",0,False,0,,0,False,0,0,0,False
 54.0,10614014,2,"穿越冥境隧路",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-54.1,11741016,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,0,,0,False,0,0,0,False
+54.1,11741016,1," 玛穆克的希望之种",0,False,1," 朵普罗族的绝活",0,False,1," 霍比格族归乡",0,False,1," 布涅瓦族的术式",0,False,1," 亚克特尔树海的新名菜",0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"守护者还是毁灭者",3,False,2,"金曦之遗辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"金曦之遗辉",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.2,10968008,2,"困惑不解的居民们",2,False,2,"与未知邂逅",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -287,4 +287,4 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 58.4,10596151,2,"金曦之遗辉",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.5,10109854,2,"亚历山德里亚王国骑士",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-59.0,11622293,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+59.0,11622293,1,"古代的战斗技术",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

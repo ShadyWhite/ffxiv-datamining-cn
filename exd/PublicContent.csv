@@ -53,4 +53,5 @@ int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,PublicCo
 42,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#27",48,126,0,0,18,"PublicContentCutscene#0",0
 43,10,0,"ui/icon/060000/060848.tex","","","","PublicContentCutscene#0",0,0,"金碟巨豆中心",,54,146,0,0,1,"PublicContentCutscene#50029",0
 44,0,0,,"","","","PublicContentCutscene#0",0,0,"",,0,0,0,0,0,"PublicContentCutscene#0",0
-45,0,0,,"","","","PublicContentCutscene#0",0,0,"",,0,0,0,0,0,"PublicContentCutscene#0",0
+45,11,180,"ui/icon/060000/060808.tex","","让我……让我吸食你们的脑髓……","我们相亲相近的三兄弟会把你们打得找不着北呼咻！
+做好心理准备吧呼咻！",,11510437,10968708,"蜃景幻界新月岛 南征之章",,69,192,0,0,18,"PublicContentCutscene#0",36

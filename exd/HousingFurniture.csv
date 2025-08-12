@@ -1566,6 +1566,14 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198226,1495,12,12,3,0,0,"HouFurWallpaperPartition_00437","简装空白隔离墙",False,False,0,8,15,True,False
 198227,1496,12,12,3,0,0,"HouFurWallpaperPartition_00437","简装空白隔板门",False,False,0,8,15,True,False
 198228,1150,12,0,0,0,0,,"制图桌",False,False,0,0,0,True,False
+198229,1497,14,7,92,0,0,"CmnDefHousingDish_00213","森林的重量",True,False,8,4,11,True,False
+198230,1498,14,0,0,106,0,,"天体晶球",False,False,0,0,0,True,False
+198231,1499,14,0,0,0,0,,"新月奖杯",False,False,0,0,0,True,False
+198232,1500,13,0,0,0,0,,"隐者的桌子",False,False,0,0,0,True,False
+198233,1501,12,0,0,0,0,,"隐者的椅子",False,False,0,0,0,True,False
+198234,1502,14,0,0,0,0,,"新月岛的石板",False,False,0,0,0,True,False
+198235,1503,12,0,0,0,0,,"知见水晶（复制品）",False,False,0,0,0,True,False
+198236,1504,15,0,0,0,0,,"新月岛全景图",False,False,0,0,0,True,False
 198237,1514,12,0,0,0,0,,"宇宙座椅",False,False,0,0,0,True,False
 198238,1515,13,0,0,0,0,,"宇宙圆桌",False,False,0,0,0,True,False
 198239,1516,14,0,0,0,0,,"宇宙桌灯",False,False,0,0,0,True,False

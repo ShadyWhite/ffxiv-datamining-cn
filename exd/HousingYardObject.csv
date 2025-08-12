@@ -348,4 +348,5 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131430,330,17,0,0,0,,"砖石圈",False,False,True,0,0,0,False,True
 131431,331,17,0,0,0,,"四分树篱",False,False,True,0,0,0,False,True
 131432,332,17,0,0,0,,"巧儿陆行鸟喷泉",False,False,True,0,0,0,False,True
+131433,334,17,0,0,0,,"魔石碑",False,False,True,0,0,0,False,True
 131434,335,17,0,0,0,,"宇宙路灯",False,False,True,0,0,0,False,True
