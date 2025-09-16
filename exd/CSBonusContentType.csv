@@ -40,8 +40,14 @@ int32,ContentType,Addon,Addon,Addon,Addon,Image,uint32,Quest,uint32,uint32,uint3
 18,"开拓无人岛","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
 <Value>IntegerParameter(7)</Value>级","在<Sheet(ContentType,IntegerParameter(2),0)/>采集开拓素材<Value>IntegerParameter(8)</Value>次。","","ui/icon/101000/101184.tex",9323110,,70179,0,0
 19,"特殊迷宫探索","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
-<Value>IntegerParameter(7)</Value>级","完成<Value>IntegerParameter(8)</Value>次<Sheet(InstanceContent,IntegerParameter(5),3)/>。","","ui/icon/111000/111042.tex",0,,70182,0,0
+<Value>IntegerParameter(7)</Value>级","完成<Value>IntegerParameter(8)</Value>次<Sheet(InstanceContent,IntegerParameter(5),3)/>。","","ui/icon/111000/111042.tex",0,,0,0,0
 20,"老主顾交易","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
 <Value>IntegerParameter(7)</Value>级","完成任意<Value>IntegerParameter(8)</Value>次老主顾交易。","","ui/icon/111000/111048.tex",0,,67634,0,0
 21,"友好部族任务","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
 <Value>IntegerParameter(7)</Value>级","完成任意<Value>IntegerParameter(8)</Value>次友好部族日常任务。","","ui/icon/111000/111049.tex",0,,66488,0,0
+22,"对战","<If(GreaterThan(IntegerParameter(1),0))>水晶冲突<Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))>水晶冲突<Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","参加水晶冲突的练习赛并留下成绩","","ui/icon/112000/112471.tex",0,,0,0,835
+23,"金碟游乐场","<If(GreaterThan(IntegerParameter(1),0))>陆行鸟竞赛<Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))>陆行鸟竞赛<Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","参加<Value>IntegerParameter(8)</Value>次陆行鸟竞赛。","","ui/icon/112000/112295.tex",0,,66101,0,0
+24,"天书奇谈","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级","收集<Value>IntegerParameter(8)</Value>个天书奇谈的印花。","","ui/icon/111000/111050.tex",6526530,,67928,0,0

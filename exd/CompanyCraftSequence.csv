@@ -31,6 +31,7 @@ int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,Co
 27,"3级战绩以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#204","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",22
 28,"3级军功以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#205","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",23
 29,"3级游戏以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#216","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",24
+30,"",0,"以太转轮","","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
 31,"3级达识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#207","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",26
 32,"3级博识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#208","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",27
 33,"3级名匠以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#209","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",28
@@ -38,7 +39,9 @@ int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,Co
 35,"3级精炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#211","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",30
 36,"3级美食以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#212","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",31
 37,"3级耐久以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#213","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",32
+38,"",0,"以太转轮","","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
 39,"3级旅人以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#215","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",34
+40,"",0,"以太转轮","","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
 500,"野马级船体",5,"飞空艇 & 潜水艇","飞空艇：船体",,"CompanyCraftPart#300","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
 501,"无敌级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图2","CompanyCraftPart#301","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
 502,"企业级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图3","CompanyCraftPart#302","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3

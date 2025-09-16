@@ -437,12 +437,22 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 433,432,8,9,6,2,"TripleTriadCardRarity#4","",800,32,418,0,True,10,"广域交易商 办事员PX-0027","Level#10417540","金曦之遗辉"
 434,433,6,8,5,8,"TripleTriadCardRarity#4","",800,33,419,0,True,10,"卡片兑换员","Level#5581330","前往朱诺"
 435,434,10,4,4,10,"TripleTriadCardRarity#5","",1500,41,420,0,True,2,"朱诺：第一巡行",,"交错的世界"
-436,435,3,5,4,6,"TripleTriadCardRarity#2","",300,8,421,0,False,3,"王城古迹永护塔底",,"前往塔底"
-437,436,8,6,3,5,"TripleTriadCardRarity#3","",500,31,422,0,False,6,"玛勒沃伦特·威塞尔","Level#11738323","决斗！九宫幻卡"
-438,437,7,7,7,7,"TripleTriadCardRarity#4","",800,32,423,0,False,3,"泽莲尼娅歼灭战",,"前往塔底"
-439,438,7,1,10,9,"TripleTriadCardRarity#5","",1500,40,424,0,False,3,"阿卡狄亚登天斗技场 中量级4",,"孤高独狼"
-440,439,8,5,8,6,"TripleTriadCardRarity#4","",800,32,425,0,False,14,,,"毁灭的文明"
-441,440,2,3,7,5,"TripleTriadCardRarity#2","",300,8,426,0,False,10,"维茹加","Level#11537749"," 辉鳞族心爱的故乡"
-442,441,7,6,2,2,"TripleTriadCardRarity#2","",300,8,427,0,False,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
-443,442,2,4,8,7,"TripleTriadCardRarity#3","兽人",500,24,428,0,False,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
+436,435,3,5,4,6,"TripleTriadCardRarity#2","",300,8,421,0,True,3,"王城古迹永护塔底",,"前往塔底"
+437,436,8,6,3,5,"TripleTriadCardRarity#3","",500,31,422,0,True,6,"玛勒沃伦特·威塞尔","Level#11738323","决斗！九宫幻卡"
+438,437,7,7,7,7,"TripleTriadCardRarity#4","",800,32,423,0,True,3,"泽莲尼娅歼灭战",,"前往塔底"
+439,438,7,1,10,9,"TripleTriadCardRarity#5","",1500,40,424,0,True,3,"阿卡狄亚登天斗技场 中量级4",,"孤高独狼"
+440,439,8,5,8,6,"TripleTriadCardRarity#4","",800,32,425,0,True,14,,,"毁灭的文明"
+441,440,2,3,7,5,"TripleTriadCardRarity#2","",300,8,426,0,True,10,"维茹加","Level#11537749"," 辉鳞族心爱的故乡"
+442,441,7,6,2,2,"TripleTriadCardRarity#2","",300,8,427,0,True,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
+443,442,2,4,8,7,"TripleTriadCardRarity#3","兽人",500,24,428,0,True,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
 444,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+445,444,6,7,5,4,"TripleTriadCardRarity#3","",500,20,429,0,False,3,"永久幽界中央终端",,"约定之日"
+446,445,5,2,7,8,"TripleTriadCardRarity#3","",500,23,430,0,False,6,"休姆族黑魔法师","Level#12000081","身处这个世界的你所愿为何？"
+447,446,8,8,6,6,"TripleTriadCardRarity#4","",800,33,431,0,False,2,"桑多利亚：第二巡行",,"身处这个世界的你所愿为何？"
+448,447,5,7,6,9,"TripleTriadCardRarity#4","蛮神",800,35,432,0,False,3,"永远之暗歼灭战",,"约定之日"
+449,448,4,2,5,7,"TripleTriadCardRarity#2","",300,16,433,0,False,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
+450,449,7,3,7,4,"TripleTriadCardRarity#3","",500,31,434,0,False,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
+451,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+452,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+453,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+454,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

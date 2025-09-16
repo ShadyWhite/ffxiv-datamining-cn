@@ -97,7 +97,7 @@ int32,str,Image,Addon,QuickChatTransient,uint16
 37,"呼吁集合","ui/icon/009000/009971.tex","我们集合吧！<Unknown60>0264</Unknown60>",,37
 38,"汇报净化","ui/icon/009000/009905.tex","<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>准备就绪！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>","该指令只能在“群狼盛宴”中使用。
 使用后会在小队频道中显示固定的发言内容。
-<Color(PlayerParameter(16))><27>01</27><28>02</28>“请去拾取战章！”<28>01</28><27>02</27></Color>",38
+<Color(PlayerParameter(16))><27>01</27><28>02</28>“请去拾取战章！”<28>01</28><27>02</27></Color>",0
 39,"汇报防御","ui/icon/009000/009972.tex","<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>准备就绪！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>","该指令只能在“水晶冲突”中使用。
 使用后会在小队频道中显示固定的发言内容。
 <Color(PlayerParameter(16))><27>01</27><28>02</28>“大家一起进攻！”<28>01</28><27>02</27></Color>",39

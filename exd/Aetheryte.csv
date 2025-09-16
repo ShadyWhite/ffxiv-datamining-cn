@@ -176,7 +176,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 172,"",0,"",0,0,1,0,0,"碎璃营地","","m5f2",,,,,True,10,"Aetheryte",0,False,,"m5f2/00",0,0,145
 173,"",0,"",0,0,1,0,0,"第三站","","m5f2",,,,,True,10,"AetheryteTertium",0,False,,"m5f2/00",0,0,146
 174,"",0,"",0,0,1,0,0,"泪湾","","u5f1",,,,,True,10,"Aetheryte",0,False,,"u5f1/00",0,0,226
-175,"",0,"",0,0,1,0,0,"最佳威兔洞","","u5f1",,,,,True,10,"Aetheryte",0,False,,"u5f1/00",0,0,227
+175,"",0,"",0,0,1,0,0,"最佳威兔洞","","u5f1",,,,,True,10,"AetheryteBestwaysBurrow",0,False,,"u5f1/00",0,0,227
 176,"",0,"",0,0,1,0,0,"醒悟天测园","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,231
 177,"",0,"",0,0,1,0,0,"十二奇园","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,232
 178,"",0,"",0,0,1,0,0,"创作者之家","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,233

@@ -322,10 +322,10 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 318,"获得力 <Value>IntegerParameter(1)</Value>以上",4020,4200,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
 319,"鉴别力 <Value>IntegerParameter(1)</Value>以上",240,2400,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,40,False,0
 320,"获得力 <Value>IntegerParameter(1)</Value>以上",235,2400,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,40,False,0
-321,"",0,0,"",0,0,False,0
-322,"",0,0,"",0,0,False,0
-323,"",0,0,"",0,0,False,0
-324,"",0,0,"",0,0,False,0
+321,"获得力 <Value>IntegerParameter(1)</Value>以上",4300,0,"收藏价值＋<Value>IntegerParameter(1)</Value>",70,0,False,0
+322,"获得力 <Value>IntegerParameter(1)</Value>以上",5460,0,"收藏价值＋<Value>IntegerParameter(1)</Value>",70,0,False,0
+323,"获得力 <Value>IntegerParameter(1)</Value>以上",4300,4550,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",10,20,False,0
+324,"获得力 <Value>IntegerParameter(1)</Value>以上",5460,5760,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",10,20,False,0
 325,"",0,0,"",0,0,False,0
 326,"",0,0,"",0,0,False,0
 327,"鉴别力 <Value>IntegerParameter(1)</Value>以上",444,572,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0

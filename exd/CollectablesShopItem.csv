@@ -1603,7 +1603,7 @@ int32,Item,CollectablesShopItemGroup,uint16,uint32,uint16,byte,byte,Collectables
 69.0,"面向收藏家的硬质金合欢树皮","递交交易资本（园艺工）",90,0,90,1,2,"CollectablesShopRefine#160","2"
 69.1,"面向收藏家的雷霆薄荷","递交交易资本（园艺工）",90,0,90,2,2,"CollectablesShopRefine#161","2"
 69.2,"面向收藏家的仙果","递交交易资本（园艺工）",90,70303,90,3,2,"CollectablesShopRefine#168","2"
-69.3,"面向收藏家的丁香花","递交交易资本（园艺工）",90,70303,90,3,2,"CollectablesShopRefine#169","2"
+69.3,"面向收藏家的丁香","递交交易资本（园艺工）",90,70303,90,3,2,"CollectablesShopRefine#169","2"
 69.4,"面向收藏家的大蜜蜂的巢","递交交易资本（园艺工）",90,70338,90,4,2,"CollectablesShopRefine#176","2"
 69.5,"面向收藏家的灯火茸","递交交易资本（园艺工）",90,70338,90,4,2,"CollectablesShopRefine#177","2"
 70.0,"白金海马","递交交易资本（捕鱼人）",90,0,90,1,2,"CollectablesShopRefine#162","2"

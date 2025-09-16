@@ -128,7 +128,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 5.30,"漩士战弓","GrandCompanyRank#8",4200,200
 5.31,"漩士根杖","GrandCompanyRank#8",4200,200
 5.32,"漩士咒锤","GrandCompanyRank#8",4200,200
-5.33,"漩兵黑铁之书","GrandCompanyRank#8",4200,200
+5.33,"漩士黑铁之书","GrandCompanyRank#8",4200,200
 5.34,"漩士匕首","GrandCompanyRank#8",4200,200
 5.35,"漩士大剑","GrandCompanyRank#8",4200,200
 5.36,"漩士火枪","GrandCompanyRank#8",4200,200
@@ -383,7 +383,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 14.29,"牙士战弓","GrandCompanyRank#8",4200,200
 14.30,"牙士根杖","GrandCompanyRank#8",4200,200
 14.31,"牙士咒锤","GrandCompanyRank#8",4200,200
-14.32,"牙兵青铜之书","GrandCompanyRank#8",4200,200
+14.32,"牙士青铜之书","GrandCompanyRank#8",4200,200
 14.33,"牙士匕首","GrandCompanyRank#8",4200,200
 14.34,"牙士大剑","GrandCompanyRank#8",4200,200
 14.35,"牙士火枪","GrandCompanyRank#8",4200,200
@@ -640,7 +640,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 23.29,"耀士战弓","GrandCompanyRank#8",4200,200
 23.30,"耀士根杖","GrandCompanyRank#8",4200,200
 23.31,"耀士咒锤","GrandCompanyRank#8",4200,200
-23.32,"耀兵黄铜之书","GrandCompanyRank#8",4200,200
+23.32,"耀士黄铜之书","GrandCompanyRank#8",4200,200
 23.33,"耀士匕首","GrandCompanyRank#8",4200,200
 23.34,"耀士大剑","GrandCompanyRank#8",4200,200
 23.35,"耀士火枪","GrandCompanyRank#8",4200,200

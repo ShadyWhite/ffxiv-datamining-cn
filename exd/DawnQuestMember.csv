@@ -118,3 +118,4 @@ int32,uint16,byte,ENpcResident,Image,Image,DawnMemberUIParam
 114,31,0,"可露儿","ui/icon/072000/072659.tex","ui/icon/072000/072719.tex","Pictomancer"
 115,32,20,"阿尔菲诺","ui/icon/072000/072638.tex","ui/icon/072000/072698.tex","Sage"
 116,33,21,"阿莉塞","ui/icon/072000/072639.tex","ui/icon/072000/072699.tex","Red Mage"
+117,34,0,"","ui/icon/072000/072664.tex","ui/icon/072000/072795.tex","Zoemancer"
