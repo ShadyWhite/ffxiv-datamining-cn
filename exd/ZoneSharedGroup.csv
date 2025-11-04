@@ -297,7 +297,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 60.5,11851720,2,"进化的公式",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 60.6,11851722,2,"保存之人",9,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 60.7,11851723,2,"进化的公式",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-61.0,11986969,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,0,,0,False,0,0,0,False
+61.0,11986969,1," 雪山上的邻居",0,False,1," 刻在石碑上的历史",0,False,1," 活在记忆里的人",0,False,1," 敬雪仪式",0,False,1," 小雪中绽放的生命",0,False,0,,0,False,0,0,0,False
 62.0,11863576,2,"星光闪耀的小圣人",7,False,2,"星芒节与暖心的热饮",1,False,2,"星芒节与暖心的热饮",5,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 62.1,12001802,2,"星芒节与暖心的热饮",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 63.0,11877921,1,"蕴藏属性之力的魔法球",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

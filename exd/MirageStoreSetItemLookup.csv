@@ -1939,6 +1939,11 @@ int32,MirageStoreSetItem,MirageStoreSetItem,uint32,uint32,uint32
 47204,"MirageStoreSetItem#47704","MirageStoreSetItem#0",0,0,0
 47205,"MirageStoreSetItem#47704","MirageStoreSetItem#0",0,0,0
 47206,"MirageStoreSetItem#47704","MirageStoreSetItem#0",0,0,0
+47207,"MirageStoreSetItem#47705","MirageStoreSetItem#0",0,0,0
+47208,"MirageStoreSetItem#47705","MirageStoreSetItem#0",0,0,0
+47209,"MirageStoreSetItem#47705","MirageStoreSetItem#0",0,0,0
+47210,"MirageStoreSetItem#47705","MirageStoreSetItem#0",0,0,0
+47211,"MirageStoreSetItem#47705","MirageStoreSetItem#0",0,0,0
 47230,"MirageStoreSetItem#47706","MirageStoreSetItem#0",0,0,0
 47231,"MirageStoreSetItem#47706","MirageStoreSetItem#0",0,0,0
 47232,"MirageStoreSetItem#47706","MirageStoreSetItem#0",0,0,0
@@ -1990,6 +1995,15 @@ int32,MirageStoreSetItem,MirageStoreSetItem,uint32,uint32,uint32
 47285,"MirageStoreSetItem#47720","MirageStoreSetItem#0",0,0,0
 47286,"MirageStoreSetItem#47720","MirageStoreSetItem#0",0,0,0
 47287,"MirageStoreSetItem#47720","MirageStoreSetItem#0",0,0,0
+47288,"MirageStoreSetItem#47722","MirageStoreSetItem#0",0,0,0
+47289,"MirageStoreSetItem#47722","MirageStoreSetItem#0",0,0,0
+47290,"MirageStoreSetItem#47722","MirageStoreSetItem#0",0,0,0
+47291,"MirageStoreSetItem#47722","MirageStoreSetItem#0",0,0,0
+47292,"MirageStoreSetItem#47722","MirageStoreSetItem#0",0,0,0
+47293,"MirageStoreSetItem#47724","MirageStoreSetItem#0",0,0,0
+47294,"MirageStoreSetItem#47724","MirageStoreSetItem#0",0,0,0
+47295,"MirageStoreSetItem#47724","MirageStoreSetItem#0",0,0,0
+47296,"MirageStoreSetItem#47724","MirageStoreSetItem#0",0,0,0
 47301,"MirageStoreSetItem#47725","MirageStoreSetItem#0",0,0,0
 47302,"MirageStoreSetItem#47725","MirageStoreSetItem#0",0,0,0
 47303,"MirageStoreSetItem#47725","MirageStoreSetItem#0",0,0,0
@@ -2001,6 +2015,7 @@ int32,MirageStoreSetItem,MirageStoreSetItem,uint32,uint32,uint32
 47309,"MirageStoreSetItem#47727","MirageStoreSetItem#0",0,0,0
 47310,"MirageStoreSetItem#47727","MirageStoreSetItem#0",0,0,0
 47311,"MirageStoreSetItem#47727","MirageStoreSetItem#0",0,0,0
+47341,"MirageStoreSetItem#47724","MirageStoreSetItem#0",0,0,0
 47891,"MirageStoreSetItem#48745","MirageStoreSetItem#0",0,0,0
 47892,"MirageStoreSetItem#48745","MirageStoreSetItem#0",0,0,0
 47893,"MirageStoreSetItem#48745","MirageStoreSetItem#0",0,0,0

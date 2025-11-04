@@ -1907,3 +1907,6 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ExportedSG,bit&01,bit&02,byte
 1903,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_066_01a.sgb",False,False,0
 1904,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_066_01a.sgb",False,False,0
 1905,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_065_01a.sgb",False,False,0
+1906,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_001_01a.sgb",True,False,0
+1907,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_001_01a.sgb",True,False,0
+1908,"",0,"",0,0,1,0,0,"bgcommon/world/tbx/shared/for_bg/sgbg_w_tbx_001_01a.sgb",True,False,0

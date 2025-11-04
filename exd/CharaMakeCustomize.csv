@@ -95,7 +95,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 91,184,"ui/icon/131000/131091.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 92,185,"ui/icon/131000/131092.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 93,186,"ui/icon/131000/131093.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-94,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+94,187,"ui/icon/131000/131094.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 95,188,"ui/icon/131000/131095.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 96,189,"ui/icon/131000/131096.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 97,0,,0,False,"","",0
@@ -228,7 +228,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 224,184,"ui/icon/131000/131294.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 225,185,"ui/icon/131000/131295.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 226,186,"ui/icon/131000/131296.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-227,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+227,187,"ui/icon/131000/131297.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 228,188,"ui/icon/131000/131298.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 229,189,"ui/icon/131000/131299.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 230,0,,0,False,"","",0
@@ -354,7 +354,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 350,184,"ui/icon/131000/131590.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 351,185,"ui/icon/131000/131591.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 352,186,"ui/icon/131000/131592.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-353,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+353,187,"ui/icon/131000/131593.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 354,188,"ui/icon/131000/131594.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 355,189,"ui/icon/131000/131595.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 356,0,,0,False,"","",0
@@ -482,7 +482,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 478,184,"ui/icon/131000/131788.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 479,185,"ui/icon/131000/131789.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 480,186,"ui/icon/131000/131790.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-481,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+481,187,"ui/icon/131000/131791.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 482,188,"ui/icon/131000/131792.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 483,189,"ui/icon/131000/131793.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 484,0,,0,False,"","",0
@@ -610,7 +610,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 606,184,"ui/icon/132000/132086.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 607,185,"ui/icon/132000/132087.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 608,186,"ui/icon/132000/132088.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-609,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+609,187,"ui/icon/132000/132089.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 610,188,"ui/icon/132000/132090.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 611,189,"ui/icon/132000/132091.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 612,0,,0,False,"","",0
@@ -746,7 +746,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 742,184,"ui/icon/132000/132292.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 743,185,"ui/icon/132000/132293.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 744,186,"ui/icon/132000/132294.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-745,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+745,187,"ui/icon/132000/132295.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 746,188,"ui/icon/132000/132296.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 747,189,"ui/icon/132000/132297.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 748,0,,0,False,"","",0
@@ -871,7 +871,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 867,184,"ui/icon/133000/133087.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 868,185,"ui/icon/133000/133088.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 869,186,"ui/icon/133000/133089.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-870,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+870,187,"ui/icon/133000/133090.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 871,188,"ui/icon/133000/133091.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 872,189,"ui/icon/133000/133092.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 873,0,,0,False,"","",0
@@ -1006,7 +1006,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1002,184,"ui/icon/133000/133292.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1003,185,"ui/icon/133000/133293.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1004,186,"ui/icon/133000/133294.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1005,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1005,187,"ui/icon/133000/133295.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1006,188,"ui/icon/133000/133296.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1007,189,"ui/icon/133000/133297.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1008,0,,0,False,"","",0
@@ -1129,7 +1129,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1125,184,"ui/icon/134000/134085.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1126,185,"ui/icon/134000/134086.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1127,186,"ui/icon/134000/134087.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1128,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1128,187,"ui/icon/134000/134088.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1129,188,"ui/icon/134000/134089.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1130,189,"ui/icon/134000/134090.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1131,0,,0,False,"","",0
@@ -1266,7 +1266,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1262,184,"ui/icon/134000/134292.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1263,185,"ui/icon/134000/134293.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1264,186,"ui/icon/134000/134294.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1265,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1265,187,"ui/icon/134000/134295.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1266,188,"ui/icon/134000/134296.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1267,189,"ui/icon/134000/134297.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1268,0,,0,False,"","",0
@@ -1396,7 +1396,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1392,184,"ui/icon/135000/135092.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1393,185,"ui/icon/135000/135093.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1394,186,"ui/icon/135000/135094.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1395,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1395,187,"ui/icon/135000/135095.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1396,188,"ui/icon/135000/135096.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1397,189,"ui/icon/135000/135097.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1398,0,,0,False,"","",0
@@ -1522,7 +1522,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1518,184,"ui/icon/135000/135288.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1519,185,"ui/icon/135000/135289.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1520,186,"ui/icon/135000/135290.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1521,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1521,187,"ui/icon/135000/135291.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1522,188,"ui/icon/135000/135292.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1523,189,"ui/icon/135000/135293.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1524,0,,0,False,"","",0
@@ -1649,7 +1649,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1645,184,"ui/icon/136000/136085.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1646,185,"ui/icon/136000/136086.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1647,186,"ui/icon/136000/136087.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1648,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1648,187,"ui/icon/136000/136088.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1649,188,"ui/icon/136000/136089.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1650,189,"ui/icon/136000/136090.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1651,0,,0,False,"","",0
@@ -1781,7 +1781,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1777,184,"ui/icon/136000/136287.tex",489,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：编发高马尾",0
 1778,185,"ui/icon/136000/136288.tex",538,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：阿泽玛",0
 1779,186,"ui/icon/136000/136289.tex",539,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：蘑菇头",0
-1780,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1780,187,"ui/icon/136000/136290.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1781,188,"ui/icon/136000/136291.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1782,189,"ui/icon/136000/136292.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1783,0,,0,False,"","",0
@@ -1894,7 +1894,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1890,124,"ui/icon/137000/137073.tex",0,False,"","",0
 1891,125,"ui/icon/137000/137074.tex",287,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：卷发",0
 1892,126,"ui/icon/137000/137075.tex",0,False,"","",0
-1893,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1893,187,"ui/icon/137000/137069.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1894,188,"ui/icon/137000/137070.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1895,189,"ui/icon/137000/137071.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1896,0,,0,False,"","",0
@@ -1993,7 +1993,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1989,107,"ui/icon/137000/137242.tex",0,False,"","",0
 1990,110,"ui/icon/137000/137243.tex",0,False,"","",0
 1991,128,"ui/icon/137000/137245.tex",441,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：高马尾辫",0
-1992,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+1992,187,"ui/icon/137000/137238.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 1993,188,"ui/icon/137000/137239.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 1994,189,"ui/icon/137000/137240.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 1995,0,,0,False,"","",0
@@ -2167,7 +2167,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 2163,143,"ui/icon/138000/138086.tex",321,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：血盟双剑师",0
 2164,148,"ui/icon/138000/138087.tex",0,False,"","",0
 2165,149,"ui/icon/138000/138088.tex",0,False,"","",0
-2166,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+2166,187,"ui/icon/138000/138082.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 2167,188,"ui/icon/138000/138083.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 2168,189,"ui/icon/138000/138084.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 2169,0,,0,False,"","",0
@@ -2298,7 +2298,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 2294,144,"ui/icon/138000/138287.tex",322,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：血盟治疗师",0
 2295,148,"ui/icon/138000/138288.tex",0,False,"","",0
 2296,149,"ui/icon/138000/138289.tex",0,False,"","",0
-2297,187,,550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","",0
+2297,187,"ui/icon/138000/138283.tex",550,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：长直发",0
 2298,188,"ui/icon/138000/138284.tex",552,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄F",0
 2299,189,"ui/icon/138000/138285.tex",551,True,"通过使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容师处选择的特殊发型。","发型样式：欧米茄M",0
 2300,0,,0,False,"","",0

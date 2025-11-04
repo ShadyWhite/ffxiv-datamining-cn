@@ -85,11 +85,11 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 81,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",6,20,12,70,13,240,0,"","不中用的使魔","新月岛挑战危命任务次数2","在蜃景幻界新月岛成功挑战20次危命任务。",0
 82,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",7,1,12,30,13,140,0,"","不中用的使魔","新月岛连锁次数1","在蜃景幻界新月岛完成1次20连锁。",0
 83,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",8,1,12,70,13,240,0,"","不中用的使魔","新月岛连锁次数2","在蜃景幻界新月岛完成1次40连锁。",0
-84,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-85,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-86,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-87,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-88,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+84,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",1,1,14,7,0,0,0,"","苏醒的朝圣交错路","朝圣交错路攻略挑战1","成功突破第20朝圣路。",0
+85,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",2,1,15,2,0,0,0,"","苏醒的朝圣交错路","朝圣交错路攻略挑战2","成功突破第30朝圣路。",0
+86,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",3,1,14,8,0,0,0,"","童话的起源","朝圣交错路攻略挑战3","成功突破第50朝圣路。",0
+87,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",4,1,15,3,0,0,0,"","童话的起源","朝圣交错路攻略挑战4","成功突破第70朝圣路。",0
+88,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",5,1,14,10,0,0,0,"","童话的起源","朝圣交错路攻略挑战5","成功突破第100朝圣路。",0
 89,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 90,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 91,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0

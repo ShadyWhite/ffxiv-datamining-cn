@@ -131,4 +131,4 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 127,"补充冷却剂","ui/icon/061000/061103.tex",5,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 128,"冷却玻璃","ui/icon/061000/061103.tex",5,"","pc_contentsaction/wks023","normal/event_action_wks8_end"
 129,"钻头垂直作业","ui/icon/061000/061103.tex",6,"","pc_contentsaction/wks014","normal/event_action_wks10_end"
-130,"",,0,"","",""
+130,"剥取","ui/icon/061000/061103.tex",3,"pc_contentsaction/pc_cnt069_start","pc_contentsaction/pc_cnt069_loop","pc_contentsaction/pc_cnt069_end"
