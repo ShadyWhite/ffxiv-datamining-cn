@@ -66,3 +66,19 @@ int32,DynamicEventType,DynamicEventEnemyType,byte,byte,bit&01,uint32,Quest,uint3
 打倒昏暗妖魂——鬼火苗！",0,0,0,0,0
 48,"DynamicEventType#4","混编部队",48,30,False,0,,70853,"DynamicEventSingleBattle#0","",0,"两歧塔 力之塔","新月岛南部出现了神秘的蜃景之塔，
 和伙伴一同进入，突破最顶层！",0,0,0,63978,63978
+49,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+50,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+51,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+52,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+53,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+54,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+55,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+56,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+57,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+58,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+59,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+60,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+61,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+62,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+63,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0
+64,"DynamicEventType#0","",0,0,False,0,,0,"DynamicEventSingleBattle#0","",0,"","",0,0,0,0,0

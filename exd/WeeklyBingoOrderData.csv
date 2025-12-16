@@ -38,10 +38,10 @@ int32,uint32,Row,uint32,WeeklyBingoText,Image,uint32,byte
 34,0,"InstanceContent#30017",0,"ダミー",,113042,0
 35,0,"InstanceContent#30018",0,"ダミー",,113043,0
 36,0,"InstanceContent#30019",0,"ダミー",,113044,0
-37,0,"InstanceContent#50001",0,"ダミー",,113045,2
-38,0,"InstanceContent#50003",0,"ダミー",,113046,2
-39,0,"InstanceContent#50004",0,"ダミー",,113047,2
-40,0,"InstanceContent#50005",0,"ダミー",,113048,2
+37,0,"InstanceContent#41001",0,"ダミー",,113045,2
+38,0,"InstanceContent#41003",0,"ダミー",,113046,2
+39,0,"InstanceContent#41004",0,"ダミー",,113047,2
+40,0,"InstanceContent#41005",0,"ダミー",,113048,2
 41,0,"InstanceContent#30038",0,"ダミー",,113009,0
 42,0,"InstanceContent#30030",0,"ダミー",,113014,0
 43,0,"InstanceContent#30031",0,"ダミー",,113015,0
@@ -188,7 +188,7 @@ int32,uint32,Row,uint32,WeeklyBingoText,Image,uint32,byte
 184,4,,0,"ダミー","ui/icon/000000/000067.tex",113144,3
 185,4,,0,"ダミー","ui/icon/000000/000068.tex",113147,3
 186,4,,0,"ダミー","ui/icon/000000/000069.tex",113148,3
-187,0,,0,"ダミー",,0,0
+187,0,"InstanceContent#30153",0,"ダミー",,113149,0
 188,0,,0,"ダミー",,0,0
 189,0,,0,"ダミー",,0,0
 190,0,,0,"ダミー",,0,0

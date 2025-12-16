@@ -446,13 +446,23 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 442,441,7,6,2,2,"TripleTriadCardRarity#2","",300,8,427,0,True,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
 443,442,2,4,8,7,"TripleTriadCardRarity#3","兽人",500,24,428,0,True,6,"普代加","Level#11704272"," 辉鳞族心爱的故乡"
 444,443,7,7,9,4,"TripleTriadCardRarity#4","",0,39,9999,0,False,13,,,"金碟游乐场与幻卡王的传闻"
-445,444,6,7,5,4,"TripleTriadCardRarity#3","",500,20,429,0,False,3,"永久幽界中央终端",,"约定之日"
-446,445,5,2,7,8,"TripleTriadCardRarity#3","",500,23,430,0,False,6,"休姆族黑魔法师","Level#12000081","身处这个世界的你所愿为何？"
-447,446,8,8,6,6,"TripleTriadCardRarity#4","",800,33,431,0,False,2,"桑多利亚：第二巡行",,"身处这个世界的你所愿为何？"
-448,447,5,7,6,9,"TripleTriadCardRarity#4","蛮神",800,35,432,0,False,3,"永远之暗歼灭战",,"约定之日"
-449,448,4,2,5,7,"TripleTriadCardRarity#2","",300,16,433,0,False,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
-450,449,7,3,7,4,"TripleTriadCardRarity#3","",500,31,434,0,False,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
-451,450,5,5,3,6,"TripleTriadCardRarity#2","",300,8,435,0,False,6,"托寇祖","Level#11887398"," 雪精在讲述"
-452,451,2,6,4,6,"TripleTriadCardRarity#2","",300,8,436,0,False,9,"银光宝藏",,"苏醒的朝圣交错路"
-453,452,4,8,3,7,"TripleTriadCardRarity#3","兽人",500,24,437,0,False,10,"腊寇戈","Level#11859423"," 雪精在讲述"
-454,453,2,10,8,8,"TripleTriadCardRarity#5","拂晓",0,44,438,0,False,11,"九宫卡手14",,"决斗！九宫幻卡"
+445,444,6,7,5,4,"TripleTriadCardRarity#3","",500,20,429,0,True,3,"永久幽界中央终端",,"约定之日"
+446,445,5,2,7,8,"TripleTriadCardRarity#3","",500,23,430,0,True,6,"休姆族黑魔法师","Level#12000081","身处这个世界的你所愿为何？"
+447,446,8,8,6,6,"TripleTriadCardRarity#4","",800,33,431,0,True,2,"桑多利亚：第二巡行",,"身处这个世界的你所愿为何？"
+448,447,5,7,6,9,"TripleTriadCardRarity#4","蛮神",800,35,432,0,True,3,"永远之暗歼灭战",,"约定之日"
+449,448,4,2,5,7,"TripleTriadCardRarity#2","",300,16,433,0,True,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
+450,449,7,3,7,4,"TripleTriadCardRarity#3","",500,31,434,0,True,10,"梅苏艾东克","Level#11721046","重逢与新的计划！"
+451,450,5,5,3,6,"TripleTriadCardRarity#2","",300,8,435,0,True,6,"托寇祖","Level#11887398"," 雪精在讲述"
+452,451,2,6,4,6,"TripleTriadCardRarity#2","",300,8,436,0,True,9,"银光宝藏",,"苏醒的朝圣交错路"
+453,452,4,8,3,7,"TripleTriadCardRarity#3","兽人",500,24,437,0,True,10,"腊寇戈","Level#11859423"," 雪精在讲述"
+454,453,2,10,8,8,"TripleTriadCardRarity#5","拂晓",0,44,438,0,True,11,"九宫卡手14",,"决斗！九宫幻卡"
+455,454,3,5,7,7,"TripleTriadCardRarity#3","",500,20,439,0,False,3,"遗忘行路雾之迹",,"来到雾之大陆"
+456,455,6,7,7,8,"TripleTriadCardRarity#4","",800,32,440,0,False,3,"格莱杨拉波尔歼灭战",,"梦想造就风花遍地的"
+457,456,10,8,4,7,"TripleTriadCardRarity#5","",1500,40,441,0,False,3,"阿卡狄亚登天斗技场 重量级4",,"亡国的大蛇"
+458,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+459,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+460,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+461,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+462,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+463,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+464,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

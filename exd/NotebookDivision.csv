@@ -108,7 +108,8 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,byte,byte,bool,bo
 1063,"尼托维凯","老主顾交易",90,255,"尼托维凯的老主顾",1,False,0,0,True,True,True,True,True,True,True,True
 1064,"秘籍：第12卷","秘籍",100,255,,87,True,14,0,True,True,True,True,True,True,True,True
 1065,"尤卡巨人族","友好部族任务",90,255,,4,False,0,0,True,True,True,True,True,True,True,True
-1066,"","",0,0,,0,False,0,0,False,False,False,False,False,False,False,False
+1066,"[翻訳不要] SPレベル区分終端","",255,255,,0,False,0,0,True,True,True,True,True,True,True,True
+1067,"","",0,0,,0,False,0,0,False,False,False,False,False,False,False,False
 2000,"库尔札斯","传承录",255,50,,12,False,0,0,True,True,True,True,True,True,True,True
 2001,"龙堡","传承录",255,50,,11,False,0,0,True,True,True,True,True,True,True,True
 2002,"阿巴拉提亚","传承录",255,50,,10,False,0,0,True,True,True,True,True,True,True,True

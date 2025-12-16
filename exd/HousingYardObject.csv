@@ -364,10 +364,10 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131432,332,17,0,0,0,,"巧儿陆行鸟喷泉",False,False,True,0,0,0,False,True
 131433,334,17,0,0,0,,"魔石碑",False,False,True,0,0,0,False,True
 131434,335,17,0,0,0,,"宇宙路灯",False,False,True,0,0,0,False,True
-131435,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131436,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131437,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131438,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131435,333,17,0,0,0,,"垂枝樱花树",False,False,True,5,0,0,False,True
+131436,336,17,0,0,0,,"仿制战场",False,False,True,0,0,0,False,True
+131437,337,17,0,0,0,,"覆雪绿雕",False,False,True,0,0,0,False,True
+131438,338,17,0,0,0,,"霜冻庭院水池",False,False,True,0,0,0,False,True
 131439,346,17,0,0,0,,"尤卡巨人石灯笼",False,False,True,5,0,0,False,True
 131440,339,17,0,0,108,,"户外用便携营火炉",False,False,True,0,0,0,False,True
 131441,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
@@ -379,3 +379,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131447,347,17,0,0,0,,"宇宙站点顶棚",False,False,True,0,0,0,False,True
 131448,348,17,0,0,0,,"宇宙环形座椅",False,False,True,0,0,0,False,True
 131449,349,17,0,0,0,,"猎人营地椅",False,False,True,0,0,0,False,True
+131450,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131451,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131452,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131453,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131454,357,17,0,0,0,,"玛哈路灯",False,False,True,0,0,0,False,True
