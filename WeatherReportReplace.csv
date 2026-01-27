@@ -1,0 +1,9 @@
+﻿key,0,1
+#,PlaceNameSub,PlaceNameParent
+offset,0,2
+int32,UInt16,UInt16
+0,0,0
+1,28,27
+2,40,51
+3,52,39
+4,2300,62

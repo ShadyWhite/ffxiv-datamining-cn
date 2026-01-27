@@ -1,0 +1,9 @@
+﻿key,0,1,2
+#,,,Name
+offset,5,4,0
+int32,PackedBool0,UInt8,String
+0,False,0,""
+1,True,1,"场地形状"
+2,True,2,"敌方种类"
+3,True,3,"队伍配置"
+4,True,4,"场地标记"
