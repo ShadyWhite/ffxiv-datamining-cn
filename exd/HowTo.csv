@@ -96,7 +96,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 92,"极限技",True,"ui/icon/150000/chs/150971.tex","ui/icon/150000/chs/150972.tex","ui/icon/150000/chs/150973.tex","ui/icon/150000/chs/150974.tex","","","","","","","战斗",13
 93,"等级同步",True,"ui/icon/150000/chs/150981.tex","ui/icon/150000/chs/150982.tex","ui/icon/150000/chs/150983.tex","","","","","","","","使命任务",5
 94,"特职",True,"ui/icon/150000/chs/150991.tex","ui/icon/150000/chs/150992.tex","ui/icon/150000/chs/150993.tex","","","","","","","","冒险者基础",10
-95,"给装备染色",True,"ui/icon/151000/chs/151001.tex","ui/icon/151000/chs/151002.tex","ui/icon/151000/chs/151003.tex","ui/icon/151000/chs/151004.tex","","","","","","","装备",8
+95,"染色",True,"ui/icon/151000/chs/151001.tex","ui/icon/151000/chs/151002.tex","ui/icon/151000/chs/151003.tex","ui/icon/151000/chs/151004.tex","","","","","","","装备",8
 96,"带上陆行鸟一起战斗",True,"ui/icon/151000/chs/151151.tex","ui/icon/151000/chs/151152.tex","","","","","","","","","战斗",21
 97,"生产魔晶石",True,"ui/icon/151000/chs/151021.tex","ui/icon/151000/chs/151022.tex","ui/icon/151000/chs/151023.tex","","","","","","","","装备",21
 98,"用魔晶石来强化装备",True,"ui/icon/151000/chs/151031.tex","ui/icon/151000/chs/151032.tex","","","","","","","","","装备",22

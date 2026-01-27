@@ -319,7 +319,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 315,11,"端坐享用绿茶","所有职业",1,"BannerCondition#883",0,0,0,,246451,""
 316,10,,"所有职业",1,"BannerCondition#884",0,0,0,,246452,""
 317,0,,"",0,"BannerCondition#0",0,0,0,,0,""
-318,0,,"",0,"BannerCondition#0",0,0,0,,0,""
+318,11,"跳脚","所有职业",1,"BannerCondition#979",0,0,0,"ui/icon/001000/001505.tex",246455,""
 319,11,"节拍声援小红","所有职业",1,"BannerCondition#980",0,0,0,,246456,""
 320,11,"摇摆声援小黄","所有职业",1,"BannerCondition#981",0,0,0,,246457,""
 321,0,,"",0,"BannerCondition#0",0,0,0,,0,""

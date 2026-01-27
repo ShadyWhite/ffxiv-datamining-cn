@@ -81,7 +81,7 @@ int32,Image,Image,byte,byte,byte,byte,BannerCondition,uint16,uint16,uint16,byte,
 77,"ui/icon/196000/196220.tex","ui/icon/196000/196470.tex",1,0,0,0,"BannerCondition#938",0,0,0,3,2319,"友好部族任务：尤卡巨人族"
 78,"ui/icon/196000/196123.tex",,1,0,0,0,"BannerCondition#940",0,0,0,8,2344,"宇宙探索2"
 79,"ui/icon/196000/196124.tex","ui/icon/196000/196352.tex",1,0,0,0,"BannerCondition#939",0,0,0,8,2342,"开拓无人岛3"
-80,,,0,0,0,0,"BannerCondition#0",0,0,0,0,0,""
+80,"ui/icon/196000/196125.tex",,1,0,0,0,"BannerCondition#1020",0,0,0,8,2345,"宇宙探索3"
 81,"ui/icon/196000/196017.tex",,2,0,0,0,"BannerCondition#1044",0,0,0,7,24,"简约风格1"
 82,"ui/icon/196000/196018.tex",,2,0,0,0,"BannerCondition#1045",0,0,0,7,25,"简约风格2"
 83,"ui/icon/196000/196019.tex",,2,0,0,0,"BannerCondition#1046",0,0,0,7,26,"简约风格3"

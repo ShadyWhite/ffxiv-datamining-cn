@@ -1702,9 +1702,9 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198306,1550,14,0,0,109,0,,"格莱杨拉波尔引擎核心",False,False,0,0,0,True,False
 198307,1560,15,0,0,0,0,,"家具设计大赛奖牌2025",False,False,5,0,0,True,False
 198308,1541,15,0,0,0,0,,"羊羊壁挂霓虹灯",False,False,0,0,0,True,False
-198309,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198310,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198311,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198309,1561,12,0,0,0,0,,"宇宙储物椅",False,False,0,0,0,True,False
+198310,1563,15,0,0,0,0,,"仿制宇宙窗",False,False,0,0,0,True,False
+198311,1564,16,0,0,0,0,,"宇宙地板块",False,False,0,0,0,True,False
 198312,1405,14,7,95,0,0,"CmnDefHousingDish_00213","大碗浓汤",True,False,9,4,11,True,False
 198313,1406,14,7,96,0,0,"CmnDefHousingDish_00213","开胃菜拼盘",True,False,9,4,11,True,False
 198314,1402,12,0,0,0,0,,"预言师圆桌",False,False,0,0,0,True,False

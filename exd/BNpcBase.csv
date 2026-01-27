@@ -19373,10 +19373,10 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 19369,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
 19370,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
 19371,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
-19372,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
+19372,,"Battalion#4","LinkRace#0",0,1,"ModelChara#480","BNpcCustomize#0","NpcEquip#0",0,2,True,,3,"BNpcParts#0",1,True,False,True,False,0,0,0,0,0,False,False
 19373,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
 19374,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
-19375,,"Battalion#0","LinkRace#0",0,0,"ModelChara#0","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",0,False,False,False,False,0,0,0,0,0,False,False
+19375,,"Battalion#0","LinkRace#0",0,1,"ModelChara#4807","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",1,True,True,True,False,0,0,0,0,0,False,False
 19376,,"Battalion#0","LinkRace#0",0,1,"ModelChara#4808","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",1,True,True,True,False,0,0,0,0,0,False,False
 19377,,"Battalion#0","LinkRace#0",0,1,"ModelChara#4809","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",1,True,True,True,False,0,0,0,0,0,False,False
 19378,,"Battalion#0","LinkRace#0",0,1,"ModelChara#4810","BNpcCustomize#0","NpcEquip#0",0,0,False,,0,"BNpcParts#0",1,True,True,True,False,0,0,0,0,0,False,False

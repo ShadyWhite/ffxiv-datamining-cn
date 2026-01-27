@@ -379,8 +379,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131447,347,17,0,0,0,,"宇宙站点顶棚",False,False,True,0,0,0,False,True
 131448,348,17,0,0,0,,"宇宙环形座椅",False,False,True,0,0,0,False,True
 131449,349,17,0,0,0,,"猎人营地椅",False,False,True,0,0,0,False,True
-131450,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131451,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131452,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131450,350,17,0,0,0,,"宇宙指示灯",False,False,True,0,0,0,False,True
+131451,351,17,0,0,0,,"宇宙天线",False,False,True,0,0,0,False,True
+131452,352,17,0,0,0,,"宇宙遮阳棚",False,False,True,0,0,0,False,True
 131453,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131454,357,17,0,0,0,,"玛哈路灯",False,False,True,0,0,0,False,True

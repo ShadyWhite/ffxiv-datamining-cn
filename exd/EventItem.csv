@@ -2174,7 +2174,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2002170,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2002171,"达尔马斯卡葡萄酒的空瓶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025057.tex","",1,1,"蔷薇和葡萄酒",0,"normal/item_start",0
 2002172,"有玫瑰花纹的葡萄酒",0,"",0,0,1,0,0,False,"","ui/icon/025000/025057.tex","",1,1,"蔷薇和葡萄酒",0,"normal/item_start",0
-2002173,"熟睡的小羊",0,"",0,0,1,0,0,False,"","ui/icon/059000/059441.tex","",1,1,"捕获胆小的羊",0,"normal/item_start",0
+2002173,"熟睡的羔羊",0,"",0,0,1,0,0,False,"","ui/icon/059000/059441.tex","",1,1,"捕获胆小的羊",0,"normal/item_start",0
 2002174,"寄往乌尔达哈商会馆的密封信",0,"",0,0,1,0,0,False,"","ui/icon/026000/026173.tex","",1,1,"滴水不漏塔塔露",0,"normal/item_start",0
 2002175,"西德寄来的书信",0,"",0,0,1,0,0,False,"","ui/icon/026000/026109.tex","",1,1,"滴水不漏塔塔露",0,"normal/item_start",0
 2002176,"手工炸弹",0,"",0,0,1,0,0,False,"","ui/icon/025000/025907.tex","投掷",1,1,"破铜烂铁的决意",3,"normal/item_start",4
@@ -3116,7 +3116,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003112,"«草海行记»",0,"",0,0,1,0,0,False,"","ui/icon/026000/026158.tex","",1,1," 配送书籍",0,"normal/item_start",0
 2003113,"宝石兽玩偶",0,"",0,0,1,0,0,False,"","ui/icon/059000/059545.tex","",1,1," 逃掉的宝石兽",0,"normal/item_start",0
 2003114,"手工炸弹",0,"",0,0,1,0,0,False,"","ui/icon/026000/026015.tex","任务道具",1,1," 帮助体验学习",3,"normal/item_start",0
-2003115,"沾满了煤灰的信封",0,"",0,0,1,0,0,False,"","ui/icon/026000/026174.tex","",1,1," 来自落下的纸片的委托",0,"normal/item_start",0
+2003115,"沾满了灰的信封",0,"",0,0,1,0,0,False,"","ui/icon/026000/026174.tex","",1,1," 来自落下的纸片的委托",0,"normal/item_start",0
 2003116,"古风蜡烛",0,"",0,0,1,0,0,False,"","ui/icon/026000/026102.tex","",1,1," 来自落下的纸片的委托",0,"normal/item_start",0
 2003117,"高雅威风的魔法人偶",0,"",0,0,1,0,0,False,"","ui/icon/059000/059520.tex","",1,1," 我可爱的公主",0,"normal/item_start",0
 2003118,"倒地的腐木",0,"",0,0,1,0,0,False,"","ui/icon/022000/022408.tex","",2,1," 从倒木中汲取营养的人们",0,"normal/item_start",0
@@ -3304,7 +3304,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003300,"苏摩草",0,"",0,0,1,0,0,False,"","ui/icon/025000/025039.tex","",1,1," 采集苏摩草之人",0,"normal/item_start",0
 2003301,"附有装饰的宝珠",0,"",0,0,1,0,0,False,"","ui/icon/020000/020267.tex","",1,1," 耶赞的建议",0,"normal/item_start",0
 2003302,"阿切斯特拉图之花",0,"",0,0,1,0,0,False,"","ui/icon/025000/025580.tex","",3,1," 天测园的饮食",0,"normal/item_start",0
-2003303,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003303,"休假小员",0,"",0,0,1,0,0,False,"","ui/icon/059000/059896.tex","",2,1,"项目经理的机智应对",0,"normal/item_start",0
 2003304,"黄金生命药",0,"",0,0,1,0,0,False,"","ui/icon/020000/020673.tex","任务道具",1,1," 访客和让人费心的野兽",3,"normal/item_start",0
 2003305,"苏摩的碎片",0,"",0,0,1,0,0,False,"","ui/icon/020000/020037.tex","",99,1,,0,"normal/item_start",0
 2003306,"最高机密相关文件",0,"",0,0,1,0,0,False,"","ui/icon/026000/026603.tex","",99,1,,0,"normal/item_start",0
@@ -3526,8 +3526,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003522,"奥阔鲁冰花的花朵",0,"",0,0,1,0,0,False,"","ui/icon/025000/025002.tex","任务道具",99,1,,0,"normal/item_start",0
 2003523,"奥阔鲁冰花的豆子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025021.tex","任务道具",99,1,,0,"normal/item_start",0
 2003524,"奥阔玉米",0,"",0,0,1,0,0,False,"","ui/icon/025000/025352.tex","任务道具",99,1,,0,"normal/item_start",0
-2003525,"用于公平调查的种子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025021.tex","任务道具",99,1,,0,"normal/item_start",0
-2003526,"用于公平调查的大粒种子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025301.tex","任务道具",99,1,,0,"normal/item_start",0
+2003525,"用于调查适应度的种子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025021.tex","任务道具",99,1,,0,"normal/item_start",0
+2003526,"用于调查适应度的大粒种子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025301.tex","任务道具",99,1,,0,"normal/item_start",0
 2003527,"光鳞叶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025026.tex","任务道具",99,1,,0,"normal/item_start",0
 2003528,"幻煌树液",0,"",0,0,1,0,0,False,"","ui/icon/022000/022675.tex","任务道具",99,1,,0,"normal/item_start",0
 2003529,"白烬树",0,"",0,0,1,0,0,False,"","ui/icon/022000/022425.tex","任务道具",99,1,,0,"normal/item_start",0
@@ -3766,7 +3766,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003762,"蒸馏酒瓶",0,"",0,0,1,0,0,False,"","ui/icon/025000/025057.tex","",1,1,"循迹追凶",0,"normal/item_start",0
 2003763,"装有作物的袋子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025351.tex","",1,1,"循迹追凶",0,"normal/item_start",0
 2003764,"像是日记的纸片",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"循迹追凶",0,"normal/item_start",0
-2003765,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003765,"幻境透镜",0,"",0,0,1,0,0,False,"","ui/icon/025000/025986.tex","任务道具",1,8,"寻找最适合的身体",0,"normal/item_start",0
 2003766,"魔球盘",0,"",0,0,1,0,0,False,"","ui/icon/026000/026083.tex","任务道具",1,8,"蕴藏属性之力的魔法球",0,"normal/item_start",0
 2003767,"疑似门禁卡的卡片",0,"",0,0,1,0,0,False,"","ui/icon/026000/026078.tex","任务道具",1,1,"保存之人",0,"normal/item_start",1
 2003768,"2级门禁卡",0,"",0,0,1,0,0,False,"","ui/icon/026000/026079.tex","任务道具",1,1,"保存之人",0,"normal/item_start",1
@@ -3803,11 +3803,11 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003799,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003800,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003801,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003802,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003803,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003802,"以太活性剂",0,"",0,0,1,0,0,False,"","ui/icon/023000/023569.tex","",3,1,,0,"normal/item_start",0
+2003803,"以太活性剂",0,"",0,0,1,0,0,False,"","ui/icon/023000/023569.tex","",3,1,,0,"normal/item_start",0
 2003804,"绝缘粉",0,"",0,0,1,0,0,False,"","ui/icon/026000/026110.tex","",1,1,"鲁姆勒与艾雅奈",1,"normal/item_start",4
-2003805,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003806,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003805,"俄匊斯碧玉",0,"",0,0,1,0,0,False,"",,"",1,1,,0,"normal/item_start",0
+2003806,"大块俄匊斯碧玉",0,"",0,0,1,0,0,False,"",,"",1,1,,0,"normal/item_start",0
 2003807,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003808,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003809,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
