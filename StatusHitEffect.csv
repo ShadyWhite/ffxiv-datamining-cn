@@ -1,7 +1,7 @@
 ﻿key,0
 #,Location
 offset,0
-int32,UInt16
+Int32,UInt16
 0,0
 1,41
 2,42

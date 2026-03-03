@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_000","好像是用来放置物品的地方……"
 1,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_001","感谢你提供物资！
 这是这回的谢礼，请你拿好。"

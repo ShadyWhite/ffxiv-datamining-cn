@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
-#,,,,,,,,,PopType,Data,Invisibility,SgbPath,EyeCollision,DirectorControl,Target,EventHighAddition,,,AddedIn{5-3},
-int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01,bit&02,bit&04,single,bit&08,byte,bit&10,bit&20
+#,,,,,,,,,PopType,Data,Invisibility,SgbPath,EyeCollision,DirectorControl,Target,EventHighAddition,,,AddedIn53,
+offset,13,14,15,16,17,18,19,20,10,4,11,8,21,21,21,0,21,12,21,21
+Int32,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,UInt8,UInt32,UInt8,UInt16,PackedBool0,PackedBool1,PackedBool2,Float32,PackedBool3,UInt8,PackedBool4,PackedBool5
 2000000,False,False,False,False,False,False,False,False,3,0,7,0,True,False,True,0,False,0,False,False
 2000001,False,False,False,False,False,False,False,False,3,0,7,1624,True,False,True,0,False,0,False,False
 2000002,False,False,False,False,False,False,False,False,3,65538,7,1860,True,False,True,0,False,0,False,False

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_000","欢迎来到帕纳克佩鲁休养所！
 我会对这里的汤泉进行说明。"
 1,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_001","刚才感受到了区别于地震的神奇晃动。

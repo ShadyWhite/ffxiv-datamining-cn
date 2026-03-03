@@ -1,6 +1,7 @@
 ﻿key,0
 #,PublicContentTextData
-int32,PublicContentTextData
+offset,0
+Int32,UInt32
 0,0
 1,3000
 2,3001

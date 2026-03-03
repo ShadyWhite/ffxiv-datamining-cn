@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESANV201_02329_SEQ_00","※本任务是特定期间内的任务。
 
 红玉大路国际市场的基德尔人偶剧团的团长正因新生庆典的舞台剧公演烦恼不已。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Name,Icon
 offset,0,4
-int32,String,Int32
+Int32,String,Int32
 0,"不知何处",0
 1,"利姆萨·罗敏萨",60881
 2,"格里达尼亚",60882

@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Item,,WKSItemSubCategory,,
 offset,0,6,7,4,8
-int32,UInt32,UInt8,UInt8,UInt16,PackedBool0
+Int32,UInt32,UInt8,UInt8,UInt16,PackedBool0
 0,0,0,0,0,False
 1,0,0,0,0,False
 2,0,0,0,0,False

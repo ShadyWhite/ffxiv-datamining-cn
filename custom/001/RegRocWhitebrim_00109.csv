@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_000","你有什么事？
 我很忙，没事就赶快离开。"
 1,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_100","欢迎。

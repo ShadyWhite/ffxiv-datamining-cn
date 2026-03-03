@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05001_000010_MYSTERYVOICE","来得正好。
 也许你们在城镇里也有所耳闻，现在情况不太妙。"
 1,"TEXT_VOICEMAN_05001_000020_MYSTERYVOICE","这是雷克兰德的拉克汕城。

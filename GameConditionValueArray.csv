@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+offset,0,4,8,12,16,20,24,28
+Int32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,0,0,0,0,0,0,0,0
 1,21,22,0,0,0,0,0,0
 2,21,22,23,0,0,0,0,0

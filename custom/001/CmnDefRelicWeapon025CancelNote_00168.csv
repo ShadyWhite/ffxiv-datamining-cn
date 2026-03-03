@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000","……你这人可真奇怪。
 明明就没有«黄道文书»嘛。"
 1,"TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100","……这样啊，确定是要丢掉对吧？

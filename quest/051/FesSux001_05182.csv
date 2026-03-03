@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESSUX001_05182_SEQ_00","※本任务是特定期间内的任务。
 
 舰尾楼的红莲节执行委员玛雅尔·莫雅尔想要告诉冒险者红莲节已经开始的消息。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_000","我们由衷地感谢解放者阁下的协助。
 立足于女王之刃的重现，
 我们将增强抵抗组织的凝聚力，升起战斗的狼烟。"

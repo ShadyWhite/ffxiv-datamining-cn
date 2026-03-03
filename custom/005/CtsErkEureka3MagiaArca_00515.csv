@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_000","这里有一个没有见过的奇怪装置。
 看来还在准备中……"
 1,"TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_010","这里有一个没有见过的奇怪装置……

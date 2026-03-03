@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,byte,str
+#,SortKey,Name
+offset,4,0
+Int32,UInt8,String
 0,0,"显示全部"
 1,0,"标准"
 2,1,"职业&特职"

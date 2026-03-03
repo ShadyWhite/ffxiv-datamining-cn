@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_LUCKMC109_03330_SEQ_00","书著者树洞的雅·修特拉决定推进计划。"
 1,"TEXT_LUCKMC109_03330_SEQ_01",""
 2,"TEXT_LUCKMC109_03330_SEQ_02",""

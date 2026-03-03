@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_000","这位旅行者，欢迎光临！
 你有什么想问的吗？"
 1,"TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_001","艳翼蛇鸟的封印好像被解除了啊……

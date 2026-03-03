@@ -1,6 +1,7 @@
 ﻿key,0
 #,InstanceContent
-int32,InstanceContent
+offset,0
+Int32,UInt16
 0,0
 1,20035
 2,20034

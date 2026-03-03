@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Capacity,ExpToNext
-int32,uint16,uint32
+offset,4,0
+Int32,UInt16,UInt32
 0,0,0
 1,12,6180
 2,13,12504

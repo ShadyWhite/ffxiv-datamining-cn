@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07410_000010_METEM","群魔之中一点红！
 魔性的处刑者——致命美人！"
 1,"TEXT_VOICEMAN_07410_000020_METEM","水火不容 严禁混合！

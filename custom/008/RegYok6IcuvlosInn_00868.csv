@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_000","这位旅行者，欢迎你的到来。
 有什么想知道的都可以问我，我知无不言。"
 1,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_001","我收到消息说艳翼蛇鸟被释放出来了。

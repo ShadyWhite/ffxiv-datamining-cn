@@ -1,7 +1,7 @@
 ﻿key,0
 #,Action
 offset,0
-int32,UInt32
+Int32,UInt32
 0.0,0
 1.0,29729
 1.1,33862

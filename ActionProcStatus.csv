@@ -1,6 +1,7 @@
 ﻿key,0
 #,Status
-int32,Status
+offset,0
+Int32,UInt16
 0,0
 1,122
 2,155

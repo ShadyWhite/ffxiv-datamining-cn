@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFROLEALL_00620_CYELLA_000_000","你好，欢迎光临彷徨阶梯亭。
 ……你那是什么眼神啊，我现在还是这里的服务员。
 不好意思，如果你是来戏弄我的，就请回吧。"

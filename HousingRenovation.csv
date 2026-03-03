@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
-#,,,,
-int32,uint16,int32,str,str
+#,Territory,Icon,Name,Description
+offset,12,8,0,4
+Int32,UInt16,Int32,String,String
 0,1,0,"",""
 1,282,82107,"海雾村风格","拉诺西亚样式小型住宅的装修风格
 防潮措施非常完善"

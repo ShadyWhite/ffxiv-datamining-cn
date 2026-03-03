@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,,StartupText,RunningText
 offset,8,0,4
-int32,UInt16,String,String
+Int32,UInt16,String,String
 0,0,"",""
 1,1978,"月门基地的联合工程即将动工。
 工程急需人手！欢迎各位协助者加入！","月门基地正在进行第一次基地扩建工程施工！

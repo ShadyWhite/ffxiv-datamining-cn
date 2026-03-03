@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGABR2SKYISLAND2INFO_00389_MAUNIE_000_000","自从有奇怪的浮岛漂到这里后，
 云冠群岛周围的属性之力就开始失去控制，
 让岛上产生了一片风脉特别强劲又十分混乱的地区。"

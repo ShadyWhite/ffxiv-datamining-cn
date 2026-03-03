@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESLGT003_01155_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的记者琪琵·嘉奇亚，希望冒险者配合她进行采访。"

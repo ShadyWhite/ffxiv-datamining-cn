@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,ModelKey,HousingItemCategory,UsageType,UsageParameter,,AquariumTier,CustomTalk,Item,DestroyOnRemoval,,,,,,
-int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,byte,bit&04,bit&08
+#,ModelKey,HousingItemCategory,UsageType,UsageParameter,Placement,AquariumTier,CustomTalk,Item,DestroyOnRemoval,,,Unplacement,UnplacementStorage,,
+offset,12,14,15,0,16,17,4,8,21,21,18,19,20,21,21
+Int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,UInt8,UInt8,UInt8,PackedBool2,PackedBool3
 196608,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
 196609,1,13,0,0,0,0,0,6601,False,False,0,0,0,True,False
 196610,2,13,0,0,0,0,0,6602,False,False,0,0,0,True,False

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESXMX002_05228_SEQ_00","※本任务是特定期间内的任务。
 
 星芒市场的索莉娜干劲十足。"

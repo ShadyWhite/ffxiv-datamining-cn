@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Name,MenuOrder
 offset,0,4
-int32,String,UInt16
+Int32,String,UInt16
 0,"",0
 1,"任务采集物",3
 2,"任务水产品",2

@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,FirstQuest,LastQuest,
-int32,CompleteJournal,CompleteJournal,int32
+offset,0,4,8
+Int32,UInt32,UInt32,Int32
 0,0,333,0
 1,333,548,1
 2,548,628,1

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESXMS802_04659_SEQ_00","※本任务是特定期间内的任务。
 
 园艺工行会附近的洛朗桑急得不知所措。"

@@ -1,6 +1,7 @@
 ﻿key,0,1,2
-#,Name,Icon{Main},Icon{Off}
-int32,str,Image,Image
+#,Name,IconMain,IconOff
+offset,0,4,8
+Int32,String,Int32,Int32
 0,"采掘",60438,60464
 1,"碎石",60437,60463
 2,"采伐",60433,60462

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_000","我听说阿拉基利解放了，
 就赶到了这里，想要狩猎这附近的怪物。"
 1,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_001","我听说阿拉基利解放了，

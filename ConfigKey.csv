@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Label,Param,Platform,Required,Category,,,Text
-int32,str,byte,byte,bit&01,byte,uint16,byte,str
+#,Label,Param,Platform,Required,Category,,BacklightColor,Text
+offset,4,10,11,14,12,8,13,0
+Int32,String,UInt8,UInt8,PackedBool0,UInt8,UInt16,UInt8,String
 0,"",255,255,False,0,0,0,""
 1,"",0,0,False,0,0,0,""
 2,"",0,0,False,0,0,0,""

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESANX001_05015_SEQ_00","※本任务是特定期间内的任务。
 
 舰尾楼的异国的诗人正在为新生庆典做准备。"

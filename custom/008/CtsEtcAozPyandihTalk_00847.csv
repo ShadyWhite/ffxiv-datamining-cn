@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSETCAOZPYANDIHTALK_00847_PYANDIH_000_000","<Highlight>ObjectParameter(1)</Highlight>，
 出发前往黄金港的老师到现在还没有消息。
 希望他没有迷路……"

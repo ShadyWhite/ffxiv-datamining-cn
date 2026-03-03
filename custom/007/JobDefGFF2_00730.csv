@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_000","<Highlight>ObjectParameter(1)</Highlight>，最近怎么样啊？
 作为优秀的贤者，想必你一定守护了许多的生命，
 并将会在今后拯救更多的人们吧。"

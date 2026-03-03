@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_KINGMJ102_05427_SEQ_00","满潮港的可露儿想和大家讨论今后的行动方向。"
 1,"TEXT_KINGMJ102_05427_SEQ_01",""
 2,"TEXT_KINGMJ102_05427_SEQ_02",""

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD4GACHA_00943_TYRMARN_000_000","我的求知欲爆发了！
 虽然我是因为受罚才来到这里，
 但托你的福，这份工作越来越有意思了！"

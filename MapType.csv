@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,uint16
+#,ParentMapOverride
+offset,0
+Int32,UInt16
 0,0
 1,0
 2,0

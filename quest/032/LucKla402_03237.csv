@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_LUCKLA402_03237_SEQ_00","中庸工艺馆的科希·芮想要对萨迈尔进行考察。"
 1,"TEXT_LUCKLA402_03237_SEQ_01",""
 2,"TEXT_LUCKLA402_03237_SEQ_02",""

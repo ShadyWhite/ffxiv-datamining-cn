@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_000","魔晶石是凝结了使用者意念的结晶。
 因此，当魔晶石长时间被放置的话，会渐渐失去光辉。
 我们将这种失去光辉的魔晶石称为“惰性魔晶石”。"

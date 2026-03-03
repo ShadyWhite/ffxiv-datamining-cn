@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_000","没见过你啊。
 你是最近才来到雷克兰德的吧？
 有什么想问的，找我就对了。"

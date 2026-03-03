@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_AKTKBB201_04073_SEQ_00","※本任务是特职钐镰客的开放任务。
 
 乌尔达哈焦急的佣人正在寻找强者。"

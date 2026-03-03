@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_CLSBSM451_00301_SEQ_00","锻铁匠行会的布瑞赛尔十分感谢冒险者。"
 1,"TEXT_CLSBSM451_00301_SEQ_01","接受了布瑞赛尔的委托。和利姆萨·罗敏萨锻铁匠行会的费兹阿尔谈谈。"
 2,"TEXT_CLSBSM451_00301_SEQ_02","和费兹阿尔进行了交谈。筹备<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>各1件，让费兹阿尔查看。"

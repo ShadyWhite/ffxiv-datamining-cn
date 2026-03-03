@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFBRD_00094_JEHANTEL_000_2","我只是一个卑微的吟游诗人。
 虽然曾经隶属于神勇队……
 不过现在，每天只是沉醉于盎然绿意之中，吟唱诗歌而已。"

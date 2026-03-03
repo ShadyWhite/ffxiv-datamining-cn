@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05002_000010_ALISAIE","你来得正好……
 我们这里有位客人来访呢。"
 1,"TEXT_VOICEMAN_05002_000020_EMETSELCH","你怎么也一脸戒备啊。

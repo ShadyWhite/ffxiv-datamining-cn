@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_000","啊，是旅行者呀。
 你有什么问题吗？
 如果是关于我们部落的事情，我可以为你解答。"

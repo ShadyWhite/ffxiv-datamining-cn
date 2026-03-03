@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESPDY501_03208_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈慌张的管家想要冒险者帮忙。"

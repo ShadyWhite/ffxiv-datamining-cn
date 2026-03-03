@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ627_01895_SEQ_00","圣菲内雅连队露营地的让泰洛想到了一记妙案。"
 1,"TEXT_HEAVNZ627_01895_SEQ_01","接受了让泰洛的请求。打倒4只在库尔札斯西部高地板岩连峰附近游荡的<Sheet(BNpcName,3493,0)/>。"
 2,"TEXT_HEAVNZ627_01895_SEQ_02","打倒了<Sheet(BNpcName,3493,0)/>，向圣菲内雅连队露营地的让泰洛报告。"

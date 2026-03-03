@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHWDTRANSPOINT_00701_MENU_TITLE","请选择目的地。
 当前地点：<Highlight>StringParameter(1)</Highlight>"
 1,"TEXT_CTSHWDTRANSPOINT_00701_MENU_01","西升歌文化区"

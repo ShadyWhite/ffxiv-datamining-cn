@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESKOR2016_00308_YURI_000_000","わたくしは、ある恐るべき魔物を追って、
 東方より、この地に参りました。
 どうか私たちにご協力ください。"

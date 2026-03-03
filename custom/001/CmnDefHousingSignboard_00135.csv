@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1","要想以个人形式购买土地，必须有足够的金币支付费用，
 还要将任意职业升至50级。"
 1,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2","此外，所属黑涡团的情况下，军衔需在“协漩尉”以上，

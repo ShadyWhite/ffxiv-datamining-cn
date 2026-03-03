@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Text,DefineValue
-int32,str,uint32
+offset,0,4
+Int32,String,UInt32
 0,"EMOTE_AMAZED",1
 1,"EMOTE_ANGRY",2
 2,"EMOTE_ANGRY_STRONG",3

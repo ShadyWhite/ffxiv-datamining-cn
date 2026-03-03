@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07001_000010_GULOOLJAJA","呵呵。
 抱歉，突然把你叫来。"
 1,"TEXT_VOICEMAN_07001_000020_GULOOLJAJA","我听说你回到了王都，

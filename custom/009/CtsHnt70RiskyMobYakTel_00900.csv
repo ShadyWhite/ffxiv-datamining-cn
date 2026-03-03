@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT70RISKYMOBYAKTEL_00900_TYATQAT_000_001","狩猎是一份杀害生命的差事，但每个生命都是宝贵的。
 只要没有诅咒和疾病，我们就有责任最大化利用它们的每个部分，
 无论是肉、骨头、还是血液。"

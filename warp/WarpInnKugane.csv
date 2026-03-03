@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_WARPINNKUGANE_USHITORA_000_1","欢迎光临。
 这里是“望海楼”。"
 1,"TEXT_WARPINNKUGANE_USHITORA_000_2","不过很抱歉……

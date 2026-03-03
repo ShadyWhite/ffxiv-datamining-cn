@@ -1,6 +1,7 @@
 ﻿key,0
 #,
-int32,str
+offset,0
+Int32,String
 0,""
 1,"<CommandIcon(10)/>收回物品"
 2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"

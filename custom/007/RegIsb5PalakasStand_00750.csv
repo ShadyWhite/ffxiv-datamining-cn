@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGISB5PALAKASSTAND_00750_MULRUNNAH_000_000","您是来帮忙的人吧。
 这是个小村子，请随意逛逛吧。
 如果您有想问的事情，我一定知无不言，言无不尽。"

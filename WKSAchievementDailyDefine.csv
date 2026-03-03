@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,RewardQuantity,,RewardItem[0],SuccessPointsRequired[0],,RewardItem[1],SuccessPointsRequired[1],,,,,,
+#,SuccessPointsRequired,RequiredQuest[0],RewardItem[0],RewardQuantity[0],RequiredQuest[1],RewardItem[1],RewardQuantity[1],RequiredQuest[2],RewardItem[2],RewardQuantity[2],RequiredQuest[3],RewardItem[3],RewardQuantity[3]
 offset,48,0,16,32,4,20,36,8,24,40,12,28,44
-int32,UInt16,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
+Int32,UInt16,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,0,65536,0,0,65536,0,0,65536,0,0,65536,0,0
 1,50,70789,45690,150,70945,45690,150,70984,45690,150,65536,0,0
 2,100,70789,45690,450,70945,45690,450,70984,45690,450,65536,0,0

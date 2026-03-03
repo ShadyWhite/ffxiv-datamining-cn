@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_000","欢迎来到憧憬湾宇宙好运道的接待窗口。
 在这里可以使用月球信用点转动幸运大转盘进行抽奖。
 请问有什么可以帮您的？"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_04001_000010_ALPHINAUD","我第一次去伊修加德的时候就被当地独有的风貌震撼到过，
 而这远东之国的独特文化更是让我耳目一新。
 虽说是异国，没想到街头景色竟然如此不同……"

@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Icon,
-int32,Image,uint16
+offset,0,4
+Int32,UInt32,UInt16
 0.0,0,0
 1.0,72060,63

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000","十分抱歉……
 现在正在确认补给物资，还请耐心等待。"
 1,"TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000","要做什么？（博兹雅晶簇的持有数量：<Value>IntegerParameter(1)</Value>个）"

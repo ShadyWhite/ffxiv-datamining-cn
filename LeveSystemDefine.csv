@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,str,int32
+#,Text,DefineValue
+offset,0,4
+Int32,String,Int32
 0,"GL_SEQ_OFFER",0
 1,"GL_SEQ_ACCEPTED",1
 2,"GL_SEQ_RETRY",3

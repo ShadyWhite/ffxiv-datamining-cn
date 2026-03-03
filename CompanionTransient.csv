@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Description,Description{Enhanced},Tooltip,SpecialAction{Name},SpecialAction{Description},Attack,Defense,Speed,HasAreaAttack,Strength{Gate},Strength{Eye},Strength{Shield},Strength{Arcana},MinionSkillType
-int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,MinionSkillType
+#,Description,DescriptionEnhanced,Tooltip,SpecialActionName,SpecialActionDescription,Attack,Defense,Speed,HasAreaAttack,StrengthGate,StrengthEye,StrengthShield,StrengthArcana,MinionSkillType
+offset,0,4,8,12,16,20,21,22,24,24,24,24,24,23
+Int32,String,String,String,String,String,UInt8,UInt8,UInt8,PackedBool0,PackedBool1,PackedBool2,PackedBool3,PackedBool4,UInt8
 0,"","","","","",100,100,3,False,False,False,False,False,0
 1,"召唤出宠物“爆弹仔”。
 人工孵化的爆弹怪幼体，基本上应该不会自行爆炸。","爆弹怪的幼体。爆弹怪是来自虚无界的气体生物，利用炼金术的技术可以对它们进行人工孵化。喜欢以木炭、青磷水、火属性水晶等各种燃料作为食物。基本上应该不会自行爆炸。","嘿嘿嘿　人家的小可爱

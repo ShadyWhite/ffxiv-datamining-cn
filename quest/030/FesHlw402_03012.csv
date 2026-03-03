@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESHLW402_03012_SEQ_00","※本任务是特定期间内的任务。
 
 格力达尼亚的团长想要确认冒险者的外观。"

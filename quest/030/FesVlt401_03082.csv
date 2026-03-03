@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESVLT401_03082_SEQ_00","※本任务是特定期间内的任务。
 
 米·凯特露天剧场的莉赛特·德·瓦伦提昂有话想要对冒险者说。"

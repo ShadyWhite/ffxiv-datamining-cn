@@ -1,7 +1,7 @@
 ﻿key,0
 #,IsCommon
 offset,0
-int32,PackedBool0
+Int32,PackedBool0
 0,False
 1,False
 2,False

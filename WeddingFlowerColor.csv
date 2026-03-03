@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,,,
 offset,0,1,2
-int32,UInt8,UInt8,UInt8
+Int32,UInt8,UInt8,UInt8
 0,0,0,0
 1,1,2,5
 2,0,3,6

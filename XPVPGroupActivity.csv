@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,,,,
 offset,0,4,8,12
-int32,String,Int32,Int32,UInt8
+Int32,String,Int32,Int32,UInt8
 0,"",0,0,0
 1,"战队“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”成立了。",0,1,0
 2,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>加入了战队。",2,0,0

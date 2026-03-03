@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000","季节活动再现可以让玩家在特定期间内
 再次体验已经完成过的季节活动。"
 1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","要开始“季节活动再现”吗？"

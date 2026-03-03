@@ -1,6 +1,7 @@
 ﻿key,0
 #,Name
-int32,str
+offset,0
+Int32,String
 0,""
 1,"黑涡团制式装备"
 2,"双蛇党制式装备"

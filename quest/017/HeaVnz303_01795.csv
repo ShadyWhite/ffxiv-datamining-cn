@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ303_01795_SEQ_00","自由脑窟穴的跑得快正拿着手枪发愁。"
 1,"TEXT_HEAVNZ303_01795_SEQ_01","跑得快委托冒险者去筹集火药。在龙堡参天高地的兵站窟获取3袋<Sheet(EventItem,2001622,0)/>。"
 2,"TEXT_HEAVNZ303_01795_SEQ_02","获得了<Sheet(EventItem,2001622,0)/>。将<Sheet(EventItem,2001622,0)/>交给自由脑窟穴的跑得快。"

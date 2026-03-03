@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_DRAKE_000_000","啊，冒险者！
 你要鉴定文理碎晶的话，还需要再等一会。
 现在正在进行调整……给你添麻烦了。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1","这里的断崖够壮观的吧？
 就是因为这断崖，才建造了这么个庞然大物，
 好让人和货物来往流通。"

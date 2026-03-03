@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_000","那个，你是来订做水壶的吗？
 哎，不是吗？那你是来做什么的？"
 1,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_Q1_000_1","想了解什么？"

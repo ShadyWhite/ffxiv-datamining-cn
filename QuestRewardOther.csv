@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Icon,Name
-int32,Image,str
+offset,4,0
+Int32,UInt32,String
 0,0,""
 1,1,"三贝刂 讠式"
 2,60033,"风脉泉"

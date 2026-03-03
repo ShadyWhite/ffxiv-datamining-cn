@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFPLD_00091_JENLYNS_000_2","银胄团……
 以守卫乌尔达哈王家为荣。"
 1,"TEXT_JOBDEFPLD_00091_JENLYNS_000_3","我们对现任女王——娜娜莫·乌尔·娜莫陛下效忠，

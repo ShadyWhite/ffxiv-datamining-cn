@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,Slot,Rank,Components,Surveillance,Retrieval,Speed,Range,Favor,Class,RepairMaterials
 offset,12,13,14,2,4,6,8,10,0,15
-int32,UInt8,UInt8,UInt8,Int16,Int16,Int16,Int16,Int16,UInt16,UInt8
+Int32,UInt8,UInt8,UInt8,Int16,Int16,Int16,Int16,Int16,UInt16,UInt8
 0,0,0,0,0,0,0,0,0,0,0
 1,2,1,5,50,40,10,-20,15,3,1
 2,3,1,5,20,20,20,20,20,3,1

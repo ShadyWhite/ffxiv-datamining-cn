@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESGSC702_04728_SEQ_00","※本任务是特定期间内的任务。
 
 金碟游乐场的奥利尔请来了游乐场的所有者戈德伯特。"

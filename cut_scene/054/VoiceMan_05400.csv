@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05400_000010_ALPHINAUD","大家应该都差不多习惯原来的身体了吧？
 我觉得是时候商量一下今后的计划了。"
 1,"TEXT_VOICEMAN_05400_000020_THANCRED","嗯……我准备去一趟加雷马帝都。

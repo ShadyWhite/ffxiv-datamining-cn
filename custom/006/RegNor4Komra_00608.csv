@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4KOMRA_00608_GAMGG_000_000","啦哩吼！
 <Switch(PlayerParameter(71))><Case(1)>我没见过你啊，你是旅行者吗？</Case><Case(2)>我没见过你啊，你是旅行者吗？</Case><Case(3)>真是不知羞耻……你是来自别处的矮人族吧？</Case><Case(4)>我没见过你啊，你是旅行者吗？</Case><Case(5)>我没见过你啊，你是旅行者吗？</Case><Case(6)>我没见过你啊，你是旅行者吗？</Case><Case(7)>我没见过你啊，你是旅行者吗？</Case><Case(8)>我没见过你啊，你是旅行者吗？</Case></Switch>
 ……算了，如果你有想要了解的事情就来问我！"

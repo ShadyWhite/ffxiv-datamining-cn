@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_NOUMENONAUTOMATON_000_000","非常抱歉。
 目前服务拥挤，正在排队……
 我会依序进行指引，请稍候。"

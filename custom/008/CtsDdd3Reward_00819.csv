@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD3REWARD_00819_DD3ITEMSHOP_000_000","哔哔哔……沙沙沙……
 请为我提供资源。
 我会为你制作厉害的道具！"

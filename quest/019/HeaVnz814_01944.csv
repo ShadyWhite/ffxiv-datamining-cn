@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ814_01944_SEQ_00","萨雷安精制区的德利普威克斯想问问冒险者来找他的理由。"
 1,"TEXT_HEAVNZ814_01944_SEQ_01","德利普威克斯委托冒险者夺回<Sheet(EventItem,2001770,0)/>。在萨雷安精制区讨伐<Sheet(BNpcName,3602,0)/>。"
 2,"TEXT_HEAVNZ814_01944_SEQ_02","讨伐了<Sheet(BNpcName,3602,0)/>，但它身上没有<Sheet(EventItem,2001770,0)/>。继续讨伐<Sheet(BNpcName,3602,0)/>，夺回<Sheet(EventItem,2001770,0)/>。"

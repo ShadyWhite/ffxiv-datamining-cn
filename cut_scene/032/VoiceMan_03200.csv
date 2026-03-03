@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03200_000010_KRILE","多亏了你啊，我这边的认证看来也不会有问题。"
 1,"TEXT_VOICEMAN_03200_000020_THANCRED","那我们尽快动身吧。
 临阵磨枪的假扮指不定什么时候就会露出马脚。"

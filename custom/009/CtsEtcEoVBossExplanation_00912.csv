@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_001","啊，你来了。
 既然你想了解瓦纳·迪尔的强者，
 那我就跟你聊聊我从酒馆的吟游诗人那里听到的故事吧。"

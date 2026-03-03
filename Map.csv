@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,MapCondition,PriorityCategoryUI,PriorityUI,MapIndex,Hierarchy,MapMarkerRange,Id,SizeFactor,Offset{X},Offset{Y},PlaceName{Region},PlaceName,PlaceName{Sub},DiscoveryIndex,DiscoveryFlag,TerritoryType,DiscoveryArrayByte,IsEvent,,,
-int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,PlaceName,PlaceName,byte,int16,TerritoryType,uint16,bit&01,bit&02,bit&04,byte
+#,MapCondition,PriorityCategoryUI,PriorityUI,MapIndex,MapType,MapMarkerRange,Id,SizeFactor,OffsetX,OffsetY,PlaceNameRegion,PlaceName,PlaceNameSub,,DiscoveryIndex,DiscoveryFlag,TerritoryType,DiscoveryArrayByte,IsEvent,,MapReplace
+offset,26,27,28,32,29,8,0,10,20,22,12,14,16,30,24,4,18,33,33,33,31
+Int32,UInt8,UInt8,UInt8,Int8,UInt8,UInt16,String,UInt16,Int16,Int16,UInt16,UInt16,UInt16,UInt8,Int16,UInt32,UInt16,PackedBool0,PackedBool1,PackedBool2,UInt8
 0,0,0,0,0,0,0,"",100,0,0,0,0,0,0,-1,0,0,True,False,False,0
 1,0,0,0,0,1,0,"default/00",100,0,0,2405,21,0,0,-1,0,1,True,False,False,0
 2,0,2,2,0,1,3,"f1t1/00",200,0,0,23,52,0,0,-1,0,132,True,False,False,0

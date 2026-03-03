@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESNYR103_00289_SEQ_00","※本任务是特定期间内的任务。
 
 利姆萨·罗敏萨的羊奉行希望冒险者协助黑衣森林的任务。"

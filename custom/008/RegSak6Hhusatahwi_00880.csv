@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000","哟，那边的<If(PlayerParameter(4))>小姐<Else/>小哥</If>。
 你是旅行者吧？要不要我来跟你讲讲镇子上的事啊？"
 1,"TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001","虽然天上飞的那些大箱子令人在意，

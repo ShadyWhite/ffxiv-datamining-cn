@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESVLT2018ENTRANCE_00466_CHAMBERLAIN00466_000_000","莫非你是来参加活动的吗？
 十分抱歉，现在参加活动的人数过多……
 请你再耐心等待片刻。"

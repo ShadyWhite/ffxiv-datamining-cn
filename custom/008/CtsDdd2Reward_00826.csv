@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD2REWARD_00826_DD2SHOP_000_000","虽然这可能听起来有些矛盾，
 但是真的是很闲，一点事情都没有。
 啊，我是指警备的工作啦。"

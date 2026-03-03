@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,byte,str
+#,SortKey,Name
+offset,4,0
+Int32,UInt8,String
 0,0,"未設定"
 1,1,"拉诺西亚"
 2,2,"黑衣森林"

@@ -1,6 +1,7 @@
 ﻿key,0
 #,GatheringPoint
-int32,GatheringPoint
+offset,0
+Int32,UInt32
 1.0,30413
 1.1,30437
 1.2,30467

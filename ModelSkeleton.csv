@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
 #,Radius,Height,VFXScale,,,,,,,,,FloatHeight,FloatDown,FloatUp,,MotionBlendType,LoopFlySE
-int32,single,single,single,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,single,single,uint16,byte,bit&01,byte
+offset,0,4,8,20,22,24,26,28,30,32,34,12,16,36,38,40,39
+Int32,Float32,Float32,Float32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,Float32,Float32,UInt16,UInt8,PackedBool0,UInt8
 0,0.5,1,1,240,600,66,300,66,300,0,0,3,3,0,0,False,0
 1,1.2,1,1,200,500,66,143,66,143,0,0,3,3,0,0,False,1
 2,0.3,0.7,0.5,120,370,66,167,66,135,0,0,3,3,0,0,False,1

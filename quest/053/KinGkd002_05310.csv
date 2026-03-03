@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_KINGKD002_05310_SEQ_00","幻境村的柯坦拉姆看起来非常警戒。"
 1,"TEXT_KINGKD002_05310_SEQ_01",""
 2,"TEXT_KINGKD002_05310_SEQ_02",""

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGHINCOMPANYMENMBERS43_00483_GOODLOOKINGMEMBER_000_000","我好像看到了个突然出现在空中的东西？
 那到底是什么……"
 1,"TEXT_REGHINCOMPANYMENMBERS43_00483_GOODLOOKINGMEMBER_000_010","原来如此，那就是莫古力啊。

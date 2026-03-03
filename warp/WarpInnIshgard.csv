@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_WARPINNISHGARD_BAMPONCET_000_1","这里是九霄云舍。
 不过很抱歉，现在我们还没开始营业……"
 1,"TEXT_WARPINNISHGARD_BAMPONCET_000_2","请您等开店后再来吧。"

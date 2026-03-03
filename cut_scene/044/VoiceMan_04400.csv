@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_04400_000010_THANCRED","唉，可算缓过来了。
 这可真是生命之源啊。"
 1,"TEXT_VOICEMAN_04400_000020_ALISAIE","这次潜入任务，真是辛苦你了……

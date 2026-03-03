@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03003_000010_ALPHINAUD","如果龙族再次攻击伊修加德的话……
 就算我们能够击退龙族，
 伊修加德也将无可避免地受到重大打击。"

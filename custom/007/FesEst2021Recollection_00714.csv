@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESEST2021RECOLLECTION_00714_NONOTTA_000_045","冒险者，你来得正好！
 目前谢礼的分发还在继续，
 我想稍微休息一会，能请你替一下班吗！"

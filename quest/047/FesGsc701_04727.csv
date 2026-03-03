@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESGSC701_04727_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的琪琵·嘉奇亚正在寻找能提供帮助的人。"

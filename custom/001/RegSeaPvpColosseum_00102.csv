@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_001","蛆虫们！胆子不小，竟敢来到这里。
 你到饿狼们的牢狱“狼狱水上竞技场”有事的话，
 那至少要用能盖过产卵期碧企鹅叫声的音量来和我说话！"

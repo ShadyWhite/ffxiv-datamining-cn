@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGISB5RADZATHAN_00739__FAHRUNNAH_000_001","哟，外国的客人！真是少见。
 毕竟为了加强防守，这里已经封城了嘛。
 要是你有什么不懂的地方，请尽管问我。"

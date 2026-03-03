@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,Name
-int32,byte,str
+offset,4,0
+Int32,UInt8,String
 0,0,"無効"
 1,1,"淡水"
 2,2,"海水"

@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Location,MapOffsetX,MapOffsetY
 offset,8,0,4
-int32,Int32,Float32,Float32
+Int32,Int32,Float32,Float32
 0.0,0,0,0
 1.0,4512071,0,0
 1.1,4520393,0,0

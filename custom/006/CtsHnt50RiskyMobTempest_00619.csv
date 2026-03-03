@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT50RISKYMOBTEMPEST_00619_JUDRIC_000","游末邦距离魔物混杂的陆地有一段距离，
 所以单纯的城市防卫工作不会有多困难，
 不过外海的各种海兽是需要注意的重点。"

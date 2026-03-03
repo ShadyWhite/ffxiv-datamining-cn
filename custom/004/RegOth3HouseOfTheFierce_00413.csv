@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_000","欢迎来到烈士庵。
 您有什么想要知道的尽管问，我会知无不答的。"
 1,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_001","<Highlight>ObjectParameter(1)</Highlight>阁下，您没事就好。

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Effect,Icon
-int32,str,Image
+offset,0,4
+Int32,String,Int32
 0,"",0
 1,"vfx/guild/gl1_plate/eff/gl1_0001.avfx",80001
 2,"vfx/guild/gl1_plate/eff/gl1_0002.avfx",80002

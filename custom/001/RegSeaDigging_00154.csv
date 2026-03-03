@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEADIGGING_00154_BAGO_000_200","嘿嘿嘿……你 是谁？
 这里 什么都没有哟……
 我劝你快回去 嘿嘿嘿……"

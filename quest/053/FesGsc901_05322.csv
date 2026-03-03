@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESGSC901_05322_SEQ_00","※本任务是特定期间内的任务。
 
 翠玉大街的喜欢庆典的城里人想要向人介绍金碟嘉年华。"

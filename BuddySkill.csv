@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,BuddyLevel,IsActive,Defender,Attacker,Healer
-int32,byte,bit&01,Row,Row,Row
+offset,6,7,0,2,4
+Int32,UInt8,PackedBool0,UInt16,UInt16,UInt16
 0,0,False,0,0,0
 1,1,True,820,824,828
 2,2,False,71,77,83

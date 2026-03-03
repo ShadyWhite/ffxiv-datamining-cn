@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_010","啊，<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>！
 不好意思，我不卖东西。
 如果有什么想要的，请去罗薇娜阿姨的店里！"

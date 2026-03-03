@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000","哟，居然有客人来到这里，真是稀奇。
 我们只是喜欢平稳的生活，并不是讨厌来客。
 只要你不来破坏我们在这里的生活，我们就欢迎你的到来。"

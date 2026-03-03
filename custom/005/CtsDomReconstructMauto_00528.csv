@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_000","又多出了几块新清理完的土地呢。
 我正想着这边的土地能不能留给我用。"
 1,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_005","白狼之外的狼人族，

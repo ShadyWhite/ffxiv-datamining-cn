@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_025","预想到与苍穹骑士的战斗吗……
 这总会让我不自觉地想起决斗裁判的事呢。
 他们的实力毫无疑问是一流的……"

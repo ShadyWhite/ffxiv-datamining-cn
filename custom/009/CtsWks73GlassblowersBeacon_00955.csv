@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKS73GLASSBLOWERSBEACON_00955_JAROMIR_000_000","哦，你是……之前在憧憬湾见过吧？
 我是一名向导，负责为新人介绍这个星球。
 如果有什么想知道的，可以尽管来问我。"

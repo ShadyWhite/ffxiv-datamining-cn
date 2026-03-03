@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,ExpReward,GilReward,Expansion,CurrencyReward
-int32,uint32,uint16,ExVersion,uint16
+offset,0,4,8,6
+Int32,UInt32,UInt16,UInt8,UInt16
 0,0,0,0,0
 1,0,1000,1,8
 2,0,2000,1,20

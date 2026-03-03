@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
-#,Name,SeparateType,DataType,JournalSection,
-int32,str,byte,byte,JournalSection,byte
+#,Name,SeparateType,DataType,JournalSection,MapCondition
+offset,0,4,5,6,7
+Int32,String,UInt8,UInt8,UInt8,UInt8
 0,"无效分类",0,0,255,0
 1,"重生之境主线任务",1,1,0,0
 2,"第七星历主线任务",1,1,0,0

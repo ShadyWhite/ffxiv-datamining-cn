@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05000_000010_TATARU","大家都到齐了啊！"
 1,"TEXT_VOICEMAN_05000_000020_TATARU","我们也马上开始寻找装置吧！
 只要有一点可疑之处，我们都要收集起来！"

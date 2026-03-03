@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Category,,
 offset,0,4,6
-int32,String,UInt16,UInt8
+Int32,String,UInt16,UInt8
 0,"植物",17,4
 1,"照明",17,3
 2,"功能庭具",17,8

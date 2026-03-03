@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Item1,Item2
 offset,0,4
-int32,UInt32,UInt32
+Int32,UInt32,UInt32
 0,5728,0
 1,5729,0
 2,5730,0

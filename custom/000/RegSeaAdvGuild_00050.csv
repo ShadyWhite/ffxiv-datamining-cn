@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1","欢迎来到沉溺海豚亭。
 有什么事情都可以问我。"
 1,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2","我是沉溺海豚亭的侍者。

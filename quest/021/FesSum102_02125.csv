@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESSUM102_02125_SEQ_00","※本任务是特定期间内的任务。
 
 红莲节食品专员卡·吉波·提亚非常忙碌。"

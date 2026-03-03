@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_02200_000010_THANCRED","接下来……"
 1,"TEXT_VOICEMAN_02200_000020_THANCRED","是我，桑克瑞德。
 情况可能比我们预想的还要复杂。"

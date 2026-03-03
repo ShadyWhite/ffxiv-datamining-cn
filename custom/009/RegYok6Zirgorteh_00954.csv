@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6ZIRGORTEH_00954_BUGARDOR_000_001","<Highlight>ObjectParameter(1)</Highlight>！今天也辛苦了！
 方便的话，要和我聊聊雪棱拜坛吗？"
 1,"TEXT_REGYOK6ZIRGORTEH_00954_Q1_000_000","想了解什么？"

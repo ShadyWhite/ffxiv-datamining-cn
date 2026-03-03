@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_000","在这附近发现了很多未知的文物和陶器。
 我被派来负责对那些东西进行鉴定调查。"
 1,"TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_010","你有没有在“死者宫殿”里发现“埋藏的宝藏”？

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGGYR3RHALGRSREACH_00393_HOUDIN_000_000","欢迎来到神拳痕。
 你想了解什么？"
 1,"TEXT_REGGYR3RHALGRSREACH_00393_HOUDIN_000_001","解放阿拉米格的英雄，<Highlight>ObjectParameter(1)</Highlight>阁下！

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ014_01739_SEQ_00","玫瑰园的蔷薇骑兵团的随军烹调师很辛苦地望着盒饭。"
 1,"TEXT_HEAVNZ014_01739_SEQ_01","蔷薇骑兵团的随军烹调师拜托冒险者去送盒饭。获取玫瑰园的<Sheet(EventItem,2001598,0)/>。"
 2,"TEXT_HEAVNZ014_01739_SEQ_02","收取了<Sheet(EventItem,2001598,0)/>。将<Sheet(EventItem,2001598,0)/>分发给玫瑰园的骑兵们。"

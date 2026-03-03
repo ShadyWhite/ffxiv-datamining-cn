@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_CFC_TO_INSTANCE_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),3)/>"
 1,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_COMP","不断刺激我创作欲望的存在……神兵。
 真想一把抱上去……嘿嘿嘿。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000","«黄道文书»……
 上面记载了上古英雄的事迹，还有他们持有的光之武器。
 你要是想要的话……"

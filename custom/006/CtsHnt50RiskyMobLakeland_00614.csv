@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT50RISKYMOBLAKELAND_00614_MERANTH_000_001","我是狂热兵团的怪物猎人。
 你是旅行者？对狩猎感兴趣吗？
 与死亡擦肩而过的瞬间才是生命最为闪耀的时刻！"

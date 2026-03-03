@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,byte,bit&01
+offset,0,1
+Int32,UInt8,PackedBool0
 0,0,False
 5001,0,False
 5002,0,False

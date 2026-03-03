@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,Name,ENPC,,
-int32,str,ENpcResident,byte,byte
+offset,0,4,8,9
+Int32,String,UInt32,UInt8,UInt8
 0,"",0,0,0
 1,"",0,0,0
 2,"资材已准备充足，计划开启联合重建工程。

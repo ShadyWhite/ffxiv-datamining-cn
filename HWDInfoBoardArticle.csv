@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Type,,,,Text
-int32,HWDInfoBoardArticleType,byte,uint16,bit&01,str
+offset,6,7,4,8,0
+Int32,UInt8,UInt8,UInt16,PackedBool0,String
 0,0,0,0,False,""
 1,0,0,0,False,""
 2,0,0,0,False,""

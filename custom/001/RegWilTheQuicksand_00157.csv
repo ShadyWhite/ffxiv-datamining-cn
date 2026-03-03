@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILTHEQUICKSAND_00157_MOMODI_000_000","欢迎来到流沙屋！
 这里是聚集于乌尔达哈的冒险者们的休息厅。"
 1,"TEXT_REGWILTHEQUICKSAND_00157_MOMODI_000_001","第七灵灾后，城市混乱，纠纷四起。

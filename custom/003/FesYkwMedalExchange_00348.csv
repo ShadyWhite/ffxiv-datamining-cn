@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_000","啊，是你啊……
 要用妖怪徽章来交换妖怪宠物吗？
 还是想换点别的？"

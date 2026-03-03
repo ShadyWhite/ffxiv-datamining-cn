@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_CLSWDK550_01999_SEQ_00","云雾街的巴尔托维厄有些消沉。"
 1,"TEXT_CLSWDK550_01999_SEQ_01","巴尔托维厄想要送给救命恩人正教的修道士一把幻杖。前往伊修加德的以太之光广场，和正教的修道士谈谈。"
 2,"TEXT_CLSWDK550_01999_SEQ_02","正教的修道士想要一把<Sheet(ItemHQ,10636,0)/>。制作<Sheet(ItemHQ,10636,0)/>，交给以太之光广场的正教的修道士。"

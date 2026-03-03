@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02","你想为<Highlight>StringParameter(1)</Highlight>更改竞赛名吗？
 想换个什么样的名字呢？"
 1,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02","为竞赛陆行鸟更改竞赛名需要手续费2000金币。"

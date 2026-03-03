@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ725_01929_SEQ_00","不洁三塔的格林坎比正悲鸣不已。"
 1,"TEXT_HEAVNZ725_01929_SEQ_01","听格林坎比说明了情况。前往龙堡参天高地的悲叹飞泉，在附近讨伐<Sheet(BNpcName,3588,0)/>，获取3个<Sheet(EventItem,2001675,0)/>。"
 2,"TEXT_HEAVNZ725_01929_SEQ_02","获得了<Sheet(EventItem,2001675,0)/>。将<Sheet(EventItem,2001675,0)/>交给不洁三塔的格林坎比。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000","欢迎来到龙舌兰牙床。
 你有什么想问的吗？"
 1,"TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001","艳翼蛇鸟出现的传闻我已经听说了。

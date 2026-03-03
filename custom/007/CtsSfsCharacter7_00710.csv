@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_000","<Highlight>ObjectParameter(1)</Highlight>，感谢来访。
 我们需要的是寝具和餐具等纪念医院的日常用品。
 不知道你帮忙准备了吗？"
@@ -36,7 +36,7 @@ int32,String,String
 另外，信赖等级会用心形图案来表示。"
 21,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_002","每当信赖等级提高，
 就可以看到与<Sheet(ENpcResident,IntegerParameter(1),0)/>有关的新故事。"
-22,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_000","交纳收藏品需要收藏品对应的职业在70级以上才能进行。"
+22,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_000","交纳收藏品需要收藏品对应的职业在70或更高等级才能进行。"
 23,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_001","交纳时，若收藏品所对应的职业等级为100级，
 将会得到工票作为报酬，
 若对应职业未满100级，将会得到经验作为报酬。"
@@ -91,7 +91,7 @@ int32,String,String
 44,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_000","可以交给<Sheet(ENpcResident,IntegerParameter(1),0)/>的道具
 分为能工巧匠、采矿工与园艺工、捕鱼人三种，
 并且需要所有物品均为“收藏品”。"
-45,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_008","交纳收藏品需要收藏品对应的职业在70级以上才能进行。"
+45,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_008","交纳收藏品需要收藏品对应的职业在70或更高等级才能进行。"
 46,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_009","交纳时，若收藏品所对应的职业等级为100级，
 将会得到工票作为报酬，
 若对应职业未满100级，将会得到经验作为报酬。"

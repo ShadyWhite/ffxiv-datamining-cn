@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,,,
-int32,str,uint32,uint32
+offset,0,4,8
+Int32,String,UInt32,UInt32
 0,"",2010,3716
 1,"[<Highlight>StringParameter(1)</Highlight>]",0,0
 2,"[寻宝]",0,0

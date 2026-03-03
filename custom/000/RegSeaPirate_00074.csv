@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAPIRATE_00074_GERALD_000_1","一提到利姆萨·罗敏萨，大家都会有海盗城市的印象，
 但海盗也是与时俱进的。
 你想了解一下海盗吗？"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGISB5THEGREATWORK_00748_AMRA_000_000","哦呀哦呀，这个时期居然有旅行者来访真是稀奇啊。
 你要是有想要了解的事情就来问我吧。"
 1,"TEXT_REGISB5THEGREATWORK_00748_AMRA_000_001","在那座塔发生的事情我已经听说了。

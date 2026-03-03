@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESNYR2018_00381_DOGSERVER_000_000","恭贺新季节的到来。
 我们是来自东方的使节团。
 如果有什么问题，请尽管咨询。"

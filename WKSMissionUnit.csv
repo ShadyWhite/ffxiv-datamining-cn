@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
 #,Name,WKSMissionText,ClassJobCategory[0],ClassJobCategory[1],WKSFunction,IsSpecialQuest,LevelGroup,MissionTime,MissionReward,SilverStarRequirement,GoldStarRequirement,MissionToDo[0],MissionToDo[1],MissionToDo[2],,WKSMissionLotterySpecialCond,LockedBehind,WKSMissionSupplyItem,IsSynced,WKSMissionRecipe,PlaceName,SortKey
 offset,0,4,6,8,34,39,35,10,12,14,16,18,20,22,36,37,24,26,38,28,30,32
-int32,String,UInt16,UInt16,UInt16,UInt8,PackedBool0,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8,UInt8,UInt16,UInt16,UInt8,UInt16,UInt16,UInt16
+Int32,String,UInt16,UInt16,UInt16,UInt8,PackedBool0,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8,UInt8,UInt16,UInt16,UInt8,UInt16,UInt16,UInt16
 0,"",0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1," 制作通用型纤维板",17,9,0,0,False,1,0,1,1200,2400,143,0,0,0,0,0,50,1,2,0,0
 2," 筹备据点外工作所需的燃料",20,9,0,0,False,1,0,2,1200,2400,144,0,0,0,0,0,51,1,3,0,0

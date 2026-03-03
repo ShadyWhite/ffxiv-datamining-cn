@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
 #,Item1,Item2,PlaceName,,Objective1,PopRange0,RequiredAmount1,,,Objective2,PopRange1,RequiredAmount2,,,Objective3,PopRange2,,,,,Image,,,,,
 offset,20,24,60,62,64,28,70,40,73,66,32,71,44,74,68,36,72,48,75,52,56,0,4,8,12,16
-int32,UInt32,UInt32,UInt16,UInt16,UInt16,UInt32,UInt8,UInt32,UInt8,UInt16,UInt32,UInt8,UInt32,UInt8,UInt16,UInt32,UInt8,UInt32,UInt8,UInt32,UInt32,String,String,String,String,String
+Int32,UInt32,UInt32,UInt16,UInt16,UInt16,UInt32,UInt8,UInt32,UInt8,UInt16,UInt32,UInt8,UInt32,UInt8,UInt16,UInt32,UInt8,UInt32,UInt8,UInt32,UInt32,String,String,String,String,String
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""

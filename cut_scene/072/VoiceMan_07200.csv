@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07200_000010_WUKLAMAT","斯菲因？为什么会在这里……？"
 1,"TEXT_VOICEMAN_07200_000020_WUKLAMAT","刚刚进来之前不是还提到过，她一直在对民众说成为永久人的事。
 为什么会在这躺着？"

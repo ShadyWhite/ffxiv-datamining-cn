@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_000","你是……来自异国的人吧。
 找我有什么事吗？"
 1,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_001","哲学家议会命令我们要大撤退，现在可忙了。

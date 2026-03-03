@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000","哎呀，居然会有旅人来到这晨曦王座，真是少见。
 难得见到人来，你有什么想问的就问吧，
 姐姐来回答你。"

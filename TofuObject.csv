@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
 #,,Category,,,Icon,AltIcon,,,Name,,,,,,,,,,,,,
 offset,54,52,12,36,4,8,38,40,0,16,20,24,28,32,42,44,46,48,50,54,54,53
-int32,PackedBool0,UInt8,Int32,UInt16,UInt32,UInt32,UInt16,UInt16,String,Int32,Int32,Int32,Int32,Int32,Int16,Int16,Int16,Int16,Int16,PackedBool1,PackedBool2,Int8
+Int32,PackedBool0,UInt8,Int32,UInt16,UInt32,UInt32,UInt16,UInt16,String,Int32,Int32,Int32,Int32,Int32,Int16,Int16,Int16,Int16,Int16,PackedBool1,PackedBool2,Int8
 0,False,0,0,0,0,0,0,0,"",0,0,0,0,0,255,255,255,255,255,False,False,-1
 1,False,1,0,999,81000,0,256,256,"円形白無地フィールド",1,2,3,0,0,255,255,255,255,255,True,True,-1
 2,False,1,0,999,81000,0,256,256,"円形白タイルフィールド",1,2,3,0,0,255,255,255,255,255,True,True,-1

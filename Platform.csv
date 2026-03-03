@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,str
+#,Name
+offset,0
+Int32,String
 0,""
 1,"手柄"
 2,"手柄"

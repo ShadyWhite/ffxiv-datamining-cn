@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03002_000010_MERLWYB","好久不见了，冒险者。
 还有阿尔菲诺阁下，我很高兴你们都平安无事。
 不过……我真没想到你们竟然会藏身在伊修加德城里。"

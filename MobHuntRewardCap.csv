@@ -1,6 +1,7 @@
 ﻿key,0
 #,ExpCap
-int32,uint32
+offset,0
+Int32,UInt32
 0,0
 1,120
 2,198

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_000","冒险者找我有什么事啊？
 你要是问我太难的问题我也答不上来的。"
 1,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_010","我是“红燕陆战队”的一员，

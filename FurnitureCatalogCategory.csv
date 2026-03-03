@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Category,,
-int32,str,uint16,byte
+offset,0,4,6
+Int32,String,UInt16,UInt8
 0,"桌子",13,1
 1,"架子·柜子",13,2
 2,"其他",13,4

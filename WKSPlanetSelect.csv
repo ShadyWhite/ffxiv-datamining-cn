@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,,Name,PlanetImage,Backdrop,Blurb
 offset,16,4,8,12,0
-int32,UInt8,UInt32,UInt32,UInt32,String
+Int32,UInt8,UInt32,UInt32,UInt32,String
 0,0,5219,70881,70886,"月球上的陨石坑之一。
 
 因周遭被数个陨石坑围绕，环境安定，而被选为了宇宙探索计划的中心。在月门基地的建设过程中经历了各种验证与试验。随着宇宙港的建成，现已成为通向外星的门户。"

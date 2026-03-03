@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_000","为了祝福我和阿维尔
 大家带来了好多礼物呢"
 1,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_001","你看……你一直很在意的那个冒险者也是

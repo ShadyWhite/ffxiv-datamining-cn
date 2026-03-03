@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Requirement,DenyMessage
-int32,Row,LogMessage
+offset,0,4
+Int32,UInt32,UInt32
 0,0,0
 1,1,3964
 2,2,3964

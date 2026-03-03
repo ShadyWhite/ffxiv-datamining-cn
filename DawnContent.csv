@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
-#,Content,,,,Exp{BelowExMaxLvl},Exp{AboveExMaxLvl},,,,,,,,,,,,,,
-int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,uint32,byte,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+#,Content,,,,,,ExpBelowExMaxLvl,ExpAboveExMaxLvl,,,,,,,,,,,,
+offset,0,59,56,59,59,59,4,8,12,58,16,20,24,28,32,36,40,44,48,52
+Int32,UInt32,PackedBool0,UInt16,PackedBool1,PackedBool2,PackedBool3,UInt32,UInt32,UInt32,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,0,False,0,False,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,676,False,1,False,True,True,3091000,1236400,68836,4,2009808,0,1029846,1029847,1029848,1029849,0,0,0,0
 2,649,False,2,False,True,True,3442000,1376800,68848,2,2009829,0,1029157,1029158,1029159,1029160,1029161,0,0,0

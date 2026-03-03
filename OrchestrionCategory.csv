@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Name,HideOrder,Icon,Order,
-int32,str,byte,Image,byte,bit&01
+offset,0,8,4,9,10
+Int32,String,UInt8,UInt32,UInt8,PackedBool0
 0,"",0,0,0,False
 1,"全部",0,0,0,False
 2,"区域场景1",0,82022,1,False

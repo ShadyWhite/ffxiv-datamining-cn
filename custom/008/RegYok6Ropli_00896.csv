@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6ROPLI_00896_ROPLI_000","这里是珠串万货街。
 可以算是为了这个地区成立的市场吧。
 如果你对这里的商品感兴趣的话，就随便转转看看吧。"

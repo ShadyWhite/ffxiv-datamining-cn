@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGGYR3PORTAPRAETORIA_00402_THORNEDCROW_000_000","这不是<Highlight>ObjectParameter(1)</Highlight>阁下么。
 你想了解一下天营门吗？"
 1,"TEXT_REGGYR3PORTAPRAETORIA_00402_THORNEDCROW_000_001","这不是我们的英雄<Highlight>ObjectParameter(1)</Highlight>阁下么！

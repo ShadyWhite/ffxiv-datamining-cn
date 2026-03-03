@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03005_000010_EDMONT","阿巴拉提亚云海北部
 仍然留有诸多尚未探索开发的地区"
 1,"TEXT_VOICEMAN_03005_000020_EDMONT","为了追赶前往魔大陆的教皇

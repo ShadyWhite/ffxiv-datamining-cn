@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_DEEPDUNGEON2ENTRANCE_KYUSEI_000_000","哎呀，您找我有什么事吗？
 现在这里正在警戒中，请稍后再来。"
 1,"TEXT_DEEPDUNGEON2ENTRANCE_TEST_START_MENU_ENTER","<UIForeground>F20235</UIForeground><UIGlow>F20236</UIGlow>挑战“天之御柱”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

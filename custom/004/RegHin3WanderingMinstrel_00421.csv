@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","呀，最近有什么新奇的事情吗？
 如果有能让我写成诗歌的冒险故事，请务必讲给我听。"
 1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","讲述“<If(Equal(IntegerParameter(1),20047))>豪神须佐之男<Else/><If(Equal(IntegerParameter(1),20049))>美神吉祥天女<Else/><If(Equal(IntegerParameter(1),20050))>神龙<Else/><If(Equal(IntegerParameter(1),30057))>龙神巴哈姆特<Else/><If(Equal(IntegerParameter(1),30067))>究极神兵<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神月读<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龙<Else/><If(Equal(IntegerParameter(1),30086))>亚历山大<Else/></If></If></If></If></If></If></If></If></If></If>”的故事"

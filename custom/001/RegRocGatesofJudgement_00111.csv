@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_000","冒险者之流找我有什么事啊？
 要是什么无聊的事小心我敲掉你的脑袋。"
 1,"TEXT_REGROCGATESOFJUDGEMENT_00111_MARCELAIN_000_001","冒险者之流找我有什么事啊？

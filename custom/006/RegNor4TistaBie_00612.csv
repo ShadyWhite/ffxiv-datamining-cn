@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_000","你是刚来到这里的吧？
 我能理解你想玩的心情，
 不过你首先需要和自己的主人搞好关系才行。"

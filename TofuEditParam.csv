@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Name,Default,Minimum,Maximum,
 offset,0,4,6,8,10
-int32,String,Int16,Int16,Int16,PackedBool0
+Int32,String,Int16,Int16,Int16,PackedBool0
 0,"",0,0,0,False
 1,"尺寸",100,50,200,True
 2,"角度",0,-180,180,True

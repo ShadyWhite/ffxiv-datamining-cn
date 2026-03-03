@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFMNK_00093_ERIK_000_000","别和老朽说话。
 老朽现在正在构思设计划时代的以太测量装置。"
 1,"TEXT_JOBDEFMNK_00093_ERIK_000_001","嗯，问得好。

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_KINGBB201_04854_SEQ_00","※本任务是特职绘灵法师的开放任务。
 
 丰饶神祭坛附近的发愁的法师正在应对源源不断的投诉。"

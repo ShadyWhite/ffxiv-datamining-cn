@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_100_000","（★未使用／削除予定★）"
 1,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_100_010","（★未使用／削除予定★）"
 2,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_200_010","（★未使用／削除予定★）"
@@ -63,7 +63,7 @@ int32,String,String
 28,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_140","<Highlight>ObjectParameter(1)</Highlight>！
 你能再来我很高兴！
 啊，稍等一下……我马上收拾一下！"
-29,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_145","刻木匠、制革匠或裁衣匠的等级达到73级以上时，
+29,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_145","刻木匠、制革匠或裁衣匠的等级达到73或更高等级时，
 可以从中庸工艺馆的图楠那里领取下一个交纳委托品的任务。"
 30,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_150","正好你做的素材还有剩余，
 我就让这孩子一边分析一边学习了。"
@@ -189,7 +189,7 @@ int32,String,String
 77,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_340","哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 我刚刚修好一个新的委托品，
 现在正在休息。"
-78,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_345","刻木匠、制革匠或裁衣匠的等级达到75级以上时，
+78,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_345","刻木匠、制革匠或裁衣匠的等级达到75或更高等级时，
 可以从中庸工艺馆的图楠那里领取下一个交纳委托品的任务。"
 79,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_350","<Highlight>ObjectParameter(1)</Highlight>……我问你，
 保存修复和修理的区别……
@@ -288,7 +288,7 @@ int32,String,String
 和图楠对话即可接受任务。"
 118,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_540","嗯……我们讨论过的，
 关于修复鲁特琴的事……"
-119,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_545","刻木匠、制革匠或裁衣匠的等级达到78级以上时，
+119,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_545","刻木匠、制革匠或裁衣匠的等级达到78或更高等级时，
 可以从中庸工艺馆的图楠那里领取下一个交纳委托品的任务。"
 120,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_550","通过对鲁特琴的分析，
 我已经挑出需要用到的素材了。"
@@ -321,7 +321,7 @@ int32,String,String
 不过我会努力完成的！"
 132,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_702","修复工作还需要一段时间，之后再来找我吧！"
 133,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_710","此外，可以领取中庸工艺馆交易的剧情任务了。
-刻木匠、制革匠或裁衣匠的等级达到80级以上时，
+刻木匠、制革匠或裁衣匠的等级达到80或更高等级时，
 可以从中庸工艺馆的图楠那里领取任务。"
 134,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_750","<Highlight>ObjectParameter(1)</Highlight>!
 你来找我啦，太高兴了！

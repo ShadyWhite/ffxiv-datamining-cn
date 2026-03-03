@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 #,Relays[0].EnterTerritory,Relays[1].EnterTerritory,Relays[2].EnterTerritory,Relays[3].EnterTerritory,Relays[4].EnterTerritory,Relays[5].EnterTerritory,Relays[6].EnterTerritory,Relays[7].EnterTerritory,Relays[8].EnterTerritory,Relays[0].ExitTerritory,Relays[1].ExitTerritory,Relays[2].ExitTerritory,Relays[3].ExitTerritory,Relays[4].ExitTerritory,Relays[5].ExitTerritory,Relays[6].ExitTerritory,Relays[7].ExitTerritory,Relays[8].ExitTerritory,Relays[0].Cost,Relays[1].Cost,Relays[2].Cost,Relays[3].Cost,Relays[4].Cost,Relays[5].Cost,Relays[6].Cost,Relays[7].Cost,Relays[8].Cost,
 offset,0,6,12,18,24,30,36,42,48,2,8,14,20,26,32,38,44,50,4,10,16,22,28,34,40,46,52,56
-int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32
+Int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32
 0,0,156,958,156,956,957,958,1189,1189,0,819,959,961,960,1077,1162,1192,1265,0,100,300,200,300,100,400,100,100,9250
 1,819,0,819,819,819,819,819,819,819,156,0,959,961,960,1077,1162,1192,1265,100,0,1740,100,1622,1029,1840,1310,1310,100000
 2,959,959,0,959,959,959,959,959,959,958,819,0,961,960,1077,1162,1192,1265,300,1740,0,1840,2508,1842,100,3357,3357,100000

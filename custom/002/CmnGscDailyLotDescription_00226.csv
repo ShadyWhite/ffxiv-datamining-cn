@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01","仙人微彩是谁都可以参加的轻松抽选！
 如果您感觉今天手气还不错，
 请一定要来试一试！"

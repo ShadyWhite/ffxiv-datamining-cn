@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_AKTKMA107_04363_SEQ_00","公堂保管院前的阿尔菲诺正在窥望里面的情况。"
 1,"TEXT_AKTKMA107_04363_SEQ_01",""
 2,"TEXT_AKTKMA107_04363_SEQ_02",""

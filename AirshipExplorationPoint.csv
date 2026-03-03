@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Name,Name{Short},Passengers,X,Y,RankReq,CeruleumTankReq,SurveyDuration<min>,SurveyDistance,,SurveillanceReq,,,ExpReward
-int32,str,str,bit&01,int16,int16,byte,uint16,uint16,uint16,byte,byte,byte,byte,uint32
+#,Name,NameShort,Passengers,X,Y,RankReq,CeruleumTankReq,SurveyDurationmin,SurveyDistance,,SurveillanceReq,,,ExpReward
+offset,0,4,27,18,20,22,12,14,16,23,25,24,26,8
+Int32,String,String,PackedBool0,Int16,Int16,UInt8,UInt16,UInt16,UInt16,UInt8,UInt8,UInt8,UInt8,UInt32
 0,"云海01","云海01",False,371,831,1,1,180,13,0,0,0,0,10610
 1,"云海02","云海02",False,615,800,1,1,180,13,0,0,0,0,10610
 2,"云海03","云海03",False,156,800,4,1,180,13,0,0,0,0,27840

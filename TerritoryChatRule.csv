@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,,Public,Shout,DutyTell,PublicTell,Party,Global,Pvp
 offset,7,0,1,2,3,4,5,6
-int32,PackedBool0,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
+Int32,PackedBool0,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
 0,False,2,2,0,2,2,2,2
 1,False,0,0,0,0,0,0,0
 2,True,0,0,0,0,0,1,1

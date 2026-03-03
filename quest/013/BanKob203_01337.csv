@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANKOB203_01337_SEQ_00","第789洞穴团采矿地的第789团工匠博古，有事情想推给冒险者做。"
 1,"TEXT_BANKOB203_01337_SEQ_01","第789团工匠博古将第789团辅祭巴戈交给他的任务，推给了冒险者去做。代替他，向第789洞穴团采矿地的第789团辅祭巴戈询问详情。"
 2,"TEXT_BANKOB203_01337_SEQ_02","和第789团辅祭巴戈进行了交谈。对设置在黑金湖的<Sheet(EObj,2003685,0)/>使用<Sheet(EventItem,2001226,0)/>，讨伐<Sheet(BNpcName,2695,0)/>。接下来，再讨伐随之出现的<Sheet(BNpcName,2696,0)/>，获取<Sheet(EventItem,2001227,0)/>。"

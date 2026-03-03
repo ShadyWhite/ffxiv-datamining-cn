@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESXMS2020LETTER_00698_BAENFAELD_000_000","抱歉，我正在整理书信，有点忙不过来。
 除了和各国执行委员的书信往来，
 还有很多其他信件寄过来。"

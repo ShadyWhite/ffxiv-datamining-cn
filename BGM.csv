@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,File,Priority,DisableRestartTimeOut,DisableRestart,PassEnd,DisableRestartResetTime,SpecialMode
-int32,str,byte,bit&01,bit&02,bit&04,single,byte
+offset,0,8,10,10,10,4,9
+Int32,String,UInt8,PackedBool0,PackedBool1,PackedBool2,Float32,UInt8
 0,"",0,False,False,True,90,0
 1,"music/ffxiv/BGM_Null.scd",0,False,False,True,90,0
 2,"music/ffxiv/BGM_System_Title.scd",1,False,False,True,90,0

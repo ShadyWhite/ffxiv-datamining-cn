@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_000","要是真心想重建多玛飞地的话，
 那我希望有座自己的工房……不知道行不行啊……"
 1,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_010","我听说重建工作会先从百货市场开始进行啊。

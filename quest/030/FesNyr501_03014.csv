@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESNYR501_03014_SEQ_00","※本任务是特定期间内的任务。
 
 舰尾楼的亥奉行想要委托冒险者帮忙举办降神节。"

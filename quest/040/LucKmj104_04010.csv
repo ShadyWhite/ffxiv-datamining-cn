@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_LUCKMJ104_04010_SEQ_00","石之家的阿莉塞准备进行下一步行动。"
 1,"TEXT_LUCKMJ104_04010_SEQ_01",""
 2,"TEXT_LUCKMJ104_04010_SEQ_02",""

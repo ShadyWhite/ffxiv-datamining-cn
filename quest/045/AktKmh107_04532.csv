@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_AKTKMH107_04532_SEQ_00","云使宫的壮年星战士十分感谢冒险者。"
 1,"TEXT_AKTKMH107_04532_SEQ_01",""
 2,"TEXT_AKTKMH107_04532_SEQ_02",""

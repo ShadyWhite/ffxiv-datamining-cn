@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_DUNGEONMYC1_00000_RIAN_000_000","噢噢 猎物一个接一个地出现了啊！
 来吧 搭档！"
 1,"TEXT_DUNGEONMYC1_00000_RIAN_000_050","喂喂！ 没想到 达温居然被干掉了！

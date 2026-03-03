@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4EULMORE2_00609_NUNSILUE_000_000","……嗯？
 你找我有什么事？
 还是说你要给我什么吗？"

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
 #,,,,,,,,,,,,,,,
-int32,int32,byte,byte,byte,byte,int32,str,str,str,bit&01,bit&02,bit&04,bit&08,str,str
+offset,20,28,29,30,31,24,8,12,16,32,32,32,32,0,4
+Int32,Int32,UInt8,UInt8,UInt8,UInt8,Int32,String,String,String,PackedBool0,PackedBool1,PackedBool2,PackedBool3,String,String
 0,0,0,0,0,0,0,"","","",False,True,True,True,"",""
 1,1,4,0,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,True,"脱离","按下按钮跳下来吧！"
 2,2,5,23,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,True,"脱离","快速连击按钮挣脱出来吧！"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,VaseFlowerStart,VaseFlowerEnd
 offset,0,4
-int32,UInt32,UInt32
+Int32,UInt32,UInt32
 0,0,0
 1,0,235
 2,1000,1365

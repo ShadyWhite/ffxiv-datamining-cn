@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Name,NeolobbyId,PvPRegion,Region,IsCloud
 offset,0,6,4,7,8
-int32,String,UInt8,UInt16,UInt8,PackedBool0
+Int32,String,UInt8,UInt16,UInt8,PackedBool0
 0,"Unknown",0,0,0,False
 1,"Elemental",1,1,1,False
 2,"Gaia",3,1,1,False

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001","隶属于<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>的部队可以在这里用部队战绩
 兑换特殊的强化魔法和各种有用的物品。"
 1,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q","你有什么事？"

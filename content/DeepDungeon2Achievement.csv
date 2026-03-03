@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_000","你找我这个老头有什么事啊？
 我看你现在并不需要老朽说些什么。"
 1,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_010","愿意接受罗生委托的人就是你啊。

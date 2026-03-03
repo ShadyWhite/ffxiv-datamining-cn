@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ313_01805_SEQ_00","自由脑窟穴的骨颌族离群者凝视着冒险者。"
 1,"TEXT_HEAVNZ313_01805_SEQ_01","骨颌族离群者委托冒险者去收集美味佳肴。前往龙堡参天高地的阿瓦隆尼亚古陆，讨伐<Sheet(BNpcName,3578,0)/>，获得3份<Sheet(EventItem,2001627,0)/>。"
 2,"TEXT_HEAVNZ313_01805_SEQ_02","获得了<Sheet(EventItem,2001627,0)/>。将<Sheet(EventItem,2001627,0)/>交给自由脑窟穴的骨颌族离群者。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFQSTMAIN01_00848_WUKLAMAT_100_001","我相信你的直觉！"
 1,"TEXT_CMNDEFQSTMAIN01_00848_KRILE_000_001","你对哪一个种族更感兴趣？"
 2,"TEXT_CMNDEFQSTMAIN01_00848_ERENVILLE_000_005","虽然与其他两位王子相比，

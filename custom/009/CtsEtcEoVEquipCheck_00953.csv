@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSETCEOVEQUIPCHECK_00953_VANAADV05234B_100_000","你是不是去过波亚达树喵？
 有没有从宝瓶蟹那拿到宝贝喵？"
 1,"TEXT_CTSETCEOVEQUIPCHECK_00953_VANAADV05234B_000_000","我是专门收集稀有道具的寻宝猎人喵。

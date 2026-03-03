@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
 #,,,,,,,,,,,,,,,,,,,,,,
 offset,62,62,40,44,62,62,48,52,0,8,16,24,32,53,54,55,56,57,58,59,60,61
-int32,PackedBool0,PackedBool1,UInt32,UInt32,PackedBool2,PackedBool3,UInt32,UInt8,UInt64,UInt64,UInt64,UInt64,UInt64,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
+Int32,PackedBool0,PackedBool1,UInt32,UInt32,PackedBool2,PackedBool3,UInt32,UInt8,UInt64,UInt64,UInt64,UInt64,UInt64,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
 0,False,False,0,90,False,True,6603,2,2213,9281,0,0,0,0,0,0,0,0,0,0,0,0
 1,False,True,3356,90,False,True,6604,2,2213,585415,0,0,0,1,1,0,0,0,0,0,0,0
 2,True,False,0,90,False,False,0,2,2213,657270971,0,0,0,1,1,0,0,0,0,0,0,0
@@ -200,7 +200,7 @@ int32,PackedBool0,PackedBool1,UInt32,UInt32,PackedBool2,PackedBool3,UInt32,UInt8
 195,True,False,0,90,False,False,0,3,2192,511,581199943,0,0,2,1,1,0,0,0,0,0,0
 196,True,False,0,90,False,False,0,3,2192,511,2429767,0,0,2,1,1,0,0,0,0,0,0
 197,True,False,0,90,False,False,0,3,2192,511,9719091,0,0,1,1,0,0,0,0,0,0,0
-198,True,False,0,90,False,False,0,3,2192,511,581199943,0,0,2,1,1,0,0,0,0,0,0
+198,True,True,0,90,False,False,0,3,2192,511,581199943,0,0,2,1,1,0,0,0,0,0,0
 199,True,True,4032,90,False,False,0,3,2192,511,2429767,0,0,2,1,1,0,0,0,0,0,0
 200,True,True,4033,90,False,False,0,3,2192,511,9719091,0,0,1,1,0,0,0,0,0,0,0
 201,False,False,0,90,False,True,7001,4,2387,33585,578203327,570084,0,1,1,0,0,0,0,0,0,0

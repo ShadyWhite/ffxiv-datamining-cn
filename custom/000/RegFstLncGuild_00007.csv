@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTLNCGUILD_00007_YWAIN_000_1","来得正好。
 要我给你讲讲“枪术”么？"
 1,"TEXT_REGFSTLNCGUILD_00007_Q1_000_1","想了解什么？"

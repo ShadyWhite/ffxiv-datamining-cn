@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESPDY2016SHARE_00319_BUTLER_000_000","现在正值女孩子们的节日“女儿节”，
 请尽情享受节日活动带来的欢乐！"
 1,"TEXT_FESPDY2016SHARE_00319_BUTLER_000_001","为了提升小黄莺的知名度，

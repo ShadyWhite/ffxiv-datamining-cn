@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1","欢迎来到魔女咖啡馆。
 您有什么需要请尽管吩咐。"
 1,"TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2","我是魔女咖啡馆的侍者，

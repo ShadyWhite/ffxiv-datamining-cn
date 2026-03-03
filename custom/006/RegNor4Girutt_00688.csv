@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_000","我打算在这里大赚一笔。
 现在正在准备开业，你稍后再来吧。"
 1,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_001","你好啊，<Highlight>ObjectParameter(1)</Highlight>！

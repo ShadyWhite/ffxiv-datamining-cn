@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_000","我叫米莉丝·艾恩哈特，是个探险家。
 你知道“艾欧泽亚全景图”吧？那是我爷爷绘制的……
 受他影响，我家代代都以探险家为职。"

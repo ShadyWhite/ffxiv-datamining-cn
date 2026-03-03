@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05505_002630_KANESENNA","由衷感谢各位前来出席本次会议。"
 1,"TEXT_VOICEMAN_05505_002640_IXALICHIEFTAIN","听说你们找到了线索？
 就别说客套话了！

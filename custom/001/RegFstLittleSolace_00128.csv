@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_000","你是冒险者吗呼啾？
 找我有什么事啊呼啾？"
 1,"TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_010","我是妖精族的诺蕾克希亚呼啾。

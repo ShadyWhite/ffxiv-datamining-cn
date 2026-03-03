@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_ENG00465_000_000","我将探索优雷卡过程中需要说明的部分进行了整理。
 如果你有什么疑问的话，请在出发前确认一下。"
 1,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_Q1_000_000","要做什么？"
@@ -50,7 +50,7 @@ int32,String,String
 “元素经验值”将不会减少。"
 27,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_SYSTEM_000_033","另外，当“元素等级”低于5级时，
 即使陷入无法战斗状态，“元素经验值”也不会减少。"
-28,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_SYSTEM_000_034","当“元素等级”在11级以上且“元素经验值”因减少而降至0以下时，
+28,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_SYSTEM_000_034","当“元素等级”在11或更高等级且“元素经验值”因减少而降至0以下时，
 如果陷入无法战斗状态，
 将会导致“元素等级”下降。"
 29,"TEXT_CTSERKEUREKA1EVENTMAGIABOARDGUIDE_00465_ENG00465_000_040","栖息在优雷卡的魔物受到环境的影响，

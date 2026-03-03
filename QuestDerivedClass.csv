@@ -1,6 +1,7 @@
 ﻿key,0
 #,ClassJob
-int32,ClassJob
+offset,0
+Int32,UInt8
 0,0
 65580,11
 66058,33

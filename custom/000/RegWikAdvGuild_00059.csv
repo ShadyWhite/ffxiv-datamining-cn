@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWIKADVGUILD_00059_PAPASU_000","哎呀，你来得正好。
 怎么样？流沙屋的食物很好吃吧？
 大口吃饭才能有干劲去冒险！"

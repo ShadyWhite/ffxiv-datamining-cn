@@ -1,7 +1,7 @@
 ﻿key,0
 #,URL
 offset,0
-int32,String
+Int32,String
 0,""
 1,"https://ff.web.sdo.com/finder"
 2,"https://ff.web.sdo.com/bbs"

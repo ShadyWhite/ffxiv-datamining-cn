@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,,
+#,Text,DefineValue
 offset,0,4
-int32,String,UInt32
+Int32,String,UInt32
 0,"HOWTO_MOVE_AND_CAMERA",1

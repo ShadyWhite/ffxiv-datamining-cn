@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,sbyte,sbyte
+offset,0,1
+Int32,Int8,Int8
 0,-1,-1
 1,-1,-1
 2,-1,-1

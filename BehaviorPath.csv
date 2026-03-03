@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,IsTurnTransition,IsFadeOut,IsFadeIn,IsWalking,,Speed
-int32,bit&01,bit&02,bit&04,bit&08,bit&10,single
+offset,4,4,4,4,4,0
+Int32,PackedBool0,PackedBool1,PackedBool2,PackedBool3,PackedBool4,Float32
 0,True,False,False,False,True,0
 1,True,True,True,False,True,0
 2,False,True,True,False,True,0

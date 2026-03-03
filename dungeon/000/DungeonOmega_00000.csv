@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_DUNGEONOMEGA_00000_CID_000_000","(-西德-)<Highlight>ObjectParameter(1)</Highlight>，听得见吗？
 敌人名为德尔塔I老者！
 将其击退！"

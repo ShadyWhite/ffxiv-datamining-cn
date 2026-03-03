@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_000","感谢你过来。
 那在开始调查前，咱们再确认一下现在的状况吧。"
 1,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_001","咱们来这里的目的是为了使用原型以太之光。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD3ENTRANCE_00817_KHATUN_000_000","你好你好！
 事情我都听说啦！你就放心吧！
 那位大魔法师诺亚大人竟然有活让我干！我可不会让她失望的！"

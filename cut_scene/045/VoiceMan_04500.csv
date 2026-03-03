@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_04500_000010_ALISAIE","你来啦。"
 1,"TEXT_VOICEMAN_04500_000020_ALISAIE","我后来又去向炼金术士行会和幻术师行会求助，
 想看看有没有什么治疗方法……"

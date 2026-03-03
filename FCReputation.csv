@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,PointsToNext,RequiredPoints,DiscountRate,Color,Name
-int32,uint32,uint32,byte,UIColor,str
+offset,4,8,16,12,0
+Int32,UInt32,UInt32,UInt8,UInt32,String
 0,0,0,100,0,""
 1,6138,0,100,56,"中立"
 2,24553,6138,98,57,"承认"

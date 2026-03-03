@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,Masculine,Feminine,IsPrefix,Order
 offset,0,4,8,12
-int32,String,String,PackedBool0,UInt16
+Int32,String,String,PackedBool0,UInt16
 0,"","",False,0
 1,"永无止境","永无止境",True,1
 2,"忠诚","忠诚",True,2
@@ -832,7 +832,7 @@ int32,String,String,PackedBool0,UInt16
 827,"","",False,0
 828,"","",False,0
 829,"雾中奇人","雾中奇人",True,1892
-830,"","",False,0
-831,"","",False,0
+830,"专业主人公","专业主人公",True,1893
+831,"文学重炮","文学重炮",True,1894
 832,"重力对抗者","重力对抗者",True,1895
 833,"悦光之设计师","悦光之设计师",True,1896

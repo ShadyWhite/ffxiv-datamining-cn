@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,Companion,Item,Location[0],Location[1],Location[2],Location[3],Location[4],Location[5],Transient
 offset,8,4,10,12,14,16,18,20,0
-int32,UInt16,UInt32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,String
+Int32,UInt16,UInt32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,String
 0,0,0,0,0,0,0,0,0,""
 1,200,15168,148,135,141,0,0,0,"　喵　"
 2,201,15169,152,138,145,0,0,0,"萌给"

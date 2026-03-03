@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3DOMANENCLAVE_00415_YOMOGI_000_000","啊，你是……
 是和飞燕大人一起战斗的那位吧！
 由衷欢迎你来到多玛飞地！"

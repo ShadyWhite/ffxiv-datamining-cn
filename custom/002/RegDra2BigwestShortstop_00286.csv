@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGDRA2BIGWESTSHORTSTOP_00286_BACKRIX_000_000","呼哧……呼哧……
 我是记录员巴库利克斯！人们称呼我为 数据狂人！
 我这里可 没有要告诉你的 数据哥布！"

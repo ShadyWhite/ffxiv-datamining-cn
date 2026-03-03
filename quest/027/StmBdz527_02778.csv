@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_STMBDZ527_02778_SEQ_00","晨曦王座的古余克有事想委托身手高强的人。"
 1,"TEXT_STMBDZ527_02778_SEQ_01",""
 2,"TEXT_STMBDZ527_02778_SEQ_02",""

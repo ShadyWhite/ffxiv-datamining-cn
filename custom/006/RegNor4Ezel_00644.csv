@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4EZEL_00644_EZELII_000_000","这就是仙子族的<Emphasis>“梦园”</Emphasis>丽耶美格梦园啊。
 在伊尔美格，可能有很多各种各样的、
 我们不甚了解的幻惑空间呢。"

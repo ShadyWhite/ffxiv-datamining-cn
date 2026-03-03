@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
+#,PlaceName,AetheryteObject,DisplayIndex,,,UnlockIndex
 offset,0,4,10,11,12,8
-int32,UInt32,UInt32,UInt8,UInt8,UInt8,UInt16
+Int32,UInt32,UInt32,UInt8,UInt8,UInt8,UInt16
 0.0,0,0,0,255,255,65535
 1.0,4927,2014664,0,255,255,1
 1.1,4928,2014665,1,255,255,2

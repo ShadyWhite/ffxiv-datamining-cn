@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_STMBDZ516_02767_SEQ_00","模儿衣楼的阔旦正在寻找异国人。"
 1,"TEXT_STMBDZ516_02767_SEQ_01",""
 2,"TEXT_STMBDZ516_02767_SEQ_02",""

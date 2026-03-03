@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESSUM007_01540_SEQ_00","※本任务是特定期间内的任务。
 
 和盲铁坑道的红莲节执行委员艾西莉亚对话，即可参加“红莲水龙队出击”。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESESTADDBUNNY_00665_GENBU_000_050","哎呀！遇到了一张熟悉的面孔啊——
 距离上次一别感觉已经过去了很久呢——
 我还是一如既往地在不断进行着修行——"

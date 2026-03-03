@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Objective,Image
 offset,4,0
-int32,UInt8,UInt32
+Int32,UInt8,UInt32
 0,0,0
 1,1,121711
 2,8,121712

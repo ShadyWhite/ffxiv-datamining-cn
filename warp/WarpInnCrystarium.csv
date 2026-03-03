@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_1","欢迎光临。
 这里是悬挂公馆。"
 1,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_2","只不过非常抱歉……

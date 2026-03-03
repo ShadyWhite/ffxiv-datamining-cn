@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","本人是<Switch(IntegerParameter(1))><Case(1)>大国防联军“黑涡团”</Case><Case(2)>大国防联军“双蛇党”</Case><Case(3)>大国防联军“恒辉队”</Case></Switch>的魔法工兵！"
 1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","本人是<Switch(IntegerParameter(1))><Case(1)>大国防联军“黑涡团”</Case><Case(2)>大国防联军“双蛇党”</Case><Case(3)>大国防联军“恒辉队”</Case></Switch>的魔法工兵！
 负责给军阶在<Switch(IntegerParameter(1))><Case(1)>漩士长</Case><Case(2)>牙士长</Case><Case(3)>耀士长</Case></Switch>以上的人员赋予“神应”！"

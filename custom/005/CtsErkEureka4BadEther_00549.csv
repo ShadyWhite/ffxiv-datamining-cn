@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_000","在<Sheet(EObj,2009686,0)/>设置了地脉控制器。
 返回中央魔力桥脚，和可露儿汇合。"
 1,"TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_010","在<Sheet(EObj,2009687,0)/>设置了地脉控制器。

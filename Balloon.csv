@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Slowly,Dialogue
-int32,bit&01,str
+offset,4,0
+Int32,PackedBool0,String
 0,False,""
 1,False,""
 2,False,"欢迎！欢迎！"

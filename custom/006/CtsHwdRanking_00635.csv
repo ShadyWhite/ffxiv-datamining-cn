@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHWDRANKING_00635_LUDOVRAINT_000_000","我叫吕多佛兰。
 请多多指教……虽然想这么说，
 不过我看你现在还在迷茫啊。"

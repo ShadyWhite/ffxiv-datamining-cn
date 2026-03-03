@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4WRENRIC_00631_WRENRIC_000_000","住在上路客店的只有患者和辅助患者的职工而已。
 所以才需要警戒周围的情况。
 像我们这样的看守就是为此而来的。"

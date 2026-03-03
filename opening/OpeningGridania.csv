@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_01","喂，我说你！过来这边！"
 1,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_02","等一下！你要去哪里？
 我说过来这边，你没听到吗？！"

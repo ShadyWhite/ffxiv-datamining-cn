@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFRPM_00863_BERURU_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>！
 没想到在旅行途中能够再见到你，
 真是意料外的惊喜！"

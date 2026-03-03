@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_000","啊，欢迎光临。
 这里是尤卡巨人族居住的沃拉的回响……
 已经好久没有佩鲁佩鲁族以外的客人来到这里了。"

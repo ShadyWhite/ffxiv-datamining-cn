@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANKOB104_01328_SEQ_00","第789洞穴团采矿地的第789团清洁工博兹很不甘。"
 1,"TEXT_BANKOB104_01328_SEQ_01","第789团清洁工博兹想报复瞧不起自己的地灵族。代替他讨伐2名<Sheet(BNpcName,377,0)/>，并打倒随之出现的<Sheet(BNpcName,2687,0)/>。"
 2,"TEXT_BANKOB104_01328_SEQ_02","打倒了<Sheet(BNpcName,377,0)/>和<Sheet(BNpcName,2687,0)/>。向第789洞穴团采矿地的第789团清洁工博兹报告。"

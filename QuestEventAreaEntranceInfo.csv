@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Quest,,Location
-int32,Quest,byte,Level
+offset,0,8,4
+Int32,UInt32,UInt8,UInt32
 0.0,0,0,0
 9906629.0,69602,3,8664394
 9906640.0,70000,6,8961361

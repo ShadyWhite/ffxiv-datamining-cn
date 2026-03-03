@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_EXITRANGE_DISMOUNT_Q","骑乘状态下不能继续前进。
 要从坐骑上下来吗？"
 1,"TEXT_EXITRANGE_DISMOUNT_YES","是"

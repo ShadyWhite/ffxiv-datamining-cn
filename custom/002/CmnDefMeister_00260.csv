@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_001","看来你做好准备领取专家之证了？
 那么，就告诉我你想要在哪条道路上达到终极吧。"
 1,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_TITLE","要接受哪个职业的专家制作认证？"
@@ -17,7 +17,7 @@ int32,String,String
 你不是已经被认定为<Sheet(ClassJob,IntegerParameter(1),0)/>专家了吗？"
 9,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_017","哼，可笑，这点程度还不够资格成为<Sheet(ClassJob,IntegerParameter(1),0)/>专家。
 看来你是还没睡醒吧？"
-10,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018","只有等级达到55级以上的能工巧匠才予以发放专家之证。"
+10,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018","只有等级达到55或更高等级的能工巧匠才予以发放专家之证。"
 11,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_030","你根本没带着作为专家之证材料的<Sheet(Item,IntegerParameter(1),0)/>啊！
 连这点东西都没法自己弄到的话，我可不会认可你的。"
 12,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_031","发放专家之证需要<Sheet(Item,IntegerParameter(1),0)/>。"

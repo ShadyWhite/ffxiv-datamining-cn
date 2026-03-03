@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESANV2018_00497_ANVENTRANCE00497_000_000","你也想参加市区军事演习吗？
 那就让我来给你带路吧。"
 1,"TEXT_FESANV2018_00497_ANVENTRANCE00497_000_010","在乌尔达哈举行的恒辉队市区军事演习

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
 #,ModelKey,HousingItemCategory,UsageType,UsageParameter,,CustomTalk,Item,DestroyOnRemoval,,,,,,,
-int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,byte,bit&08,bit&10
+offset,12,14,15,0,16,4,8,20,20,20,17,18,19,20,20
+Int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,UInt8,PackedBool3,PackedBool4
 131072,0,17,0,0,0,0,0,False,False,True,0,0,0,False,False
 131073,1,17,0,0,0,0,6686,False,False,True,0,0,0,False,True
 131074,2,17,0,0,0,0,6476,False,False,True,0,0,0,False,True

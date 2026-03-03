@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_000","你是干什么的？
 我正在对上空进行监视，有什么事赶紧说。"
 1,"TEXT_REGROC2CONVICTORY_00282_Q1_000_000","想了解什么？"

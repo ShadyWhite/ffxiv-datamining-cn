@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,,,,Name
 offset,7,4,6,0
-int32,PackedBool0,UInt16,UInt8,String
+Int32,PackedBool0,UInt16,UInt8,String
 0,False,0,255,""
 1,True,5,5,"场地"
 2,True,1,1,"职业/特职"

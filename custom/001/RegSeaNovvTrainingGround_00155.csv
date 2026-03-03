@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEANOVVTRAININGGROUND_00155_QULL_000_130","呼嘶……无鳍类，
 这里不是你居住的世界。
 去清醒一下头脑吧……"

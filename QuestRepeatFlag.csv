@@ -1,6 +1,7 @@
 ﻿key,0
 #,Quest
-int32,Row
+offset,0
+Int32,UInt32
 0,0
 1,0
 2,66677

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000","哎哟，英雄大人？!
 你是要找我身边的奥瓦埃尔大人吗？"
 1,"TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000","哎呀，英雄大人！

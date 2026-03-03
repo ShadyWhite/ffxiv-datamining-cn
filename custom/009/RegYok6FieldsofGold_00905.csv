@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_000","旅行者，欢迎光临……
 现在暂时没什么活力，请见谅……"
 1,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_001","旅行者，欢迎光临。

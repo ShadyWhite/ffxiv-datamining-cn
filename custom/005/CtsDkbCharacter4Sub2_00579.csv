@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000","我想为水晶都的人们做出贡献……
 所以我现在正在研究改良水果的品种，
 想要研发出能够治愈人们身心的果实！"

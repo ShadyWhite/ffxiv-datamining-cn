@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCCHOCOBORACERETIRE_00232_TALK_ACTOR_02","要让<Highlight>StringParameter(1)</Highlight>退役吗？"
 1,"TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_Q1","确定要让<Highlight>StringParameter(1)</Highlight>退役吗？
 一旦退役，就无法再次登记为竞赛陆行鸟。"

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,,BannerURL,Description,Language,PictureURL
-int32,byte,str,str,str,str
+offset,16,0,4,8,12
+Int32,UInt8,String,String,String,String
 0,255,"","","",""
 1,0,"","","",""
 2,0,"","","",""

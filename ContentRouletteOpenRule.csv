@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,Type
-int32,bit&01,uint32
+#,HasDutyRequirements,Type
+offset,4,0
+Int32,PackedBool0,UInt32
 0,False,2
 1,False,2
 2,True,2

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_XXAUSA104_03858_SEQ_00","帕帕力莫想要让冒险者得到妖精族的认可。"
 1,"TEXT_XXAUSA104_03858_SEQ_01","向法师伊梅狄亚询问有没有可以帮得上忙的事情。"
 2,"TEXT_XXAUSA104_03858_SEQ_02","打倒影响妖精族正常生活的<Sheet(BNpcName,223,0)/>和<Sheet(BNpcName,2157,0)/>各1只。另外，再筹备3份<Sheet(EventItem,2003005,0)/>。"

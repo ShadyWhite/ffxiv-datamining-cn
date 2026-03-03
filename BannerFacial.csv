@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,Emote,UnlockCondition,,,SortKey,
-int32,Emote,BannerCondition,uint16,uint16,uint16,byte
+#,Emote,UnlockCondition,,,,SortKey
+offset,0,2,4,6,8,10
+Int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8
 0,0,1,0,0,0,1
 1,68,1,0,0,0,2
 2,69,1,0,0,0,3

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILHORIZON_00057_GISELBERDUS_000","怎么，你也迷路了吗？
 如果有什么疑问的话，我可以帮你解答。"
 1,"TEXT_REGWILHORIZON_00057_SCENE00000Q","想了解什么？"

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ409_01827_SEQ_00","赎罪天廊的莫古萌在警戒四周。"
 1,"TEXT_HEAVNZ409_01827_SEQ_01","接受了莫古萌的委托。讨伐赎罪天廊北边的<Sheet(BNpcName,3617,0)/>、南边的<Sheet(BNpcName,3618,0)/>各3只。"
 2,"TEXT_HEAVNZ409_01827_SEQ_02","讨伐了<Sheet(BNpcName,3618,0)/>和<Sheet(BNpcName,3617,0)/>。向赎罪天廊的莫古萌报告。"

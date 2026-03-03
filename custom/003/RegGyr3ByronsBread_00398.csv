@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_000","这里是拜隆粮场。
 你来这里是要收购农作物吗？"
 1,"TEXT_REGGYR3BYRONSBREAD_00398_Q1_000_000","想了解什么？"

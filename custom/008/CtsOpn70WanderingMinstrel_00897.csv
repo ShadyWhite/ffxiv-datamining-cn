@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_CFC_TO_INSTANCE_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),3)/>"
 1,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_001","哟，你愿意与我分享一下冒险见闻吗？
 我很期待你的故事。"

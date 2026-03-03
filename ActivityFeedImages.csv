@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,ExpansionImage,ActivityFeedJA,ActivityFeedEN,ActivityFeedDE,ActivityFeedFR
-int32,str,str,str,str,str
+offset,0,4,8,12,16
+Int32,String,String,String,String,String
 0,"ffxiv_activityfeed_v400_01_small.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png"
 1,"","","","",""
 2,"ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png"

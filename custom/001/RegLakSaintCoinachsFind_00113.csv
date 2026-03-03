@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_000","嗯，这些水晶……嗯？
 你找我有什么事吗？"
 1,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_001","哎呀，今天过来有什么事吗？

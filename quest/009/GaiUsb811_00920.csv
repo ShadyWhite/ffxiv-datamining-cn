@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_GAIUSB811_00920_SEQ_00","蓝雾的中间人帕帕瓦兹好像也遇到了麻烦。"
 1,"TEXT_GAIUSB811_00920_SEQ_01","青磷精炼所运出的<Sheet(EventItem,2000714,0)/>有被倒卖的嫌疑。对运输<Sheet(EventItem,2000714,0)/>的要强的运货人使用情感动作“质疑”。"
 2,"TEXT_GAIUSB811_00920_SEQ_02","质问了要强的运货人，但是他声称自己是被冤枉的。依照他所说的，调查放于保管处的<Sheet(EObj,2002153,0)/>。"

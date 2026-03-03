@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,GrandCompany,Tier,SubCategory
-int32,GrandCompany,sbyte,sbyte
+offset,0,1,2
+Int32,Int8,Int8,Int8
 0,0,0,0
 1,1,1,1
 2,1,1,2

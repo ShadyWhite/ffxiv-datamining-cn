@@ -1,6 +1,7 @@
 ﻿key,0
 #,Name
-int32,str
+offset,0
+Int32,String
 0,""
 1,"自动攻击"
 2,"魔法"

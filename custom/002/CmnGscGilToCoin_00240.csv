@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","欢迎光临金碟游乐场！
 我可以为您将金币兑换成金碟币。"
 1,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","……非常遗憾，您的金币不够了。

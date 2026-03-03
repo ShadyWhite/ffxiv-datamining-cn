@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,SatisfactionLevel,SatisfactionNpc,Quest,
 offset,4,5,0,6
-int32,UInt8,UInt8,UInt32,UInt8
+Int32,UInt8,UInt8,UInt32,UInt8
 0.0,0,3,0,0
 1.0,4,6,68714,1
 1.1,4,3,68714,1

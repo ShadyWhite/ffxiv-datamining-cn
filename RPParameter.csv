@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,BNpcName,ClassJob,Sex
 offset,0,2,3
-int32,UInt16,UInt8,UInt8
+Int32,UInt16,UInt8,UInt8
 0,0,0,0
 1,4130,27,0
 2,729,6,1

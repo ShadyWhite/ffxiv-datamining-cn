@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_LUCKBA301_03273_SEQ_00","彷徨阶梯亭的芦·利柯大马金刀地站在那里。"
 1,"TEXT_LUCKBA301_03273_SEQ_01","芦·利柯为了解决四使徒之一，正在寻找伙伴。冒险者接受了他的试练。在雷克兰德的迷途羊倌之森和芦·利柯谈谈。"
 2,"TEXT_LUCKBA301_03273_SEQ_02","芦·利柯的试练是指讨伐<Sheet(BNpcName,8439,0)/>。将从他那里拿到的<Sheet(EventItem,2002718,0)/>放在迷途羊倌之森的<Sheet(EObj,2010396,0)/>，吸引<Sheet(BNpcName,8439,0)/>。"

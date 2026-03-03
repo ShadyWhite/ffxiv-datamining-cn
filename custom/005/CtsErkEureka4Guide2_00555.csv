@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA4GUIDE2_00555_CULINARIAN00519_000_000","不知道是不是因为水属性之力太强，导致这一带的湿气这么重……
 和之前是寒冷区域的涌火地带相比，
 得更加注意小心地保存食品。"

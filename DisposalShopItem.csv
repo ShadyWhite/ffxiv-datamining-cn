@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,Item{Disposed},,Item{Received},,Quantity{Received},
-int32,Item,bit&01,Item,bit&02,uint32,uint16
+#,ItemDisposed,,ItemReceived,,QuantityReceived,
+offset,4,14,8,14,0,12
+Int32,Int32,PackedBool0,Int32,PackedBool1,UInt32,UInt16
 3473408.0,0,False,0,False,0,0
 3473409.0,13381,False,13630,False,1,1000
 3473409.1,13382,False,13630,False,1,999

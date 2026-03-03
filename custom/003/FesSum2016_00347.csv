@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESSUM2016_00347_WUNTHYLL_000_000","哦哦哦，这不是<Highlight>ObjectParameter(1)</Highlight>吗？！
 你不记得我了？
 真是太薄情了……别闲扯了，先干活吧干活！"

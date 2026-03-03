@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,,,,
-int32,bool,bool,bool,bool
+offset,0,1,2,3
+Int32,Bool,Bool,Bool,Bool
 0,True,True,True,False
 1,True,True,False,False
 2,True,False,True,False

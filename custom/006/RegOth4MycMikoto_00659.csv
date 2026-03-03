@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH4MYCMIKOTO_00659_000_000","从“探觉石”上已经感觉不到力量了。
 就像请神需要以太一样，
 记忆探索也需要“探觉石”这种水晶的力量。"

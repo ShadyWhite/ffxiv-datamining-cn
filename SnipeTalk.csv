@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,,,Name,Text,,
 offset,14,15,12,0,4,8
-int32,UInt8,UInt8,UInt16,String,String,String
+Int32,UInt8,UInt8,UInt16,String,String,String
 0,0,0,0,"","",""
 1,0,0,0,"","",""
 2,0,0,0,"","",""

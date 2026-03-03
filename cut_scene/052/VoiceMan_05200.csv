@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05200_000010_MAXIMA","劳班总司令，
 拂晓的二位到了。"
 1,"TEXT_VOICEMAN_05200_000020_RAUBAHN","看来你已经完全恢复了。

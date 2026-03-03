@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_100_000","今后这里将会成为全体鲶鱼精接受文明开化的据点啊。
 嗯，看来我们必须打起精神干活了！"
 1,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_000","文明开化进展得顺利吗？

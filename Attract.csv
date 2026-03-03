@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,MaxDistance,Speed,MinRemainingDistance,UseDistanceBetweenHitboxes,Direction
-int32,uint16,uint16,int16,bit&01,byte
+offset,0,2,4,7,6
+Int32,UInt16,UInt16,Int16,PackedBool0,UInt8
 0,0,0,0,True,0
 1,25,25,0,True,0
 2,20,10,0,True,0

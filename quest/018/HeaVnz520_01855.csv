@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ520_01855_SEQ_00","惋惜之晶遗迹附近扑闪扑闪的莫古力一副精疲力竭的样子。"
 1,"TEXT_HEAVNZ520_01855_SEQ_01","和扑闪扑闪的莫古力进行了交谈。扑闪扑闪的莫古力正因为被好奇心旺盛的<Sheet(BNpcName,3623,0)/>追赶而烦恼。在惋惜之晶遗迹附近讨伐4只<Sheet(BNpcName,3623,0)/>。"
 2,"TEXT_HEAVNZ520_01855_SEQ_02","讨伐了<Sheet(BNpcName,3623,0)/>。向惋惜之晶遗迹附近扑闪扑闪的莫古力报告。"

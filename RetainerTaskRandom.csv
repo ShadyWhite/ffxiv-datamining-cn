@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Name,Requirement
-int32,str,int16
+offset,0,4
+Int32,String,Int16
 30001,"探索委托：平地1",0
 30002,"探索委托：平地2",0
 30003,"探索委托：平地3",0

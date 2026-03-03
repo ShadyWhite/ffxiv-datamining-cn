@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,byte,str
+#,,Name
+offset,4,0
+Int32,UInt8,String
 0,0,""
 1,0,"推荐商品"
 51,0,"特典时装"

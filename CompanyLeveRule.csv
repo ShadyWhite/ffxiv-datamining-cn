@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Type,Objective,Help
-int32,str,LeveString,LeveString
+offset,0,4,6
+Int32,String,UInt16,UInt16
 0,"",0,0
 1,"CompanyLeveProtection",26,33
 2,"CompanyLeveInterception",27,31

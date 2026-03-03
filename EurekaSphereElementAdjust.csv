@@ -1,6 +1,7 @@
 ﻿key,0
 #,PowerModifier
-int32,uint16
+offset,0
+Int32,UInt16
 0,0
 1,28
 2,52

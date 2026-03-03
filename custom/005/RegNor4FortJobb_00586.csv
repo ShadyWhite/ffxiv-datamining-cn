@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_000","怎么了？有什么困扰吗？"
 1,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_002","水滩村那边遭到了食罪灵的袭击，
 这次轮到游末邦军又攻了过来……

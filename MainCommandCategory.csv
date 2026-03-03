@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,Name
-int32,int32,str
+offset,4,0
+Int32,Int32,String
 0,0,""
 1,0,"角色"
 2,0,"任务情报"

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESHLW001_01163_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的鬼祟的旅行艺人想要邀请冒险者参加守护天节的活动。"

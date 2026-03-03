@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,,Name,SGB,,,
-int32,uint32,EObjName,ExportedSG,byte,int16,int16
+offset,0,4,8,16,12,14
+Int32,UInt32,UInt32,UInt32,UInt8,Int16,Int16
 0,0,0,0,0,0,0
 1,9260143,2013005,29948,1,-277,254
 2,9260144,2013006,29948,1,-244,243

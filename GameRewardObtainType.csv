@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,uint32,uint32
+#,Icon,Text
+offset,0,4
+Int32,UInt32,UInt32
 0,0,0
 1,60081,13760
 2,61839,13761

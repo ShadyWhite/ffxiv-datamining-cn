@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESSUM008_01541_SEQ_00","※本任务是特定期间内的任务。
 
 和砂盐滩的红莲节执行委员玛雅尔·莫雅尔对话，即可参加“红莲炮兵队演习”。"

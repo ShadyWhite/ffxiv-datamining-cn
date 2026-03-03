@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTGEROLTINIT_00461_GEROLT_100_000","啊？！
 我现在正忙着调整接下来要用到的重要道具呢！
 快走开！去去去！"

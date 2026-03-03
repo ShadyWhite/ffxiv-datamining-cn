@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,Name,Description,Icon,FCRank,Cost,Order,Purchasable
-int32,str,str,Image,FCRank,uint32,byte,bit&01
+offset,0,4,12,16,8,17,18
+Int32,String,String,Int32,UInt8,UInt32,UInt8,PackedBool0
 0,"","",0,0,0,0,True
 1,"讨伐经验值提高","24小时内（地球时间），打倒敌人时获得的经验增加5%。",64213,5,3500,1,True
 2,"采集经验值提高","24小时内（地球时间），采集时获得的经验增加5%。",64215,5,3500,2,True

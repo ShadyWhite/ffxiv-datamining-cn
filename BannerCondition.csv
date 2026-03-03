@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,UnlockType1,UnlockCriteria1[0],UnlockCriteria1[1],UnlockCriteria1[2],UnlockCriteria1[3],UnlockCriteria1[4],UnlockCriteria1[5],UnlockType2,UnlockCriteria2,UnlockCriteria3,UnlockCriteria4,PrerequisiteType
-int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
+#,UnlockType1,UnlockCriteria1[0],UnlockCriteria1[1],UnlockType2,UnlockCriteria2,UnlockCriteria3,UnlockCriteria4,,PrerequisiteType,Prerequisite,UnlockHint,
+offset,28,0,4,29,8,12,16,20,30,24,31,32
+Int32,UInt8,UInt32,UInt32,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8,UInt32,UInt8,PackedBool0
 0,0,0,0,0,0,0,0,0,0,0,0,False
 1,10,0,0,1,0,0,0,0,0,0,0,False
 2,5,81,0,16,1011039,5581045,22497,0,1,65970,51,False

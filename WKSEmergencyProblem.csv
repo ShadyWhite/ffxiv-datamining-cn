@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,EmergencyInfoTeleportText1,EmergencyInfoTeleportText2,EventLayout,,RequiredProgress
 offset,0,4,8,16,12
-int32,UInt32,UInt32,UInt32,UInt8,UInt32
+Int32,UInt32,UInt32,UInt32,UInt8,UInt32
 0,0,0,0,0,0
 1,61,73,11800808,1,94500
 2,62,74,11805165,2,94500

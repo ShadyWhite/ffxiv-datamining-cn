@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000","我身边的这个展示台，
 本是计划用来摆放真人比例人偶的……
 不过，这台子只是一个试验性的作品。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESSUM2016GUIDE_00349_ETHELIA_000_000","啊，你不是那个水龙蜥骑得很棒的冒险者吗？！
 我在从前的红莲节里带你参加过灭火训练。"
 1,"TEXT_FESSUM2016GUIDE_00349_ETHELIA_000_001","这次我来负责红莲节的解说工作啦。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_000","库啵啵！
 老师，找莫古有什么事吗库啵？"
 1,"TEXT_REGDRA2MOGZIN_00360_Q1_000_000","想了解什么？"

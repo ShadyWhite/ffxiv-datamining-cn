@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESNYRFSTSHOGUN2014_00145_YELLOWGENERAL_000_000","穿着那身装备可能看不出来，
 马奉行其实是尊贵的公主哦。"
 1,"TEXT_FESNYRFSTSHOGUN2014_00145_YELLOWGENERAL_000_001","她肩负着宣传马的重大使命，

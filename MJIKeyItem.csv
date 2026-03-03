@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,Item,Sort
-int32,Item,byte
+#,Item,
+offset,0,4
+Int32,Int32,UInt8
 0,0,0
 1,37679,1
 2,37680,2

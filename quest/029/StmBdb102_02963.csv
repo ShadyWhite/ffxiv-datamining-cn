@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_STMBDB102_02963_SEQ_00","神拳痕的阿尔菲诺陷入了沉思。"
 1,"TEXT_STMBDB102_02963_SEQ_01",""
 2,"TEXT_STMBDB102_02963_SEQ_02",""

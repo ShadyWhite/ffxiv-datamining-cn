@@ -1,6 +1,7 @@
 ﻿key,0
 #,GatheringObject
-int32,MJIGatheringObject
+offset,0
+Int32,UInt8
 0,4
 1,4
 2,4

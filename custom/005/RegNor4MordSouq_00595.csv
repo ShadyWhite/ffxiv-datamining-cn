@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_000","哟哟、旅行者！
 找我有什么事情吗？"
 1,"TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_010","空中的光芒居然消失了、真是惊人……

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT60RISKYMOBTHAVNAIR_00762_LUBDAHRM_000_001","魔法大学这边会经常委托拾穗人总会
 帮忙筹集研究所需的各类物品。
 最近很多都是跟近东以及北洲有关的麻烦委托，实在是叫人头疼。"

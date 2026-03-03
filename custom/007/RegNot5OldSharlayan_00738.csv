@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_001","哎呀，是旅行者啊？
 欢迎来到世界知识之都——旧萨雷安。
 有什么想要了解的吗？"

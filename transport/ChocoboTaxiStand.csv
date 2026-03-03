@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,str,str
+#,PlaceName,TargetLocations[0]
+offset,0,4
+Int32,String,String
 0,"TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL","对不起。
 我们这里有规定，不得向新手冒险者开放服务。
 如果不熟悉旅行的客人摔下来受伤，就不好办了。"

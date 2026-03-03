@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_000","和龙族战斗的话绝对不可大意。
 因为那些家伙真的很聪明，而且很狡猾。"
 1,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_001","哎呀，你难道是……要去传说中的翻云雾海狩猎龙族吗？

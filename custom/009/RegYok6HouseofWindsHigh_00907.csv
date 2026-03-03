@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6HOUSEOFWINDSHIGH_00907_PONUHANU_000_000","啊，欢迎光临……
 虽然我的风魔法还尚未成熟，
 不过可以作为一名见习向导与你交流。"

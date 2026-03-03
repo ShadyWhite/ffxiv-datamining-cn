@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,str
+#,Name
+offset,0
+Int32,String
 0,""
 1,"狼狱水上竞技场"
 2,"狼狱水上竞技场(非段位赛)"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_000","有什么事吗？
 关于茶园的事可以尽管问我。"
 1,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_001","听说乌克·拉玛特大人他们把艳翼蛇鸟讨伐了。

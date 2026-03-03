@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_000","……我不是艾欧泽亚同盟军的人。
 不过我可是得到了许可才来到这里的。"
 1,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_001","……哦，你也是兵团的人吗？

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000","呼哧……呼哧……
 那么 你想要 合成吗？
 5个 魔晶石 给我！"

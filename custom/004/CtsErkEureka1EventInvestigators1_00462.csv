@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_000","我负责整理向赞助商汇报所需要的记录。
 你的调查活动我也会认真记录的，
 就请你放心吧。"

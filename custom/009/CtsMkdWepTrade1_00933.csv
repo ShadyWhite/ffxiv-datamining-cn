@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_000","准备好素材了啊，
 那我就用附着了半魂晶的锻铁工具，
 为你展现一下只有这里才能实现的加工方法！"

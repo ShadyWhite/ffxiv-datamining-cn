@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_000","哎呀，你是旅行者吗？
 为了给水晶都的粮食调度做出贡献，
 目前这里正在进行着肥料的改良与土壤的研究。"

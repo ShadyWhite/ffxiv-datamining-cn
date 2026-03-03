@@ -1,7 +1,7 @@
 ﻿key,0
 #,
 offset,0
-int32,String
+Int32,String
 0,""
 1,"到达未知的海域，正在朝着“<Sheet(SubmarineExploration,IntegerParameter(1),0)/>”航行中。"
 2,"初次到达“<Sheet(SubmarineExploration,IntegerParameter(1),0)/>”，即将开始探索。"

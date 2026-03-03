@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1GILSHOP_00448_GILSHOP00448_000_000","抱歉，现在正在对补给品进行清点……
 请稍后再来。"
 1,"TEXT_CTSERKEUREKA1GILSHOP_00448_Q1_000_000","要做什么？"

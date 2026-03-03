@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDDD4AENCDAENTALK_00945_AENCDAEN_000_000","如果这一切并不是偶然，
 那朝圣路中一定有一个开始这场葬礼的人，
 并且还能连接教会内外。"

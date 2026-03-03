@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEABSNGUILD_00055_BRITHAEL_000_1","欢迎来到锻铁匠行会。
 虽然“铸甲匠”也很不错，
 但是请务必听我介绍下“锻铁匠”的事情。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02","你想让<Highlight>StringParameter(1)</Highlight>接受训练吗？
 那请你先选择训练时使用的饲料吧！"
 1,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE","嗯，你的竞赛陆行鸟又有所成长了哦！

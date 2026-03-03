@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_CLSALC530_02066_SEQ_00","丧灵钟的威尔特维克想要委托冒险者第一份工作。"
 1,"TEXT_CLSALC530_02066_SEQ_01","接受了威尔特维克解读暗号的委托。前往利姆萨·罗敏萨，给沉溺海豚亭的巴德龙看看<Sheet(EventItem,2001705,0)/>，尝试解读暗号。"
 2,"TEXT_CLSALC530_02066_SEQ_02","给巴德龙看了<Sheet(EventItem,2001705,0)/>。看似暗号的文字列似乎只是胡乱排列的记号而已。将<Sheet(EventItem,2001705,0)/>还给丧灵钟的威尔特维克，并报告结果。"

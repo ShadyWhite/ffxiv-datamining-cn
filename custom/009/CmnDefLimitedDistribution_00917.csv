@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_000","库啵啵！
 莫非你看得见莫古吗库啵？
 真是令人惊讶！"

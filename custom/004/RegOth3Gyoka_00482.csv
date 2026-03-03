@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3GYOKA_00482_GYOKA_000_000","真的是好闲啊噗。
 虽然我很讨厌繁忙，但是无事可做也真是够无聊的噗。
 难道就没有什么有意思的事情吗噗。"

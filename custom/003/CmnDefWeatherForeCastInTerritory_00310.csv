@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_000","在这云冠群岛上，
 古代野兽们的活动范围会随着天气的变化而变化。
 因此，我们创造出了一套独特的天气观测法。"

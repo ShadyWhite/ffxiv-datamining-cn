@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,uint16,str
+#,MenuOrder,Name
+offset,4,0
+Int32,UInt16,String
 0,0,""
 1,1001,"骑士装备"
 2,1003,"武僧装备"

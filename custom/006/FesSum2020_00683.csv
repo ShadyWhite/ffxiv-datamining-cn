@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESSUM2020_00683_ETHELIA_000_000","呼，浪花冲在沙滩上，真是让人心情舒畅。
 目前太阳海岸的红莲节正在火热举办中哦！
 请尽管来咨询活动内容吧！"

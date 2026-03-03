@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Singular,Plural
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"",""
 1,"开拓素材",""
 2,"稀少开拓素材",""

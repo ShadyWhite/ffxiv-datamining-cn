@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
 #,,,,,,,,,,,,
-int32,uint32,uint16,bit&01,byte,uint16,uint32,uint32,uint32,uint32,uint32,str,str
+offset,8,32,37,36,34,12,16,20,24,28,0,4
+Int32,UInt32,UInt16,PackedBool0,UInt8,UInt16,UInt32,UInt32,UInt32,UInt32,UInt32,String,String
 3997696,0,0,False,0,0,0,0,0,0,0,"",""
 3997697,0,0,False,0,0,0,0,0,0,0,"",""
 3997698,69936,263,True,0,120,8872651,0,8904142,1038869,1038870,"要骑上阿尔戈斯前往叹息海北部吗？","前往叹息海北部"

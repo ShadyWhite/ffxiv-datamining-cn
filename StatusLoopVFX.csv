@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,VFX[0],,VFX[1],,VFX[2],VFX[3],,,,,
 offset,0,8,2,9,4,6,10,11,12,12,12
-int32,UInt16,UInt8,UInt16,UInt8,UInt16,UInt16,UInt8,UInt8,PackedBool0,PackedBool1,PackedBool2
+Int32,UInt16,UInt8,UInt16,UInt8,UInt16,UInt16,UInt8,UInt8,PackedBool0,PackedBool1,PackedBool2
 0,0,0,0,0,0,0,0,2,False,True,False
 1,122,0,0,0,0,0,0,2,False,True,False
 2,125,0,0,0,0,0,0,2,False,True,False

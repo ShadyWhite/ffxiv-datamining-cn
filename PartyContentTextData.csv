@@ -1,6 +1,7 @@
 ﻿key,0
 #,Data
-int32,str
+offset,0
+Int32,String
 0,""
 1000,"<Gui(75)/> 已共鸣的乱风脉泉"
 1001,"完成下列中的3种目标"

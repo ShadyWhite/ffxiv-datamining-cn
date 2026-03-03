@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,byte,str
+offset,4,0
+Int32,UInt8,String
 0,0,""
 1,7,"钓到水母或螃蟹"
 2,5,"钓到★★★或以上的鱼"

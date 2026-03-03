@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
-#,,Quest,Text[Long],Text[Short],Text[Commentary],,Section
-int32,byte,Quest,str,str,str,bit&01,DescriptionSection
+#,,Quest,TextLong,TextShort,TextCommentary,,Section
+offset,20,12,0,4,8,21,16
+Int32,UInt8,UInt32,String,String,String,PackedBool0,UInt32
 3604480,0,0,"","","",False,0
 3604481,0,0,"","","",False,0
 3604482,0,68737,"多玛方城战解说","多玛方城战解说","",True,2

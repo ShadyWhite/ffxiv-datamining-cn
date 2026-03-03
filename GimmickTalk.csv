@@ -1,6 +1,7 @@
 ﻿key,0,1,2
-#,,,
-int32,byte,bit&01,str
+#,,,Message
+offset,4,5,0
+Int32,UInt8,PackedBool0,String
 0,4,True,""
 1,7,False,"魔导装甲的残骸。
 这里难道经历了激烈的战斗？"

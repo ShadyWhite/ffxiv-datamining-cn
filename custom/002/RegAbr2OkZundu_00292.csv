@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGABR2OKZUNDU_00292_GONAVANU_100_000","哎呀、哎呀，你身上竟然没有羽毛！
 没想到会有人类来到尊杜集落，太稀罕了。
 嗯……这会不会是暴风雨来临的前兆呢。"

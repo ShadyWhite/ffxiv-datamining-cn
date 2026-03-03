@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESGSC2020EXPLAIN_00676_STAFFA_000_000","在宠物广场中，
 可以驱使宠物进行攻防战……
 请尽情享受“萌宠之王”大赛的乐趣吧。"

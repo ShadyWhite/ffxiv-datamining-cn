@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,,Icon1,Icon2,Text
-int32,byte,Image,Image,str
+offset,12,4,8,0
+Int32,UInt8,UInt32,UInt32,String
 0,0,0,0,""
 1,1,114003,114053,"主线任务"
 2,3,114004,114054,"支线任务"

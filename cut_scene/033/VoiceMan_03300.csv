@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03300_000010_ALPHINAUD","抱歉，等很久了吧？"
 1,"TEXT_VOICEMAN_03300_000020_KRILE","没关系。
 我们正在品尝店老板推荐的香葡萄酒呢，

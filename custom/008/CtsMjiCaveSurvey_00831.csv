@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSMJICAVESURVEY_00831_TALK_ACTOR","0"
 1,"TEXT_CTSMJICAVESURVEY_00831_POINT_001_000","看起来没什么特别的……
 试试调查其他地方吧。"

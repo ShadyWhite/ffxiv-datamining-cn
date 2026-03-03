@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000","你来得正好。
 真可怜啊……因为中毒呼吸也很急促，看起来它很痛苦。
 我们也会倾尽全力的，请你和贝斯里克一起治疗它吧。"

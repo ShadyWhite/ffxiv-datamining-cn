@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,Color,Shade,SubOrder,InlineName,Name,IsMetallic,IsHousingApplicable
 offset,8,12,13,0,4,14,14
-int32,UInt32,UInt8,UInt8,String,String,PackedBool0,PackedBool1
+Int32,UInt32,UInt8,UInt8,String,String,PackedBool0,PackedBool1
 0,0,2,1,"","无染色",False,True
 1,14999504,2,2,"素雪白","素雪白",False,True
 2,11315362,2,3,"苍白灰","苍白灰",False,True

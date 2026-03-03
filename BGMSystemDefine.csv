@@ -1,6 +1,7 @@
 ﻿key,0
 #,Define
-int32,single
+offset,0
+Int32,Float32
 0,0
 1,0.5
 2,1

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_000","你是什么人啊？
 找我有事吗？"
 1,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_010","你问我啊？我是这里的管理者。

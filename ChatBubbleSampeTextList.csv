@@ -1,6 +1,7 @@
 ﻿key,0
 #,
-int32,bit&01
+offset,0
+Int32,PackedBool0
 114,True
 115,True
 201,True

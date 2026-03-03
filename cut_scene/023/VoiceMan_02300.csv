@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_02300_000010_ALPHINAUD","不用担心，伤势不碍事的。
 塔塔露还真是小题大做。"
 1,"TEXT_VOICEMAN_02300_000020_ALPHINAUD","我只是被卷入了刚才发生的小规模暴动。"

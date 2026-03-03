@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESNYR901_04588_SEQ_00","※本任务是特定期间内的任务。
 
 舰尾楼的卯奉行今年也想继续为冒险者介绍东方文化。"

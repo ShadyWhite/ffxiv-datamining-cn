@@ -1,7 +1,7 @@
 ﻿key,0
 #,
 offset,0
-int32,String
+Int32,String
 0,""
 1,"A_VER200_01_Gri"
 2,"A_VER200_01_Rim"

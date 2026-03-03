@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,,,,PlaceName,Image,,
 offset,10,11,12,0,4,8,13
-int32,UInt8,UInt8,UInt8,Int32,Int32,UInt16,UInt8
+Int32,UInt8,UInt8,UInt8,Int32,Int32,UInt16,UInt8
 0,10,11,12,2409,70222,60,2
 1,13,14,15,2410,70224,60,3
 2,16,17,18,2411,70228,65,4

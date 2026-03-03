@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,Items[0],Items[1],ItemIcons[0],ItemIcons[1],ItemValues[0],ItemValues[1],BannerType
 offset,0,4,8,12,16,20,24
-int32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt8
+Int32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt8
 0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0

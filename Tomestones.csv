@@ -1,7 +1,7 @@
 ﻿key,0
 #,WeeklyLimit
 offset,0
-int32,UInt16
+Int32,UInt16
 0,0
 1,0
 2,0

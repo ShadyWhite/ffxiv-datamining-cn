@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ612_01880_SEQ_00","飞龙港的玛艾娜希望冒险者去调查一种未知的怪物。"
 1,"TEXT_HEAVNZ612_01880_SEQ_01","玛艾娜在飞龙港的下层被一种未曾见过的怪物袭击了。前往翻云雾海飞龙港下层，讨伐未知的怪物，并获取怪物的一部分。"
 2,"TEXT_HEAVNZ612_01880_SEQ_02","讨伐了<Sheet(BNpcName,4295,0)/>，获得了<Sheet(EventItem,2001684,0)/>。将<Sheet(EventItem,2001684,0)/>交给飞龙港的玛艾娜。"

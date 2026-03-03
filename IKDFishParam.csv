@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Fish,IKDContentBonus,
-int32,FishParameter,IKDContentBonus,byte
+offset,0,4,5
+Int32,UInt32,UInt8,UInt8
 0,0,0,0
 1,828,0,0
 2,829,0,0

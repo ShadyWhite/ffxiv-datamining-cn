@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH3ISARI_00410_INUOI_000_000","这里是渔村。
 你是帮了我们村子的人？
 虽然我们这什么都没有，但你可以在这里好好休息。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGULWHISTORY2_00893_SYSTEM_000_000","记载了米拉拉族的历史。"
 1,"TEXT_REGULWHISTORY2_00893_SYSTEM_000_010","(-贰之章-)米拉拉族有一件代代流传至今的秘宝。
 那是一件蕴含了惊人力量的结晶，

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_000","产出特殊装饰彩蛋的小鸡逃走了！
 真是愁死了！"
 1,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_001","要参加危命任务“彩蛋狩猎‘粘鸟胶大作战’”，

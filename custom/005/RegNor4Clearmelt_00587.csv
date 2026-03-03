@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_000","欢迎来到清融街！
 这里的温泉可以自由使用。
 如果有什么疑问，不用客气请来问我吧！"

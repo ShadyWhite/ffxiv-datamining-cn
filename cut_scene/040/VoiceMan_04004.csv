@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_04004_000010_ALPHINAUD","我来说一下我的作战方案吧。
 这次的目的，是攻下帝国军驻扎的多玛城。"
 1,"TEXT_VOICEMAN_04004_000020_ALPHINAUD","首先，由莉瑟和多玛的百姓一起，

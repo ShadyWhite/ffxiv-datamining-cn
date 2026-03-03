@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,Name,Title,Icon,
-int32,str,str,Image,uint32
+offset,0,4,8,12
+Int32,String,String,UInt32,UInt32
 0,"自由","",82041,0
 1,"收获","收获模式",82042,0
 2,"播种","播种模式",82043,3

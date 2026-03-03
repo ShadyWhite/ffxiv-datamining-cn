@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
-#,,Format,,
-int32,byte,bit&01,str,byte
+#,,,Format,
+offset,4,6,0,5
+Int32,UInt8,PackedBool0,String,UInt8
 0,0,False,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",0
 1,0,False,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",0
 2,0,False,"<Color(-32897)><Highlight>StringParameter(2)</Highlight></Color>",0

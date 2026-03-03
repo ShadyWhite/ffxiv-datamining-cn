@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,uint16,uint32
+#,,StatusIcon
+offset,4,0
+Int32,UInt16,UInt32
 0,0,0
 1,1501,82301
 2,1502,82302

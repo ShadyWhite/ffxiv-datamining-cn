@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Icon,SortKey,Name
-int32,Image,byte,str
+offset,4,8,0
+Int32,Int32,UInt8,String
 0,61762,0,"未设置"
 1,61801,20,"迷宫挑战"
 2,61804,21,"讨伐歼灭战"

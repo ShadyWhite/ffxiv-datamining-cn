@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,File,NextWeaponTimeline,,
 offset,0,4,6,6
-int32,String,Int16,PackedBool0,PackedBool1
+Int32,String,Int16,PackedBool0,PackedBool1
 0,"",-1,False,False
 1,"weapon/battle_idle",-1,False,False
 2,"weapon/normal_idle",-1,False,False

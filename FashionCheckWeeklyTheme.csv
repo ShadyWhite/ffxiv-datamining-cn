@@ -1,6 +1,7 @@
 ﻿key,0
 #,Name
-int32,str
+offset,0
+Int32,String
 0,"酷炫时尚"
 1,"老练大厨"
 2,"户外装束"

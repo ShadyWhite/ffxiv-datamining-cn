@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,ContentType,Text[0],Text[1],Text[2],Text[3],Image,,UnlockQuest,,,
-int32,ContentType,Addon,Addon,Addon,Addon,Image,uint32,Quest,uint32,uint32,uint32
+#,ContentType,Dialogue[0],Dialogue[1],Dialogue[2],Dialogue[3],Image,Level,,UnlockQuest,UnlockLink,ContentFinderCondition
+offset,36,0,4,8,12,16,20,37,24,28,32
+Int32,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,PackedBool0,UInt32,UInt32,UInt32
 0,0,0,0,0,0,0,0,False,0,0,0
 1,2,15938,15916,15922,0,0,0,False,0,0,0
 2,4,15938,15916,15922,0,0,0,False,0,0,0

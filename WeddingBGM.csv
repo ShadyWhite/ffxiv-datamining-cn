@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Song,SongName
 offset,4,0
-int32,UInt16,String
+Int32,UInt16,String
 0,0,""
 1,106,"辉光飞散"
 2,89,"走向世界"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_001","中继以太之晶看上去完好无损，
 但已经完全停止了运转。"
 1,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_002","(-可露儿的声音-)<Highlight>ObjectParameter(1)</Highlight>……是我，可露儿。

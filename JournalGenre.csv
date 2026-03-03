@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,Icon,JournalCategory,,Name
-int32,Image,JournalCategory,bit&01,str
+offset,4,8,9,0
+Int32,Int32,UInt8,PackedBool0,String
 0,0,0,False,""
 1,61412,1,True,"重生之境"
 2,61412,2,True,"第七星历"

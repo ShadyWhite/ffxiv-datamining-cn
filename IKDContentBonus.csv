@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Objective,Requirement,,Image,Order
-int32,str,str,uint16,Image,byte
+offset,0,4,12,8,14
+Int32,String,String,UInt16,UInt32,UInt8
 0,"","",100,0,0
 1,"千鱼祝福","达成条件：获得的渔分大于等于2500。",110,65901,4
 2,"万鱼贺喜","达成条件：获得的渔分大于等于5000。",120,65902,5

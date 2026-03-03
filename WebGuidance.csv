@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Image,Url,Name,,Description
 offset,12,16,0,4,8
-int32,Int32,UInt8,String,String,String
+Int32,Int32,UInt8,String,String,String
 0,0,0,"","",""
 1,180102,2,"COMMUNITY FINDER","コミュニティファインダー","コミュニティファインダーはフリーカンパニーやリンクシェルなど、メンバー募集の最新情報が集まるサイトです。
 

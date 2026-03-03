@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTNOTORIOUSMONSTERHINTF3_00196_MOBHUNTERF1F3_000_1","冒险者啊……
 你也在追捕恶名精英吗？"
 1,"TEXT_REGFSTNOTORIOUSMONSTERHINTF3_00196_Q1_000_1","想了解什么？"

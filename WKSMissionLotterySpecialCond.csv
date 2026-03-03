@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,StartTimeHour,EndTimeHour,WeatherRequired
 offset,2,3,0
-int32,UInt8,UInt8,UInt16
+Int32,UInt8,UInt8,UInt16
 0,0,0,0
 1,0,2,0
 2,2,4,0

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Icon,Name
-int32,Image,str
+offset,4,0
+Int32,Int32,String
 0,0,""
 1,62501,"佣兵作业"
 2,62510,"采矿工"

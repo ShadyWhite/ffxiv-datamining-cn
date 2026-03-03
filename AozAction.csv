@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Action,Rank
-int32,Action,byte
+offset,0,4
+Int32,UInt32,UInt8
 0,0,0
 1,11383,4
 2,11384,4

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Name,Image
 offset,0,4
-int32,String,UInt32
+Int32,String,UInt32
 0,"",0
 1,"溺没海",63191
 2,"灰海",63192

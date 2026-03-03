@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,Type,IconType,Image,TextType,Text[0],Text[1],Text[2]
-int32,byte,byte,Image,byte,str,str,str
+offset,16,17,12,18,0,4,8
+Int32,UInt8,UInt8,Int32,UInt8,String,String,String
 0,0,0,0,0,"","",""
 1,0,0,150011,0,"","",""
 2,0,0,150012,0,"","",""

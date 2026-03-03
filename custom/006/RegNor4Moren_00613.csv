@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4MOREN_00613_MOREN_000_000","差不多该开始那本书的补修工作了……
 可是那个素材已经……嗯……"
 1,"TEXT_REGNOR4MOREN_00613_MOREN_000_010","虽然记载在书上的内容不会发生改变，

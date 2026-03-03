@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONSTRUCTTAUYAKU_00530_TAUYAKU_000_000","先前清除瓦砾时候把这里弄出了一个大水坑。
 多亏木匠团的那些家伙们突发奇想，在水坑上面造了座桥。
 你看这不就成了一个很气派的池塘了吗？"

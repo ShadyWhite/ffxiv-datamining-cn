@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESCHN2017_00355_ENREI_000_000","我与师父和伙伴们为了讨伐某个大妖怪，
 从东方不远万里来到此地。
 如果你有什么问题，请尽管开口，不必拘束。"

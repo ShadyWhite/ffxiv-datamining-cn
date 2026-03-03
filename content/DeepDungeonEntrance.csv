@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_000","我的工作是排除惊扰这片森林的“异物”。
 建议你最好管住自己，别给我们找麻烦……"
 1,"TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_020","地下迷宫的创造者所写的笔记……

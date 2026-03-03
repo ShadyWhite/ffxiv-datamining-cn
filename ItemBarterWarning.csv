@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,uint32
+#,Achievement
+offset,0
+Int32,UInt32
 0,0
 47869,3638
 47870,3643

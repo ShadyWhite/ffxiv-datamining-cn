@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_STMBDA138_02468_SEQ_00","沉溺海豚亭的阿尔菲诺想要做好万全的准备。"
 1,"TEXT_STMBDA138_02468_SEQ_01",""
 2,"TEXT_STMBDA138_02468_SEQ_02",""

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,NextPoint,CurrentPoint,Rights,,,FCActionActiveNum,FCActionStockNum,FCChestCompartments
-int32,uint32,uint32,uint16,uint16,uint16,byte,byte,byte
+offset,0,4,8,10,12,14,15,16
+Int32,UInt32,UInt32,UInt16,UInt16,UInt16,UInt8,UInt8,UInt8
 0,0,0,0,0,0,0,0,0
 1,4043,0,1,0,0,0,0,1
 2,16173,4043,2,0,0,0,0,1

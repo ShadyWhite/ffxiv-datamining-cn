@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07100_000010_GOSSAN","今天，我们为了同一个目的聚集在这里。"
 1,"TEXT_VOICEMAN_07100_000020_GOSSAN","各位年长的朋友可能来自不同的地区吧。
 既有在旧亚历山德里亚出生成长的同胞，

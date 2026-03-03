@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,SourceMap,Level,TargetMap,,
-int32,Map,Level,Map,byte,bit&01
+offset,0,4,8,12,13
+Int32,UInt32,UInt32,UInt32,UInt8,PackedBool0
 0.0,0,0,0,0,False
 1.0,0,0,0,0,False
 1.1,0,0,0,0,False

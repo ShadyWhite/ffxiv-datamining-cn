@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03001_000010_ALPHINAUD","要让拂晓再次崛起……"
 1,"TEXT_VOICEMAN_03001_000020_ALPHINAUD","需要迈出关键的第一步了。
 但是在此之前，必须洗脱我们的嫌疑，

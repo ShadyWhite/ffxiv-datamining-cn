@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_GAIUSC609_01009_SEQ_00","神勇队的卢因想要听一下其他人的意见。"
 1,"TEXT_GAIUSC609_01009_SEQ_01","有必要更深入了解一下圣典中所提到的奥丁。前往石场水车，和角尊奥·阿帕·佩西谈谈。"
 2,"TEXT_GAIUSC609_01009_SEQ_02","据说恶神奥丁被封印在兀尔德泉。前往兀尔德泉，调查<Sheet(EObj,2002241,0)/>，查看封印有无异变。如果出现了<Sheet(BNpcName,2062,0)/>，就使用<Sheet(EventItem,2000963,0)/>打倒它。"

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESVLT001_01297_SEQ_00","※本任务是特定期间内的任务。
 
 爱情传道士拉尔索尼安想要邀请冒险者参加恋人节的活动。"

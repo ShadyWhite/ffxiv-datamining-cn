@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT40REUNION_00427_JALIQAI_000_000","我是一名喀部的猎人。
 大草原上的狩猎会有些残酷……
 如果你想要干掉大猎物，那就必须要有相应的身手才行。"

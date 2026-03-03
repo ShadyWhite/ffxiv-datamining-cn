@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_000","你来干什么啊，冒险者。
 我正在准备你探索所需要的东西，
 别来妨碍我干活，去去去！"

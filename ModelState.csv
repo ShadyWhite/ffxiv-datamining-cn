@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,Start
-int32,byte,ActionTimeline
+offset,2,0
+Int32,UInt8,UInt16
 0,0,0
 1,1,936
 2,1,983

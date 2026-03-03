@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,Scale,Icon,Font,,,Cast
-int32,uint16,Image,CreditFont,byte,byte,CreditListText
+offset,12,0,4,14,15,8
+Int32,UInt16,UInt32,UInt32,UInt8,UInt8,UInt32
 0.0,0,0,0,0,0,0
 0.1,0,0,0,0,0,0
 0.2,0,0,0,0,0,0

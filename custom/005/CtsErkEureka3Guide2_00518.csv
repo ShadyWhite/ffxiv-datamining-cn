@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3GUIDE2_00518_OPERATOR00510_000_000","不管是恒冰地带还是这里，怎么都是这么冷啊，真不好受……
 下次要是能去方便干活的地方就好了……"
 1,"TEXT_CTSERKEUREKA3GUIDE2_00518_OPERATOR00510_000_010","听说刚才的摇晃并不是地震引起的，

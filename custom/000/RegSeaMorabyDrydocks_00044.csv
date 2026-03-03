@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_1","“胜利号”的建造正在稳步进行。
 再过不久，应该就可以迎来下水典礼了。
 机会难得，你就把它现在的样子印在脑海里吧。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_04002_000010_TANSUI","喂，帝国的兵小哥，
 听说我的小弟在你们那受到了“关照”，啊？"
 1,"TEXT_VOICEMAN_04002_000020_TANSUI","身为海贼众，我也不指望会遇到什么好脸色。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_000","穷兮兮的冒险者找我有什么事啊？
 我可没功夫陪你！"
 1,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_SYSTEM_000_001","可制作、强化本职业上古武器的特职为：

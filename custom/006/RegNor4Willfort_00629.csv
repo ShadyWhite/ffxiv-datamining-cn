@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_000","哟，旅行者。
 虽然这里这么寒酸，
 你要是愿意的话就在这里待会吧。"

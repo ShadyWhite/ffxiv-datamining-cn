@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_JOBDRG630_02911_SEQ_00","阿德内尔占星台的雅伯里克想将调查结果告诉冒险者。"
 1,"TEXT_JOBDRG630_02911_SEQ_01","从雅伯里克处得知了有关基拉巴尼亚沉睡的猛龙的情报，并得到了<Sheet(EventItem,2002262,0)/>。前往龙堡参天高地的美夏醒言遗迹，将<Sheet(EventItem,2002262,0)/>交给厄丝蒂安。"
 2,"TEXT_JOBDRG630_02911_SEQ_02","将<Sheet(EventItem,2002262,0)/>交给了厄丝蒂安。前往基拉巴尼亚边区的开宗堂，在<Sheet(EObj,2008548,0)/>吹响笛子，呼唤奥恩·凯。"

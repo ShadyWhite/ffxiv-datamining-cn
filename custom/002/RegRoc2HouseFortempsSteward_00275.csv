@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROC2HOUSEFORTEMPSSTEWARD_00275_STEWARD_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>阁下。
 您要是有什么事，请尽管吩咐……"
 1,"TEXT_REGROC2HOUSEFORTEMPSSTEWARD_00275_STEWARD_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>阁下。

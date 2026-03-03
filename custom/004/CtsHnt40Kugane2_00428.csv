@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT40KUGANE2_004286_HERSANDE_000_000","没想到在这遥远的东方还能碰到同乡，真是令人高兴。
 我这个比你先到达东方的人给你点建议吧。
 这里魔物很多，千万不要懈怠了武器的维护！"

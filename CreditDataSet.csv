@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,,,,,,
-int32,uint32,uint32,uint32,uint32,uint16,bit&01
+offset,0,4,8,12,16,18
+Int32,UInt32,UInt32,UInt32,UInt32,UInt16,PackedBool0
 0,1,0,0,0,0,False
 1,1,3,4,23,0,False
 2,2,5,6,24,1,False

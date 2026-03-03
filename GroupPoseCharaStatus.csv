@@ -1,6 +1,7 @@
 ﻿key,0
 #,
-int32,uint16
+offset,0
+Int32,UInt16
 0,0
 1,487
 2,1

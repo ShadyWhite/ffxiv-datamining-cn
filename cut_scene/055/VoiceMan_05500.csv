@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_05500_000010_MERLWYB","桑克瑞德、于里昂热，
 感谢二位冒着危险潜入帝国首都，
 阿拉米格已经将你们带回的情报传达给我们了。"

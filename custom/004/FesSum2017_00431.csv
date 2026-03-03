@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESSUM2017_00431_ETHELIA_000_000","永夏岛的红莲节正在火热开展中！
 如果有什么疑问，
 就请尽管来咨询吧！"

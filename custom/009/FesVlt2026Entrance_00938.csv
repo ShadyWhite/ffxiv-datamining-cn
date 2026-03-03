@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESVLT2026ENTRANCE_00938_TALK_ENTRANCEMAN_000_001","非常感谢你能帮忙。
 如果想前往蛋糕店或者想要听取制作蛋糕的说明，
 请到我这里来。"
@@ -25,8 +25,8 @@ int32,String,String
 因此推荐以4人以下的精英小队前往。"
 17,"TEXT_FESVLT2026ENTRANCE_00938_SYSTEM_000_021","“瓦伦提昂蛋糕店”是1-4人小队参加的任务。
 无等级限制，可以使用任意职业进行挑战。"
-18,"TEXT_FESVLT2026ENTRANCE_00938_SYSTEM_000_022","如果3人及以下人数的小队申请参加，
-可以选择直接开始任务，或是由系统自动匹配需要的队员。"
+18,"TEXT_FESVLT2026ENTRANCE_00938_SYSTEM_000_022","如果以不足4人的小队申请参加，
+系统会自动匹配需要的队员。"
 19,"TEXT_FESVLT2026ENTRANCE_00938_TALK_ENTRANCEMAN_000_0030","拜托你一边躲开失控的魔法人偶们的妨碍，
 一边尽可能对更多的蛋糕进行装饰了。
 库普卡·叩普大人会准备好食谱。"

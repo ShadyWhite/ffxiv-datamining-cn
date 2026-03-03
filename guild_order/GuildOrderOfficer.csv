@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_GUILDORDEROFFICER_MENU_TITLE","有什么事吗？"
 1,"TEXT_GUILDORDEROFFICER_MENU_00","自己独自返回"
 2,"TEXT_GUILDORDEROFFICER_MENU_01","小队全员返回"

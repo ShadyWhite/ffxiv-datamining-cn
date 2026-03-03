@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,ContentTalkParam,Text
-int32,ContentTalkParam,str
+offset,4,0
+Int32,UInt8,String
 0,4,""
 1,1,"テスト用トークテキスト1"
 2,2,"テスト用トークテキスト2"

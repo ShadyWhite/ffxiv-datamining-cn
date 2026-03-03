@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000","这个村子不会、也不能依靠游末邦的庇护。
 想要对抗这附近的危险魔物，
 只有我们自己变得更强这一条路。"

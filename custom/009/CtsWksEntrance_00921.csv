@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKSENTRANCE_00921_ANOTHER_WORLD","需返回原始服务器才能前往探索场景。"
 1,"TEXT_CTSWKSENTRANCE_00921_SYSTEM_000_000","要做什么？"
 2,"TEXT_CTSWKSENTRANCE_00921_SYSTEM_000_001","前往憧憬湾"

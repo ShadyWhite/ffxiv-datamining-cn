@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKSDYLISE_00971_DYLISE_200_001","俄匊斯行星的探索活动正式启动了！
 今后也请多指教了！"
 1,"TEXT_CTSWKSDYLISE_00971_DYLISE_000_001","呀，目前我们正在建设居住舱！

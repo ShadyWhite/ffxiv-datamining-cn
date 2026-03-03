@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_000","请你保持安静……
 这里是圣恩达利姆神学院。
 以成为圣职者为目标的学生们在这里勤学苦读。"

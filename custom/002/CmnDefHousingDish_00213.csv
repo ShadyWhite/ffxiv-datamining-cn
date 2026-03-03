@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_TITLE","还可供就餐<Value>IntegerParameter(1)</Value>次，确定要吃<Sheet(Item,IntegerParameter(2),0)/>吗？"
 1,"TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_YES","是"
 2,"TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_NO","否"

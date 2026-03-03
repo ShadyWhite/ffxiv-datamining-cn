@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_000","欢迎来到我们巴尔德西昂委员会的研究设施——实验魔器工房。
 你眼前的这个就是咱们寻找的原型以太之光。"
 1,"TEXT_CTSERKEUREKA3KRILE2_00513_KRILE_000_001","在你来之前我已经简单地调查了一下，

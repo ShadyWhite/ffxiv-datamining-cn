@@ -1,6 +1,7 @@
 ﻿key,0
 #,String
-int32,str
+offset,0
+Int32,String
 0,""
 1,"忠义量谱"
 2,"开启<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钢铁信念<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现显示该技能发动状态的量谱。

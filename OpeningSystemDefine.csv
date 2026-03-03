@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,str,uint32
+#,Text,DefineValue
+offset,0,4
+Int32,String,UInt32
 0,"HOWTO_MOVE_AND_CAMERA",1
 1,"HOWTO_ANNOUNCE_AND_QUEST",2
 2,"HOWTO_QUEST_REWARD",11

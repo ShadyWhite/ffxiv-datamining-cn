@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_000","……这地方真糟糕。
 甚至连皮肤都能直接感受到混乱的属性之力。"
 1,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_001","嗯……

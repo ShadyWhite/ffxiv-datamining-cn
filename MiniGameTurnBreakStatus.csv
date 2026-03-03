@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,,,,,,
-int32,int32,byte,bit&01,byte,str,str
+offset,8,12,14,13,0,4
+Int32,Int32,UInt8,PackedBool0,UInt8,String,String
 0,0,0,False,0,"",""
 1,0,1,True,0,"屏障","屏障
 抵御一切伤害"

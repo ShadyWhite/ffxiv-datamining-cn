@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q","要做什么？"
 1,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL","取消"
 2,"TEXT_CMNDEFTOMESTONECONVERT_00391_HELP","<Sheet(Item,IntegerParameter(1),0)/>？

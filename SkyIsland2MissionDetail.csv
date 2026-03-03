@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,Type,,Range,,EObj,,,Objective,,,
 offset,28,29,30,31,16,20,24,0,4,8,12
-int32,UInt8,UInt8,UInt8,Int8,UInt32,UInt32,UInt32,String,String,String,String
+Int32,UInt8,UInt8,UInt8,Int8,UInt32,UInt32,UInt32,String,String,String,String
 0,0,0,0,-1,0,0,0,"","","",""
 1,0,0,0,0,0,0,0,"","","",""
 2,0,0,0,0,0,0,0,"","","",""

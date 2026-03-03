@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_000","对战训练还顺利吗？
 关于“个人练习场”的使用规则和规定如果有不明白的地方，
 可以随时来问我。"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_000","这里是最近才清理干净的。
 如你所见现在还是一片荒芜的土地，
 我想着能不能试着种植水稻……"

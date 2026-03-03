@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESGSC301_03207_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的失落的青年好像在为什么烦恼着。"

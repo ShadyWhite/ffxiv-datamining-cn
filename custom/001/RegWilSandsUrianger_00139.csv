@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_000","浮世本来多聚散……
 你找我有什么事吗？"
 1,"TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_001","知识萦我身……

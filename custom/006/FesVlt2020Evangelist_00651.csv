@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESVLT2020EVANGELIST_00651_ASTRID_000_000","感谢你为我投票！
 希望其他人也可以支持我……"
 1,"TEXT_FESVLT2020EVANGELIST_00651_BERT_000_001","虽然没能得到你的支持有些不甘，

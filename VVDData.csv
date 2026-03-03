@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
-#,Series,,ContentFinderCondition,CurrencyItem,ContentExAction,UnlockQuest,
+#,Series,Sequence,ContentFinderCondition,CurrencyItem,ContentExAction,UnlockQuest,
 offset,16,17,0,4,8,12,18
-int32,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8
+Int32,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8
 0,0,0,0,0,0,0,0
 1,1,1,868,0,0,70182,0
 2,1,2,878,38534,22,0,0
@@ -12,6 +12,6 @@ int32,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8
 7,3,1,961,0,0,70325,0
 8,3,2,979,41079,22,0,0
 9,3,3,980,41079,0,0,0
-10,0,0,0,0,0,0,0
-11,0,0,0,0,0,0,0
-12,0,0,0,0,0,0,0
+10,4,1,1066,0,0,70977,1
+11,4,4,1084,50847,0,0,2
+12,4,2,1079,49125,22,0,0

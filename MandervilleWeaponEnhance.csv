@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,,,,,,,,,,,,,,,,
-int32,byte,uint32,byte,byte,uint32,byte,byte,uint32,byte,byte,uint32,byte,byte,uint32,uint16,uint32
+#,,Materia[0],MateriaBigValueIndex[0],MateriaSmallValueIndex[0],Materia[1],MateriaBigValueIndex[1],MateriaSmallValueIndex[1],Materia[2],MateriaBigValueIndex[2],MateriaSmallValueIndex[2],Materia[3],MateriaBigValueIndex[3],MateriaSmallValueIndex[3],UpgradeItem,UpgradeCost,Image
+offset,26,0,27,31,4,28,32,8,29,33,12,30,34,16,24,20
+Int32,UInt8,UInt32,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt16,UInt32
 39920,1,1403,5,1,1405,5,1,1406,5,1,1408,5,1,40322,1,80851
 39921,1,1404,7,2,1403,7,2,1405,7,2,1406,7,2,40322,1,80852
 39922,1,1403,7,2,1405,7,2,1406,7,2,1408,7,2,40322,1,80853

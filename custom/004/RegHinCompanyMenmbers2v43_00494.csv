@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGHINCOMPANYMENMBERS2V43_00494_GOODLOOKINGMEMBER_000_070","哎呀，调查已经结束了？
 有什么新发现吗？
 不过，为什么只有你一个人？"

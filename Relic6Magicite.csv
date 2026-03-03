@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,,,,
-int32,str,str,uint16,byte
+offset,0,4,8,10
+Int32,String,String,UInt16,UInt8
 0,"","",0,0
 1,"白羊之圣魂","主张感",0,0
 2,"金牛之圣魂","所有感",0,0

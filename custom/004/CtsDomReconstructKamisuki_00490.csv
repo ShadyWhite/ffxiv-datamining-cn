@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_000","……怎么了？
 你这种年轻人，用不着花时间来陪我这个闲暇老人。"
 1,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_005","听说多玛飞地开始了重建计划啊。

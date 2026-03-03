@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,TYPE,PARAM,LINK,Text,,
-int32,uint32,uint32,uint32,str,str,str
+offset,12,16,20,0,4,8
+Int32,UInt32,UInt32,UInt32,String,String,String
 0,0,0,0,"","",""
 1,0,0,0,"开始游戏","",""
 2,0,0,0,"功能设置","",""

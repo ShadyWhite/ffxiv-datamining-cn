@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANAMA207_01238_SEQ_00","灰阵营的纳尔基·冬想要冒险者做一件事。"
 1,"TEXT_BANAMA207_01238_SEQ_01","接受了纳尔基·冬的委托。在赞拉克南部的<Sheet(EObj,2003189,0)/>张望，打败现身的<Sheet(BNpcName,2300,0)/>，对其使用<Sheet(EventItem,2001193,0)/>。"
 2,"TEXT_BANAMA207_01238_SEQ_02","对<Sheet(BNpcName,2300,0)/>们使用了<Sheet(EventItem,2001193,0)/>。向灰阵营的纳尔基·冬报告。"

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Category,SubType,Image,,UnlockCondition,,,,SortKey,Name,
-int32,byte,byte,Image,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
+#,Component,Subtype,Image,,UnlockCondition,,,,Category,SortKey,Name
+offset,18,19,4,20,8,10,12,14,21,16,0
+Int32,UInt8,UInt8,Int32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,String
 0,0,0,0,0,1,0,0,0,0,0,"无"
 1,2,0,194002,0,1,0,0,0,1,1,"光泽"
 2,2,0,194003,0,1,0,0,0,1,6,"四边形"

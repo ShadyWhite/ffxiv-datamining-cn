@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESNYR003_01294_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的黑马与力想要冒险者协助宣传活动。"

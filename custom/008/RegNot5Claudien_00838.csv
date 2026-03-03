@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOT5CLAUDIEN_00838_CLAUDIEN_000_000","虽然我很想立刻开始研究黑蛇圣石……
 但现在未知的信息太多了。
 尤其是关于圣石和雅典娜的关系，几乎可以说是毫无头绪。"

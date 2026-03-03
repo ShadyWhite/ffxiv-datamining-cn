@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_GAIUSB404_00860_SEQ_00","瞭望阵营地的奥古斯丁，有一件十分在意的事。"
 1,"TEXT_GAIUSB404_00860_SEQ_01","运送物资所使用的气球，遭到了<Sheet(BNpcName,398,0)/>的袭击。前往瞭望阵营地西面，讨伐5只<Sheet(BNpcName,398,0)/>。"
 2,"TEXT_GAIUSB404_00860_SEQ_02","成功讨伐了5只<Sheet(BNpcName,398,0)/>。向瞭望阵营地的奥古斯丁报告。"

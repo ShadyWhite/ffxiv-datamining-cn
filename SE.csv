@@ -1,7 +1,7 @@
 ﻿key,0
 #,
 offset,0
-int32,String
+Int32,String
 0,""
 1,"voice/Voice_NPC_Act/Vo_NPC_Act_LowMaPo.scd"
 2,"voice/Voice_NPC_Act/Vo_NPC_Act_LowMaNe.scd"

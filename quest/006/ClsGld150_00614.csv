@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_CLSGLD150_00614_SEQ_00","雕金匠行会的会长赛伦蒂碧提接到了委托，想要找冒险者帮忙。"
 1,"TEXT_CLSGLD150_00614_SEQ_01","制作<Sheet(Item,4204,0)/>和<Sheet(Item,4309,0)/>，交给雕金匠行会的赛伦蒂碧提查看。"
 2,"TEXT_CLSGLD150_00614_SEQ_02","前往雕金匠行会前的广场，将<Sheet(Item,4204,0)/>和<Sheet(Item,4309,0)/>交给罗伯特。"

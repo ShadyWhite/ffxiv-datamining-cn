@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,,,,,,,,,,,,,,
-int32,bit&01,bit&02,bit&04,bit&08,bit&10,bit&20,bit&40,bit&80,bit&01,bit&02,bit&04,bit&08,bit&10,bit&20
+offset,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+Int32,PackedBool0,PackedBool1,PackedBool2,PackedBool3,PackedBool4,PackedBool5,PackedBool6,PackedBool7,PackedBool0,PackedBool1,PackedBool2,PackedBool3,PackedBool4,PackedBool5
 0,True,True,True,True,True,True,True,True,True,True,True,True,True,True
 1,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2,True,False,False,False,False,False,False,False,False,False,False,False,False,False

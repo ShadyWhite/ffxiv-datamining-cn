@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_000","没想到我们竟然也有拿到圣剑的这一天……
 面对那么强大的敌人，能拿回圣剑真是幸运。"
 1,"TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_100_030","我还没有自我介绍，我叫罗斯提克。

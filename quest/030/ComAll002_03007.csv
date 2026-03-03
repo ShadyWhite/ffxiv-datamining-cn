@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_COMALL002_03007_SEQ_00",""
 1,"TEXT_COMALL002_03007_SEQ_01","从索伏特诺克斯处听说了新的玩家对战“烈羽争锋”。挑战驱使哥布林族机械的激战吧。
 

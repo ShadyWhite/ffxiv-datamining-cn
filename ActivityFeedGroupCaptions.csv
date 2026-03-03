@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,JA,EN,DE,FR
-int32,str,str,str,str
+offset,0,4,8,12
+Int32,String,String,String,String
 0,"","","",""
 1,"","","",""

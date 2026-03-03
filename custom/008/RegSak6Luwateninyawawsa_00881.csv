@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000","哟，你好。
 原本以为你是来采购的商人……居然是旅行者吗？
 欢迎来到鲁瓦特尼亚萨。"

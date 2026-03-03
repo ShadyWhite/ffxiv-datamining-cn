@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_1","哎呀，欢迎你的到来。
 秘术在梅尔凡海关的业务环节里可是不可或缺的一部分，
 如果你有什么不懂的可以尽管来问我。"

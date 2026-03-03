@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000","看来并非迷途至此 而是特地前来送死呢……
 区区萤火之光……"
 1,"TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010","我是暗黑之云……

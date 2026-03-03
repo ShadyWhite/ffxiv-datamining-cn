@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESLGT002_01154_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的记者杜拉尔·札拉尔，希望冒险者配合他进行采访。"

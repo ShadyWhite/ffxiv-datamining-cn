@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
 #,RewardType1,RewardItem1,RewardHq1,RewardQuantity1,,RewardType2,RewardItem2,RewardHq2,RewardQuantity2,RewardType3,RewardItem3,RewardHq3,RewardQuantity3
 offset,18,0,24,12,19,20,4,22,14,21,8,23,16
-int32,UInt8,UInt32,PackedBool0,UInt16,UInt8,UInt8,UInt32,Bool,UInt16,UInt8,UInt32,Bool,UInt16
+Int32,UInt8,UInt32,PackedBool0,UInt16,UInt8,UInt8,UInt32,Bool,UInt16,UInt8,UInt32,Bool,UInt16
 0,0,0,False,0,0,0,0,False,0,0,0,False,0
 1,1,5827,False,1,0,1,5827,False,1,1,5827,False,1
 2,1,5827,False,1,0,2,1,False,500,1,46185,False,1

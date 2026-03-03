@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_FESCHN2015_00181_ENREI_000_000","我叫艳丽，来自遥远的东方，
 是桃源老师的侍从。
 ……你找我有什么事吗？"

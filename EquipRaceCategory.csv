@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,,,Male,Female
-int32,bool,bool,bool,bool,bool,bool,bool,bool,bit&01,bit&02
+#,Hyur,Elezen,Lalafell,Miqote,Roegadyn,AuRa,Hrothgar,Viera,Male,Female
+offset,0,1,2,3,4,5,6,7,8,8
+Int32,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,PackedBool0,PackedBool1
 0,False,False,False,False,False,False,False,False,False,False
 1,True,True,True,True,True,True,True,True,True,True
 2,True,True,True,True,True,True,True,True,True,False

@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,EurekaMagiciteItemType,ClassJobCategory,Item
-int32,EurekaMagiciteItemType,ClassJobCategory,Item
+offset,4,5,0
+Int32,UInt8,UInt8,UInt32
 0,0,0,0
 1,1,133,24015
 2,1,134,24016

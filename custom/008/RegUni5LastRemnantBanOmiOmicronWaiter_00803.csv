@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGUNI5LASTREMNANTBANOMIOMICRONWAITER_00803_M104_100_000","沙沙……本机名为奥密克戎M-104。
 接到N-7000的支援请求，到此赴任。"
 1,"TEXT_REGUNI5LASTREMNANTBANOMIOMICRONWAITER_00803_M104_000_000","沙沙……同盟者<Highlight>ObjectParameter(1)</Highlight>，欢迎你的到访。

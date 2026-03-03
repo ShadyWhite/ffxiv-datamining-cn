@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_001","毕竟迷津当中有着各种各样的研究设施，
 对拾穗人发出的委托也是千奇百怪……
 光是整理委托就已经是一件令人费心的工作了。"

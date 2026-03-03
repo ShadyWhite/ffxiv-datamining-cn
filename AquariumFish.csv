@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,AquariumWater,Size,Item,
-int32,AquariumWater,byte,Item,uint16
+offset,6,7,0,4
+Int32,UInt8,UInt8,UInt32,UInt16
 0,0,0,0,0
 1,0,0,0,0
 2,1,1,4948,40

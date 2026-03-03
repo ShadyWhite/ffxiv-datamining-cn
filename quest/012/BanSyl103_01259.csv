@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANSYL103_01259_SEQ_00","妖精暂留地的特那克希亚好像遇上了些麻烦。"
 1,"TEXT_BANSYL103_01259_SEQ_01","接受了特那克希亚的委托。在百灵啼获取5个<Sheet(EventItem,2001163,0)/>。"
 2,"TEXT_BANSYL103_01259_SEQ_02","获得了<Sheet(EventItem,2001163,0)/>。将<Sheet(EventItem,2001163,0)/>交给妖精暂留地的特那克希亚。"

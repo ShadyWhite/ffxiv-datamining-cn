@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_000","看来你已经准备好要重铸黄道武器了。
 那就让我们快点开始吧！"
 1,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_001","黄道武器会拥有如下的能力，

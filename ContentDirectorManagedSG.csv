@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,int32,bit&01
+#,LayoutId,
+offset,0,4
+Int32,Int32,PackedBool0
 0.0,0,False
 1.0,0,False
 1.1,6663013,False

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
 #,X,Y,GatheringType,GatheringPointType,Radius
-int32,single,single,GatheringType,byte,uint16
+offset,0,4,10,11,8
+Int32,Float32,Float32,UInt8,UInt8,UInt16
 0,0,0,0,0,0
 10,536.716,-270,2,1,37
 11,71.0216,-179.027,2,1,63

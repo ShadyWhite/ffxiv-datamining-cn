@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSHNT70RISKYMOBSHAALOANI_00901_ELENYATE_000_001","狩猎？
 不好意思，我没什么可告诉你的，你去别处打听吧。
 你要是死了，我的后半辈子可就都得活在自责的阴影里了。"

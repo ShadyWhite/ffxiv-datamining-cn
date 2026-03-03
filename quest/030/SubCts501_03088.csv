@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_SUBCTS501_03088_SEQ_00",""
 1,"TEXT_SUBCTS501_03088_SEQ_01",""
 2,"TEXT_SUBCTS501_03088_SEQ_02",""

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_AETHERYTEEULMORE_STOP_000","写着警示语……
 大意是需要特别许可才能使用以太之光。"
 1,"TEXT_AETHERYTEEULMORE_STOP_010","没反应……

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNY807_02107_SEQ_00","空"
 1,"TEXT_HEAVNY807_02107_SEQ_01","空"
 2,"TEXT_HEAVNY807_02107_SEQ_02","空"

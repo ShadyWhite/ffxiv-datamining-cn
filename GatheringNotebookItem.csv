@@ -1,6 +1,7 @@
 ﻿key,0
 #,
-int32,int32
+offset,0
+Int32,Int32
 0,1
 1,2
 2,3

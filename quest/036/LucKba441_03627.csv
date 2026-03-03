@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_LUCKBA441_03627_SEQ_00","鼹灵集市的凯瑞格正因缇纳的修行而苦恼。"
 1,"TEXT_LUCKBA441_03627_SEQ_01","凯瑞格想让缇纳积累实战经验。为了修行，前往雷克兰德的迷途羊倌之森，和凯瑞格谈谈。"
 2,"TEXT_LUCKBA441_03627_SEQ_02","身为魔法师的前辈，给缇纳做个榜样。在迷途羊倌之森的<Sheet(EObj,2010215,0)/>张望，讨伐出现的<Sheet(BNpcName,8407,0)/>。"

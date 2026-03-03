@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_AKTKCT102_04731_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊规则： 职业固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 中庸工艺馆前的乔菈·佐开始着手改良莫雯卓越工具。"
 1,"TEXT_AKTKCT102_04731_SEQ_01","※本任务为<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 职业固定任务，

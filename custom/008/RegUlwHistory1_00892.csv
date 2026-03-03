@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGULWHISTORY1_00892_SYSTEM_000_000","记载了米拉拉族的历史。"
 1,"TEXT_REGULWHISTORY1_00892_SYSTEM_000_010","(-壹之章-)很久很久以前，米拉拉族生活在一个四季常夏的小岛上。
 这里从未有过寒冬造访，自然资源丰饶，到处盛开着鲜花，

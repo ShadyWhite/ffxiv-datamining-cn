@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
-#,Rating{Min},Rating{Max},Name,Fee,Icon
-int32,uint16,uint16,GoldSaucerTextData,uint16,Image
+#,RatingMin,RatingMax,Name,Fee,Icon
+offset,4,6,8,10,0
+Int32,UInt16,UInt16,UInt16,UInt16,Int32
 0,0,0,0,10,0
 1,0,0,15,0,0
 2,1,20,16,10,121641

@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Floor,,
-int32,Image,uint16,uint16
+offset,0,4,6
+Int32,Int32,UInt16,UInt16
 0.0,53904,14,0
 0.1,53905,15,0
 0.2,53906,16,0

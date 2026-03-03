@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000","我这里可以将您的<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>，
 分别换成<Sheet(Item,IntegerParameter(3),0)/>和<Sheet(Item,IntegerParameter(4),0)/>。"
 1,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000","要交换哪种工票？"

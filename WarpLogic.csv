@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
 #,,WarpName,CanSkipCutscene,WarpParams[0].Function,WarpParams[1].Function,WarpParams[2].Function,WarpParams[3].Function,WarpParams[4].Function,WarpParams[5].Function,WarpParams[6].Function,WarpParams[7].Function,WarpParams[8].Function,WarpParams[9].Function,WarpParams[0].Argument,WarpParams[1].Argument,WarpParams[2].Argument,WarpParams[3].Argument,WarpParams[4].Argument,WarpParams[5].Argument,WarpParams[6].Argument,WarpParams[7].Argument,WarpParams[8].Argument,WarpParams[9].Argument,Question,ResponseYes,ResponseNo
 offset,96,92,100,0,8,16,24,32,40,48,56,64,72,4,12,20,28,36,44,52,60,68,76,80,84,88
-int32,UInt32,String,PackedBool0,String,String,String,String,String,String,String,String,String,String,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,String,String,String
+Int32,UInt32,String,PackedBool0,String,String,String,String,String,String,String,String,String,String,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,String,String,String
 0,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 1,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
 2,0,"WarpRentalChocobo",True,"HOWTO_ABOUT_RENTAL_CHOCOBO","","","","","","","","","",81,0,0,0,0,0,0,0,0,0,"租借陆行鸟","",""

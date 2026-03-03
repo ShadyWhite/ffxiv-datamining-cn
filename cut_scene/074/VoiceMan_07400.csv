@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07400_000010_ALPHINAUD","之前的混乱已经基本平息。
 没有卡琉克斯在背后操纵，黑色调魂器应该不会有什么影响了。
 返还记忆的工作也有条不紊，看来大家还是希望回忆起逝者的。"

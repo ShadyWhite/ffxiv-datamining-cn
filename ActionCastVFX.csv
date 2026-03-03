@@ -1,6 +1,7 @@
 ﻿key,0
 #,VFX
-int32,VFX
+offset,0
+Int32,UInt16
 0,0
 1,106
 2,107

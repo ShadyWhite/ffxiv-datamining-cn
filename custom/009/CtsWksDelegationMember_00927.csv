@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_000_000","你好，我叫探清威，是本次宇宙探索计划的分析员。
 等你正式加入探索计划后，我会为你详细介绍我的工作。"
 1,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_000","你好，我叫探清威，

@@ -1,10 +1,10 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
 #,RequiredDevGrade[0],RequiredDevGrade[1],RequiredDevGrade[2],RequiredDevGrade[3],,,,,RequiredQuests0[0],RequiredQuests0[1],RequiredQuests0[2],RequiredQuests0[3],RequiredQuests1[0],RequiredQuests1[1],RequiredQuests1[2],RequiredQuests1[3],RequiredQuests2[0],RequiredQuests2[1],RequiredQuests2[2],RequiredQuests2[3]
 offset,48,49,50,51,52,53,54,55,0,4,8,12,16,20,24,28,32,36,40,44
-int32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
+Int32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 3,0,0,0,0,0,0,0,0,67631,67631,67631,0,0,0,0,0,0,0,0,0
 4,0,0,0,0,0,0,0,0,67631,67631,67631,0,67633,67633,67633,0,0,0,0,0
 5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_ROLF_000_000","你是位冒险者吗？
 找我有什么事吗？"
 1,"TEXT_REGFSTTHEHAWTHORNEHUT_00125_Q1_000_000","想了解什么？"

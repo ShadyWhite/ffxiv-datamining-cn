@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,,,,
-int32,single,single,single,single
+offset,0,4,8,12
+Int32,Float32,Float32,Float32,Float32
 0,1,1,0.75,1
 1,0.3,0.75,0.75,3

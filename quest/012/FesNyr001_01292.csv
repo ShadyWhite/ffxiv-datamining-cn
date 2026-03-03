@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESNYR001_01292_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的达玛丽斯想要向冒险者介绍降神节的活动内容。"

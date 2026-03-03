@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,str
+#,Text
+offset,0
+Int32,String
 0,""
 1,"撑起阳伞"
 2,"撑起天蓝阳伞"

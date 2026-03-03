@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_SYSTEM_000_001","没有发现魔素石……
 看来这周围没有魔素石。"
 1,"TEXT_CTSERKEUREKA1EVENTSPHERE4_00470_EJIKATSUNJIKA_000_005","嗯？是冒险者啊。

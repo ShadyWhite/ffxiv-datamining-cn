@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE","正在接受协助员投放的燃料……
 当前输出功率：<Value>IntegerParameter(1)</Value>%。"
 1,"TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE","野外探查器正在准备启动……"

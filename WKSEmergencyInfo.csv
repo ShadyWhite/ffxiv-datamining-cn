@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
-#,,WKSEmergencyWarningText,EmergencyProblem[0],EmergencyProblem[1],WKSEmergencyMissionRowId
+#,Name,WKSEmergencyWarningText,EmergencyProblem[0],EmergencyProblem[1],WKSEmergencyMissionRowId
 offset,6,7,0,2,4
-int32,UInt8,UInt8,UInt16,UInt16,UInt16
+Int32,UInt8,UInt8,UInt16,UInt16,UInt16
 0.0,0,0,0,0,0
 1.0,9,3,1,2,1
 1.1,9,3,3,4,2

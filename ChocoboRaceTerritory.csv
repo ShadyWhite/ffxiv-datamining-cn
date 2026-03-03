@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Name,Icon
-int32,GoldSaucerTextData,Image
+offset,4,0
+Int32,UInt16,Int32
 0,0,0
 1,11,0
 2,12,121633

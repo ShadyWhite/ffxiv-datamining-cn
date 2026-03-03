@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,FallDamage,Height,LoopMotion,EndMotion,StartClient,,,,
-int32,uint16,uint16,ActionTimeline,ActionTimeline,bit&01,bit&02,uint16,uint16,bit&04
+offset,8,10,0,4,16,16,12,14,16
+Int32,UInt16,UInt16,UInt32,UInt32,PackedBool0,PackedBool1,UInt16,UInt16,PackedBool2
 0,0,0,0,0,False,False,0,0,False
 1,0,100,0,0,False,False,0,0,False
 2,0,150,0,0,False,False,0,0,False

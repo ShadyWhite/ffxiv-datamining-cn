@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_COMARMGCARMYINTERVIEW_00345_001_GRD","（★未使用／削除予定★）"
 1,"TEXT_COMARMGCARMYINTERVIEW_00345_PLATOONINSTRUCTOR_000_000","<Highlight>ObjectParameter(1)</Highlight>阁下，告诉您一个好消息！
 有想要加入我们分队的志愿兵出现了！"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_07010_000010_METEM","用尖锐的利爪撕开一切对手 不知恐惧为何物的新人！
 磨爪猫魂——黑猫！"
 1,"TEXT_VOICEMAN_07010_000020_REFEREE","Ｋ.Ｏ！"

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_DUNGEONMYC3_00000_BAISHAEN_100_000","(-白沙恩-)看来潜入部队已经完成了任务！
 我们也攻入旗舰达尔里阿达号吧！"
 1,"TEXT_DUNGEONMYC3_00000_MENENIUS_000_000","到此为止了吗……不愧是打败了芝诺斯皇子的人……

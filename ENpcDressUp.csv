@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,ENpcDressUpDress
-int32,byte,ENpcDressUpDress
+offset,0,1
+Int32,UInt8,UInt8
 0,0,0
 1,2,1
 2,0,0

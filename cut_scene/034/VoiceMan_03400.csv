@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_03400_000010_AYMERIC","所以您就被云海的莫古力使唤来使唤去了呀。
 看来您为了得到那喇叭，也是费了不少功夫。"
 1,"TEXT_VOICEMAN_03400_000020_AYMERIC","您的旅途见闻真是百听不厌啊。

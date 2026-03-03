@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_000","为了给各位的冒险旅程提供方便，
 我们正在对此地的气象变化进行观测。
 那么现在就向您介绍目前及未来的天气状况。"

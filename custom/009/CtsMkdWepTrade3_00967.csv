@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_000","轮到我出场了！
 让你看看经过以太转换术强化的锤子有多厉害！"
 1,"TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_001","嘿呀——！！"

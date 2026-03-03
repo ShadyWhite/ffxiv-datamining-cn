@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESEST502_03203_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的诺诺塔正在确认冒险者的服装。"

@@ -1,6 +1,7 @@
 ﻿key,0
 #,Text
-int32,str
+offset,0
+Int32,String
 0,""
 1,"连锁 大于等于<Value>IntegerParameter(1)</Value>"
 2,"力量 大于等于<Value>IntegerParameter(1)</Value>"

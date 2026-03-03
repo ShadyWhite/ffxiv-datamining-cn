@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANAMA302_01243_SEQ_00","灰阵营的雅德夫·夏想要告诉冒险者机会来了。"
 1,"TEXT_BANAMA302_01243_SEQ_01","接受了雅德夫·夏的委托。讨伐不悔战阵的<Sheet(BNpcName,1840,0)/>及其护卫<Sheet(BNpcName,1839,0)/>各3名。"
 2,"TEXT_BANAMA302_01243_SEQ_02","讨伐了<Sheet(BNpcName,1839,0)/>和<Sheet(BNpcName,1840,0)/>。向灰阵营的雅德夫·夏报告。"

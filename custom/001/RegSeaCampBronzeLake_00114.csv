@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_000","你好，欢迎来到石绿湖营地。
 你找我有什么事吗？"
 1,"TEXT_REGSEACAMPBRONZELAKE_00114_RUKUSAFARUSA_000_010","我在这里负责照顾来此进行疗养的伤员。"

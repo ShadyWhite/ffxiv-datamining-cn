@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,ContentLinkType,Content,,UnlockQuest[0],UnlockQuest[1],UnlockQuest[2],,Map
-int32,byte,Row,bit&01,Quest,Quest,Quest,uint32,Row
+#,ContentLinkType,Content,,UnlockQuest0,UnlockQuest1,UnlockQuest2,,Map
+offset,24,0,25,4,8,12,16,20
+Int32,UInt8,UInt32,PackedBool0,UInt32,UInt32,UInt32,UInt32,UInt32
 0,0,0,False,0,0,0,0,0
 1,1,9,False,66300,0,0,0,0
 2,1,12,False,66457,0,0,0,0

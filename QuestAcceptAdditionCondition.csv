@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4
-#,Requirement[0],Requirement[1],,,
-int32,Quest,Quest,uint32,uint32,bit&02
+#,,Requirement0,Requirement1,,
+offset,12,0,4,8,12
+Int32,PackedBool0,UInt32,UInt32,UInt32,PackedBool1
 65961,False,66031,0,0,False
 66572,False,17,0,0,False
 67199,False,17,0,0,False

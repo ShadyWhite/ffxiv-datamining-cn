@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_BANSYL307_01283_SEQ_00","妖精暂留地的莫奇希亚很担心摇篮的情况。"
 1,"TEXT_BANSYL307_01283_SEQ_01","接受了莫奇希亚的委托。拿起摇篮树旁边的<Sheet(EObj,2003292,0)/>。"
 2,"TEXT_BANSYL307_01283_SEQ_02","将摇篮树旁边的<Sheet(EObj,2003292,0)/>搬运到妖精领的暂留地妖精身旁，放置到<Sheet(EObj,2003390,0)/>。

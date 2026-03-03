@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,Name,Icon,CastTime,Animation[0],Animation[1],Animation[2]
-int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
+#,Name,Icon,CastTime,StartAnimation,LoopAnimation,EndAnimation
+offset,0,4,12,6,8,10
+Int32,String,UInt16,UInt8,UInt16,UInt16,UInt16
 0,"",1,0,0,0,0
 1,"实行",19603,2,80,81,82
 2,"实行",19603,2,80,81,82

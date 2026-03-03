@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"","invalid"
 1,"MainQuest_Progress","uint64"
 2,"LargestLv_Battle","uint64"

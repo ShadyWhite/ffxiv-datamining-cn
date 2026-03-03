@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_000","干嘛？！
 无翼之徒敢在我们地盘上捣乱试试！
 当心我拿你和废柴一块扔到焚化炉里烧了！"

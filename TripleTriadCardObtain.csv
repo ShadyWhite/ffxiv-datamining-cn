@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Icon,Text
 offset,0,4
-int32,UInt32,UInt32
+Int32,UInt32,UInt32
 0,0,0
 1,27662,9780
 2,61801,9781

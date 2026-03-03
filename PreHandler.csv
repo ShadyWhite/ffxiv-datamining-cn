@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,,Image,Target,UnlockQuest,AcceptMessage,DenyMessage,,
-int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
+offset,0,4,8,12,16,20,24,25
+Int32,String,UInt32,UInt32,UInt32,UInt32,UInt32,UInt8,UInt8
 3538944,"",0,0,0,0,0,0,0
 3538945,"",0,0,0,0,0,0,0
 3538946,"",0,262461,0,0,0,1,0

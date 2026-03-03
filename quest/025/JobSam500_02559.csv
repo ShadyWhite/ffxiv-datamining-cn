@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_JOBSAM500_02559_SEQ_00","※本任务是特职武士的开放任务。
 
 翠玉大街的沙之都的居民不知为何非常兴奋。"

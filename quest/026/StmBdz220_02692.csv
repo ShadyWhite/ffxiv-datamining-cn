@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_STMBDZ220_02692_SEQ_00","碧玉水的贝桶有事想要拜托客人。"
 1,"TEXT_STMBDZ220_02692_SEQ_01",""
 2,"TEXT_STMBDZ220_02692_SEQ_02",""

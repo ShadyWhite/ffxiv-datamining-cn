@@ -1,6 +1,7 @@
 ﻿key,0
-#,LevelId
-int32,Level
+#,
+offset,0
+Int32,UInt32
 0.0,0
 1.0,7816677
 1.1,7816686

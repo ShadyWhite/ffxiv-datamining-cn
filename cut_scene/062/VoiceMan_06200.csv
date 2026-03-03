@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_VOICEMAN_06200_000010_VARSHAHNBIG","(-？？？？-)抱歉，让你们久等了。"
 1,"TEXT_VOICEMAN_06200_000020_ESTINIEN","你是……弗栗多？"
 2,"TEXT_VOICEMAN_06200_000030_VARSHAHNBIG","是的。

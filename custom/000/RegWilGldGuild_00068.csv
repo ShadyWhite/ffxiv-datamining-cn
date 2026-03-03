@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILGLDGUILD_00068_SERENDIPITY_000","你好！
 你想询问有关雕金的事情吗？"
 1,"TEXT_REGWILGLDGUILD_00068_Q1_000_1","想了解什么？"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000","嗯？你是冒险者？有什么事吗？"
 1,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001","啊，是你呀。
 是不是你也察觉到了最近跟阿拉米格有关的动静，

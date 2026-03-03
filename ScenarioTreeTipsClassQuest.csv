@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,Quest,RequiredLevel,RequiredExpansion,RequiredQuest,,
 offset,0,8,10,4,11,11
-int32,UInt32,UInt16,UInt8,UInt32,PackedBool0,PackedBool1
+Int32,UInt32,UInt16,UInt8,UInt32,PackedBool0,PackedBool1
 0.0,0,0,0,0,False,False
 1.0,65713,1,0,0,False,True
 1.1,65821,1,0,0,False,True

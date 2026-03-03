@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,,,Icon,Name
 offset,10,8,4,0
-int32,PackedBool0,UInt16,UInt32,String
+Int32,PackedBool0,UInt16,UInt32,String
 0,False,0,0,""
 1,True,0,240003,"无设定"
 2,True,1,240004,"全面格子底"

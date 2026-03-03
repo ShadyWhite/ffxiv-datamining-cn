@@ -1,6 +1,7 @@
 ﻿key,0
-#,
-int32,str
+#,FileName
+offset,0
+Int32,String
 0,""
 1,"-nowloading_base05"
 2,"-nowloading_base01"

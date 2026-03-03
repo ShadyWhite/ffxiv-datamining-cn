@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESPDY301_02399_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈秘银之眼的记者想要向冒险者打听些事情。"

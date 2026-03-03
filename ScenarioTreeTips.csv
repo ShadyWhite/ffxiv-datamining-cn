@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
-#,,Tips1,,Tips2
+#,NextTip,Tips[0],RequiredLevel,Tips[1]
 offset,10,0,8,4
-int32,UInt8,UInt32,UInt16,UInt32
+Int32,UInt8,UInt32,UInt16,UInt32
 0,0,0,0,0
 1,2,0,0,0
 2,3,0,0,66047

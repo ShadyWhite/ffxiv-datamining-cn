@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000","哎呀，你是冒险者吧。
 找我有什么事啊？"
 1,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010","我是一名幻术师，遵从法师大人的指示，

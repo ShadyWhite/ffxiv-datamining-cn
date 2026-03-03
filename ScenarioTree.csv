@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,Type,,Addon,QuestChapter,Name,,
 offset,22,20,4,8,0,16,12
-int32,UInt8,UInt16,UInt32,UInt32,String,Int32,UInt32
+Int32,UInt8,UInt16,UInt32,UInt32,String,Int32,UInt32
 65564,2,3,0,1,"T_VER200_01_Gri_03",3,30
 65575,2,1,0,1,"T_VER200_01_Gri_01",1,10
 65588,0,214,0,15,"T_VER240_01_01",1,7010

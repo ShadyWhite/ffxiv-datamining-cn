@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,,
+#,Name,ObjectGroup
 offset,0,4
-int32,UInt32,UInt8
+Int32,UInt32,UInt8
 0,0,0
 1,5446,1
 2,5447,2

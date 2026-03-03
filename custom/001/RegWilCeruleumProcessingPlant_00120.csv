@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGWILCERULEUMPROCESSINGPLANT_00120_EDELSTEIN_000_000","你好，请问你有什么事？
 如果是我知道的我会尽量解答。"
 1,"TEXT_REGWILCERULEUMPROCESSINGPLANT_00120_EDELSTEIN_000_010","我负责管理驻扎在这里的恒辉队。

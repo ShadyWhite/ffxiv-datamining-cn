@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Quest,Redo
-int32,Quest,QuestRedoChapter
+offset,0,4
+Int32,UInt32,UInt16
 0,0,0
 1,65998,1
 2,65999,1

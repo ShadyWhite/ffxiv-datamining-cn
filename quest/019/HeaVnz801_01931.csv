@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ801_01931_SEQ_00","先贤伟业纪念碑的伍尔尼克斯正在对冒险者上下打量。"
 1,"TEXT_HEAVNZ801_01931_SEQ_01","伍尔尼克斯被<Sheet(BNpcName,3593,0)/>折磨得很苦。在龙堡内陆低地的萨雷安屯集区讨伐3只<Sheet(BNpcName,3593,0)/>。"
 2,"TEXT_HEAVNZ801_01931_SEQ_02","讨伐了<Sheet(BNpcName,3593,0)/>。向先贤伟业纪念碑的伍尔尼克斯报告。"

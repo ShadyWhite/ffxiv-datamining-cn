@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_000","我看上去像是狩猎陆行鸟的猎人吗？
 就算都是猎人，但我的目标可是别的家伙。"
 1,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_001","你是来狩猎恶名精英的？

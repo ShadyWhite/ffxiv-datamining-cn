@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFRDM_00422_ARYA_000_000","师父他……真的走了呢。
 但是他最后那句话的意思，就是说我们将来还会见面吧？！"
 1,"TEXT_JOBDEFRDM_00422_ARYA_000_001","如果前辈也能时不时来看我就最好了。

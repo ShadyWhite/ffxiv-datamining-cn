@@ -1,6 +1,7 @@
 ﻿key,0
 #,Icon
-int32,Image
+offset,0
+Int32,UInt32
 0,0
 71001,70961
 71003,70963

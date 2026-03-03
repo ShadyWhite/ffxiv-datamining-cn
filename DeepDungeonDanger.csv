@@ -1,5 +1,6 @@
 ﻿key,0,1,2
-#,ScreenImage,LogMessage,Name
-int32,ScreenImage,LogMessage,DeepDungeonFloorEffectUI
+#,ScreenImage,LogMessage,FloorEffectUI
+offset,0,2,4
+Int32,UInt16,UInt16,UInt16
 0,0,0,0
 1,410,7240,11

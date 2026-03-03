@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSETCBOOSTERLOGIN_00392_JOB_000_001","阅读了<Sheet(Item,IntegerParameter(1),0)/>，
 <Sheet(ClassJob,IntegerParameter(2),0)/>的等级达到了<Value>IntegerParameter(3)</Value>级！"
 1,"TEXT_CTSETCBOOSTERLOGIN_00392_JOB_999_001","阅读了<Sheet(Item,IntegerParameter(1),0)/>。"

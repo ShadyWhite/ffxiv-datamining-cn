@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Order,Icon,Name
-int32,uint16,Image,str
+offset,8,4,0
+Int32,UInt16,UInt32,String
 0,0,0,""
 1,5,26595,"情报记录终端机"
 2,3,26995,"妖怪大辞典"

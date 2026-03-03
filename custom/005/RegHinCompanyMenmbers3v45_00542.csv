@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_000","前几天我在小金街的无地鼓座看了一场演出，
 见识到了远东之国特有的戏剧形式。
 剧中独特的唱腔和旋律非常有意思，令我印象深刻。"

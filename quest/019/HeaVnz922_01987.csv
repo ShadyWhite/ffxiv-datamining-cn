@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_HEAVNZ922_01987_SEQ_00","伽马管区的输送系统安静地伫立着。"
 1,"TEXT_HEAVNZ922_01987_SEQ_01","输送系统想要让未注册的浮空型运送终端停止动作。在伽马管区讨伐4个<Sheet(BNpcName,3552,0)/>。"
 2,"TEXT_HEAVNZ922_01987_SEQ_02","成功破坏了<Sheet(BNpcName,3552,0)/>。向伽马管区的输送系统报告。"

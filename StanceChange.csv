@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,,Action[0],Action[1],,
 offset,4,6,8,10,0
-int32,UInt16,UInt16,UInt16,UInt16,Float32
+Int32,UInt16,UInt16,UInt16,UInt16,Float32
 0,0,0,0,0,0
 1,377,4575,4564,34,0
 2,0,4574,4563,34,0

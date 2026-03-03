@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_000","嘿嘿，这位使魔，
 你是不是正在参观厄尔庇斯？
 方便的话，要不要和我聊聊？"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR","你是希望进行退役竞赛陆行鸟的配种吗？"
 1,"TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01","好的，这就是你的“<Sheet(Item,9560,0)/>”！
 直到你的新陆行鸟长大到可以参赛为止，

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_JOBDEFRRP_00729_DRUSILLA_000_000","<If(PlayerParameter(4))>姐妹<Else/>兄弟</If>你来了啊。
 你尽管把这里当做自己的家就行。
 虽然没有什么情调可言，不过倒是可以没事来这里放松一下。"

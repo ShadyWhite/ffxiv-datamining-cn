@@ -1,6 +1,7 @@
 ﻿key,0,1
-#,,
-int32,str,byte
+#,Text,
+offset,0,4
+Int32,String,UInt8
 0,"随机任务",1
 1,"特殊场景探索",1
 2,"深层迷宫",1

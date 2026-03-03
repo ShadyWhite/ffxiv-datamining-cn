@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_000","哼哧……哼哧……
 怎么 想了解 这里吗？"
 1,"TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_001","新任联王 已定 可喜可贺。

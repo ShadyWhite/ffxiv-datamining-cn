@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 #,BonusMultiplier,SatisfactionSupplyRewardData[0].RewardCurrency,SatisfactionSupplyRewardData[0].QuantityLow,SatisfactionSupplyRewardData[0].QuantityMid,SatisfactionSupplyRewardData[0].QuantityHigh,SatisfactionSupplyRewardData[1].RewardCurrency,SatisfactionSupplyRewardData[1].QuantityLow,SatisfactionSupplyRewardData[1].QuantityMid,SatisfactionSupplyRewardData[1].QuantityHigh,MinLevelForSecondReward,SatisfactionLow,SatisfactionMid,SatisfactionHigh,GilLow,GilMid,GilHigh
 offset,28,0,2,4,6,8,10,12,14,29,16,18,20,22,24,26
-int32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16
+Int32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,100,2,94,117,140,6,71,86,100,0,30,30,30,670,840,1000
 2,100,4,94,117,140,7,71,86,100,0,30,30,30,670,840,1000

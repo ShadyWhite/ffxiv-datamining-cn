@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000","啦哩吼！
 欢迎你来到我们的村子！
 要是有想要了解的事情，问我就好了！"

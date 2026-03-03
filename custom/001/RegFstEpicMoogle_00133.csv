@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_REGFSTEPICMOOGLE_00133_EPICMOOGLE_000_001","这个大叔在做东西的时候可好玩了库啵。
 不过，他喝酒的时间要比工作的时间长库啵。
 现在和莫古完全成为酒友了库啵。"

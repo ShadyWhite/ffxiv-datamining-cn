@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA3ARMOR_00532_CRAFSMAN00532_000_000","没想到能与名匠盖罗尔特阁下一起工作……
 这正是我用来锻炼自身技艺的千载难逢的机会，
 就让我好好地学习学习天才的技术吧。"

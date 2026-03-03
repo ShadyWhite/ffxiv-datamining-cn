@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3
 #,BNpcBase,Rank,BNpcName,
-int32,BNpcBase,byte,BNpcName,uint16
+offset,4,10,0,8
+Int32,Int32,UInt8,UInt32,UInt16
 0,0,1,0,0
 1,3175,1,2919,0
 2,3192,2,2936,0

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001","现在正在举办九宫幻卡大赛——<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>！
 特等奖是<Sheet(Item,IntegerParameter(1),0)/>哟！"
 1,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002","我是九宫幻卡大赛的接待员。

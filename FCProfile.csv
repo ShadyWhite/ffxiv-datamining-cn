@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,Priority,Name
-int32,byte,str
+offset,4,0
+Int32,UInt8,String
 0,1,"角色扮演"
 1,2,"升级"
 2,3,"轻度游戏"

@@ -1,6 +1,7 @@
 ﻿key,0,1
 #,,
-int32,str,str
+offset,0,4
+Int32,String,String
 0,"TEXT_FESHLW102_00237_SEQ_00","※本任务是特定期间内的任务。
 
 利姆萨·罗敏萨的戈德里库兰想要开始对大陆马戏团进行调查。"

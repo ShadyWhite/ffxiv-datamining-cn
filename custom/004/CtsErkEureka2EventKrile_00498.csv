@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,String,String
+Int32,String,String
 0,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_000","感谢你过来。
 不好意思，让你等了一段时间，
 那咱们继续探索这座岛屿吧！"

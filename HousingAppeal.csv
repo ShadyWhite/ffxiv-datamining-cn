@@ -1,6 +1,7 @@
 ﻿key,0,1,2
 #,Tag,Icon,Order
-int32,str,Image,byte
+offset,0,4,8
+Int32,String,UInt32,UInt8
 0,"无",0,0
 1,"商店",66401,1
 2,"服装模特商店",66402,2

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,StartEmote,EndEmote,Move,Camera,EndOnRotate,EndOnEmote,ConditionMode,
-int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
+offset,0,2,5,5,5,5,4,5
+Int32,UInt16,UInt16,PackedBool0,PackedBool1,PackedBool2,PackedBool3,UInt8,PackedBool4
 0,0,0,True,True,False,False,0,False
 1,52,53,False,True,True,False,11,False
 2,50,51,False,True,True,True,11,False
