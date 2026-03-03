@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSB212_00843_SEQ_00","葡萄酒港的夏马尼·洛马尼，有事想要委托给冒险者。"
 1,"TEXT_GAIUSB212_00843_SEQ_01","夏马尼·洛马尼所寻求的最棒的葡萄酒，是传说中的<Sheet(EventItem,2000659,0)/>。和葡萄酒港的酿酒师们交谈，收集情报。"
 2,"TEXT_GAIUSB212_00843_SEQ_02","看来<Sheet(EventItem,2000659,0)/>在第七灵灾时尽数被毁……向葡萄酒港的夏马尼·洛马尼报告。"

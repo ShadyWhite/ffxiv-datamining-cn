@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
 #,Icon,Category,MainCommandCategory,SortID,,Name,Description
-offset,8,12,13,15,14,0,4
-int32,Int32,UInt8,UInt8,Int8,UInt8,String,String
+int32,Image,byte,MainCommandCategory,sbyte,byte,str,str
 0,0,0,0,0,0,"",""
 1,16,1,1,-5,1,"切换行动状态","在拔出武器与收回武器的状态间切换。"
 2,1,6,1,0,6,"角色","查看角色的各项状态参数，也可以进行变更装备、修改称号等操作。"

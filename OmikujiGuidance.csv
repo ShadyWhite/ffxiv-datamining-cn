@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,,,
-offset,8,0,4
-int32,PackedBool0,String,String
+int32,bit&01,str,str
 0,False,"無効","無効"
 100,True,"冒险","信步而行 信马由缰 长风破浪"
 101,True,"","天空海阔 无边无涯 气象一新"

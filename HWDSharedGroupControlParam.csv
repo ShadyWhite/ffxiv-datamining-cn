@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,ParamValue
-offset,0,1
-int32,UInt8,UInt8
+int32,byte,byte
 0.0,0,255
 1.0,1,255
 1.1,3,255

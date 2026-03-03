@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
 #,,List,,Priority,Icon,,Name
-offset,13,13,13,12,4,8,0
-int32,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt32,Int32,String
+int32,bit&01,bit&02,bit&04,byte,Image,int32,str
 0,False,False,False,0,0,0,""
 1,True,False,False,0,61532,0,"游戏测试"
 2,True,False,False,0,61524,0,"游戏管理员"

@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Name,FATE,Icon,TerritoryType,PlaceName
-offset,4,6,0,8,10
-int32,UInt16,UInt16,UInt32,UInt16,UInt16
+int32,BNpcName,Fate,Image,Map,PlaceName
 0,0,0,0,0,0
 1,785,0,84001,53,382
 2,1809,0,84002,25,409

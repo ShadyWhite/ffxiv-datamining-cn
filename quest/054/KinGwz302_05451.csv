@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_KINGWZ302_05451_SEQ_00","大地基地的宇宙飞线技师想要对宇宙飞线进行定期检查。"
 1,"TEXT_KINGWZ302_05451_SEQ_01",""
 2,"TEXT_KINGWZ302_05451_SEQ_02",""

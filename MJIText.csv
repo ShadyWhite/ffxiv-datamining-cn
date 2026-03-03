@@ -1,7 +1,6 @@
 ﻿key,0
 #,Text
-offset,0
-int32,String
+int32,str
 0,""
 1,"空手"
 2,"小岛木屋 I"

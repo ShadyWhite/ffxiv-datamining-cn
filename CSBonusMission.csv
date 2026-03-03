@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,Content0,Content1
-offset,0,2
-int32,UInt16,UInt16
+#,Content[0],Content[1]
+int32,CSBonusContent,CSBonusContent
 0.0,0,0
 1.0,1,0
 1.1,2,0

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANANA503_03060_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任务需要与接受任务时的职业相同才可继续进行任务。
 
@@ -92,7 +91,7 @@ int32,String,String
 62,"TEXT_BANANA503_03060_ESHANA_000_030","嘶——你讨伐陀罗成功了啊，
 衷心感谢你的帮助。
 战士长肯定也很高兴吧。"
-63,"TEXT_BANANA503_03060_ESHANA_000_031","那个野营地，是守卫与山区相连的道路的重要的据点。
+63,"TEXT_BANANA503_03060_ESHANA_000_031","那个野营地，是守卫与山区相连的道路的重要据点。
 虽然我们分属不同的部队，但为了道路的安全，
 我们今后会继续互相合作，共同努力。"
 64,"TEXT_BANANA503_03060_LEADER03060_000_035","十分感谢你帮忙讨伐陀罗！

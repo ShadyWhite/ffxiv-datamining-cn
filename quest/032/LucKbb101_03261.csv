@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_LUCKBB101_03261_SEQ_00","※本任务是特职绝枪战士的开放任务。
 
 以太之光广场的耿直的神勇队队员似乎正在召集人手。"

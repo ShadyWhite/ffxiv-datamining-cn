@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESXMS006_00325_SEQ_00","※本任务是特定期间内的任务。
 
 薰衣草苗圃的阿姆·加兰基，希望冒险者在薰衣草苗圃帮忙举办星芒节。"

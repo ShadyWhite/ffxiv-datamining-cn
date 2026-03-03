@@ -1,7 +1,6 @@
 ﻿key,0
 #,Currency
-offset,0
-int32,UInt32
+int32,Item
 0,0
 1,26807
 2,28063

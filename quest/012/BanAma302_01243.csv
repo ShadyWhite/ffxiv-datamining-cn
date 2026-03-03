@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANAMA302_01243_SEQ_00","灰阵营的雅德夫·夏想要告诉冒险者机会来了。"
 1,"TEXT_BANAMA302_01243_SEQ_01","接受了雅德夫·夏的委托。讨伐不悔战阵的<Sheet(BNpcName,1840,0)/>及其护卫<Sheet(BNpcName,1839,0)/>各3名。"
 2,"TEXT_BANAMA302_01243_SEQ_02","讨伐了<Sheet(BNpcName,1839,0)/>和<Sheet(BNpcName,1840,0)/>。向灰阵营的雅德夫·夏报告。"
@@ -60,11 +59,11 @@ int32,String,String
 51,"TEXT_BANAMA302_01243_YADOVVGAH_000_003","居心叵测，不管他们有何企图，
 各讨伐3名应该就能击溃他们的计策了。
 祝阁下旗开得胜！"
-52,"TEXT_BANAMA302_01243_YADOVVGAH_000_010","冒险者，去讨伐不悔战阵的祈祷师们，
+52,"TEXT_BANAMA302_01243_YADOVVGAH_000_010","冒险者阁下，去讨伐不悔战阵的祈祷师们，
 也就是<Sheet(BNpcName,1840,0)/>及其护卫<Sheet(BNpcName,1839,0)/>！"
 53,"TEXT_BANAMA302_01243_YADOVVGAH_000_020","欢迎回来……不愧是冒险者阁下。
 大信不约，你的那份强大，在下无条件信赖。"
-54,"TEXT_BANAMA302_01243_YADOVVGAH_000_021","得到冒险者的帮助，对我们灰党而言真可谓是如虎添翼。
+54,"TEXT_BANAMA302_01243_YADOVVGAH_000_021","得到冒险者阁下的帮助，对我们灰党而言真可谓是如虎添翼。
 可以预见我党的前途一片光明。"
 55,"TEXT_BANAMA302_01243_YADOVVGAH_000_022","在下也不能辜负阁下的一腔热忱，
 要努力让自身的武艺更上一层楼，

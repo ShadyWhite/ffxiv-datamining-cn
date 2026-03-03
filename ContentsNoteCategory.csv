@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,SortKey,Name
-offset,4,0
-int32,Int8,String
+#,,
+int32,sbyte,str
 0,0,""
 1,1,"战斗"
 2,2,"对战"

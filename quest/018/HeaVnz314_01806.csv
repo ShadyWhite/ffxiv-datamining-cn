@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ314_01806_SEQ_00","自由脑窟穴的有心理阴影的骨颌族正在仰望天空。"
 1,"TEXT_HEAVNZ314_01806_SEQ_01","有心理阴影的骨颌族委托冒险者去寻找声音的主人。在龙堡参天高地的阿瓦隆尼亚古陆寻找。"
 2,"TEXT_HEAVNZ314_01806_SEQ_02","找到了彷徨的骨颌族。他委托冒险者去讨伐<Sheet(BNpcName,3576,0)/>。讨伐阿瓦隆尼亚古陆的<Sheet(BNpcName,3576,0)/>。"

@@ -1,7 +1,6 @@
 ﻿key,0
 #,Category
-offset,0
-int32,String
+int32,str
 0,"无"
 1,"全部"
 2,"冒险者基础"

@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Item,SGB,Name
-offset,0,8,4
-int32,UInt32,UInt16,UInt32
+int32,Item,ExportedSG,EObjName
 0,0,0,0
 1,37593,30768,2013193
 2,37594,31239,2013194

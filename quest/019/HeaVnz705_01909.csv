@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ705_01909_SEQ_00","尊杜集落的加努瓦利对驱灭不完的虫子感到烦心。"
 1,"TEXT_HEAVNZ705_01909_SEQ_01","加努瓦利委托冒险者拿回<Sheet(EventItem,2001670,0)/>。在阿巴拉提亚云海的蓝天窗获取3个<Sheet(EventItem,2001670,0)/>。"
 2,"TEXT_HEAVNZ705_01909_SEQ_02","获得了3个<Sheet(EventItem,2001670,0)/>。将<Sheet(EventItem,2001670,0)/>交给尊杜集落的加努瓦利。"

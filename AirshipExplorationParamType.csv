@@ -1,7 +1,6 @@
 ﻿key,0
 #,Name
-offset,0
-int32,String
+int32,str
 0,"探索性能"
 1,"收集性能"
 2,"巡航速度"

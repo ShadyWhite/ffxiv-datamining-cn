@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM602_03967_SEQ_00","※本任务是特定期间内的任务。
 
 太阳海岸的红莲节执行委员长荷尔玛伽似乎想将格格鲁玖的传话告诉给冒险者。"

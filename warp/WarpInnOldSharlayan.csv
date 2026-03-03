@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000","<Highlight>ObjectParameter(1)</Highlight>，欢迎回来！
 要直接进入休息室休息吗？"
 1,"TEXT_WARPINNOLDSHARLAYAN_Q1_000_100","想了解什么？"

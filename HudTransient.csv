@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
 #,,,,
-offset,0,1,2,3
-int32,Int8,Int8,Int8,Int8
+int32,sbyte,sbyte,sbyte,sbyte
 0,1,2,1,0
 1,1,2,1,0
 2,1,2,1,0

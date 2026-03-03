@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
-#,Name,Icon,OrderMinor,OrderMajor
-offset,0,4,8,9
-int32,String,Int32,UInt8,UInt8
+#,Name,Icon,Order{Minor},Order{Major}
+int32,str,Image,byte,byte
 0,"",0,0,0
 1,"格斗武器",60101,6,1
 2,"单手剑",60102,0,1

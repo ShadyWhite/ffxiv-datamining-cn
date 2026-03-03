@@ -1,7 +1,6 @@
 ﻿key,0
 #,Name
-offset,0
-int32,String
+int32,str
 0,""
 1,"制作蓝票的票据"
 2,"采集蓝票的票据"

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM302_02957_SEQ_00","※本任务是特定期间内的任务。
 
 永夏岛的红莲节执行委员佩·欧碧雅诺希望冒险者能帮忙点燃海上烟火。"

@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
-#,Name,ActionTimeline[0],ActionTimeline[1],ActionTimeline[2],ActionTimeline[3],ActionTimeline[4],ActionTimeline[5],ActionTimeline[6],,,,EmoteCategory,EmoteMode,,,HasCancelEmote,DrawsWeapon,,Order,TextCommand,Icon,LogMessageTargeted,LogMessageUntargeted,UnlockLink,Patch
-offset,0,16,18,20,22,24,26,28,40,40,40,38,39,40,40,40,40,40,30,12,4,32,34,8,36
-int32,String,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,PackedBool0,PackedBool1,PackedBool2,UInt8,UInt8,PackedBool3,PackedBool4,PackedBool5,PackedBool6,PackedBool7,UInt16,Int32,UInt32,UInt16,UInt16,UInt32,UInt16
+#,Name,ActionTimeline[0],ActionTimeline[1],ActionTimeline[2],ActionTimeline[3],ActionTimeline[4],ActionTimeline[5],ActionTimeline[6],,,,EmoteCategory,EmoteMode,,,HasCancelEmote,DrawsWeapon,,Order,TextCommand,Icon,LogMessage{Targeted},LogMessage{Untargeted},UnlockLink,
+int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,bit&01,bit&02,bit&04,EmoteCategory,EmoteMode,bit&08,bit&10,bit&20,bit&40,bit&80,uint16,TextCommand,Image,LogMessage,LogMessage,uint32,uint16
 0,"",0,0,0,0,0,0,0,True,True,True,0,0,False,False,False,False,False,0,0,0,0,0,0,1
 1,"惊讶",689,0,674,674,674,0,0,True,True,True,1,0,False,True,False,False,False,5016,402,246201,100,200,0,1
 2,"不满",690,0,639,639,639,0,0,True,True,True,1,0,False,True,False,False,False,5010,403,246202,101,201,0,1
@@ -314,7 +313,7 @@ int32,String,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,PackedBool0,Packed
 309,"跳脚",8179,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,5005,710,246455,8351,8350,578,741
 310,"节拍声援小红",8181,8180,0,0,0,0,0,False,False,False,2,88,False,True,False,False,False,10031,711,246456,8353,8352,579,740
 311,"摇摆声援小黄",8183,8182,0,0,0,0,0,False,False,False,2,89,False,True,False,False,False,10034,712,246457,8359,8358,580,740
-312,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
+312,"太感动了",13340,0,13341,13341,13341,0,0,True,True,True,1,0,False,True,False,False,False,3123,713,246458,8365,8364,581,745
 313,"模特步",13342,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,5053,714,246459,8367,8366,582,740
 314,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 315,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0

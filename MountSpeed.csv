@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Quest,,
-offset,0,4,8
-int32,UInt32,UInt32,UInt8
+int32,Quest,uint32,byte
 0,0,0,0
 1,66260,353,2
 2,66260,354,3

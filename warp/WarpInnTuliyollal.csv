@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_000","欢迎回来。
 要在船头小屋休息吗？"
 1,"TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_010","欢迎回来。

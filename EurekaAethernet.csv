@@ -1,7 +1,6 @@
 ﻿key,0
 #,Location
-offset,0
-int32,UInt16
+int32,PlaceName
 0,0
 1,2415
 2,2429

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Name,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"",""
 1,"进攻系技能","进攻系"
 2,"防守系技能","防守系"

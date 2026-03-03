@@ -1,7 +1,6 @@
 ﻿key,0
 #,Effect
-offset,0
-int32,UInt16
+int32,QuestEffect
 65536.0,0
 65537.0,0
 65538.0,0

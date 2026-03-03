@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,StampIcon,,Category,,,,,,,,Name
-offset,8,12,16,24,26,4,20,27,27,27,0
-int32,Int32,Int32,Int32,UInt16,UInt8,UInt32,Int32,PackedBool0,PackedBool1,PackedBool2,String
+int32,Image,int32,GroupPoseStampCategory,uint16,byte,uint32,int32,bit&01,bit&02,bit&04,str
 0,0,0,0,0,10,0,0,False,False,False,"无"
 1,120021,2,10,200,10,0,0,False,False,False,"使命开始！"
 2,120022,2,10,201,10,0,0,False,False,False,"使命完成！"

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_000","(-传统装束的男子-)居然能轻松突破10层。
 真不愧是光之战士啊。"
 1,"TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_001","(-传统装束的男子-)啊，所谓的光之战士，

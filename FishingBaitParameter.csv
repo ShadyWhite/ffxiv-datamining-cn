@@ -1,7 +1,6 @@
 ﻿key,0
-#,Item
-offset,0
-int32,UInt32
+#,
+int32,uint32
 0,2585
 1,2586
 2,2587

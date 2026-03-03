@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,Int32
+int32,str,int32
 0,"SEQ_OFFER",0
 1,"SEQ_1",1
 2,"SEQ_2",2

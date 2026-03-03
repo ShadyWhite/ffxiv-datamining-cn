@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_DUNGEONMYC2_00000_MEESIYA_000_050","哦哦……这就是被称为女王光轮的博兹雅水晶……
 这一次 我一定要解放圣剑天佑女王真正的力量！"
 1,"TEXT_DUNGEONMYC2_00000_MEESIYA_000_051","我 继承女王贡希尔德的遗志之人

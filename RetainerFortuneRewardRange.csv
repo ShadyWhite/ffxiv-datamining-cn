@@ -1,7 +1,6 @@
 ﻿key,0
 #,PercentOfLevel
-offset,0
-int32,UInt16
+int32,uint16
 0,0
 1,250
 2,214

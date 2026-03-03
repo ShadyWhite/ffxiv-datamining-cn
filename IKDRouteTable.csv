@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Route,
-offset,0,4
-int32,UInt32,UInt32
+int32,IKDRoute,uint32
 0,7,13
 1,10,16
 2,1,14

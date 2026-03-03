@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Name,AchievementKind,ShowComplete,HideCategory,Order
-offset,0,4,6,6,5
-int32,String,UInt8,PackedBool0,PackedBool1,UInt8
+int32,str,AchievementKind,bit&01,bit&02,byte
 0,"",0,True,False,0
 1,"整体",1,True,False,1
 2,"迷宫探险",1,True,False,2

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,VFXNormal,VFXWalking
-offset,0,2
-int32,UInt16,UInt16
+int32,VFX,VFX
 0,0,0
 1,374,475
 2,375,476

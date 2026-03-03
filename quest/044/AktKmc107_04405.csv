@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_AKTKMC107_04405_SEQ_00","最伟大的森林的桑克瑞德发现了什么。"
 1,"TEXT_AKTKMC107_04405_SEQ_01","桑克瑞德让冒险者去寻找于里昂热。在最佳威兔洞以太之光附近的<Sheet(EObj,2012184,0)/>进行张望。"
 2,"TEXT_AKTKMC107_04405_SEQ_02","发现于里昂热前往了出入口方向。在最佳威兔洞出口的<Sheet(EObj,2012185,0)/>进行张望。"

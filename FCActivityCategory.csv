@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Priority,Name
-offset,4,0
-int32,UInt8,String
+int32,byte,str
 0,1,"全部"
 1,2,"组织"
 2,3,"编制"

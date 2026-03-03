@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
-offset,0,12,4,13,14,15,16,17,8,20,24,28,38,32,34,36,39
-int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,Int32,Int32,Int32,UInt8,UInt16,UInt16,UInt16,UInt8
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Model{Top},Model{Body},Model{Legs},GrandCompany,Icon{Head},Icon{Body},Icon{Legs},Order
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,int32,int32,int32,GrandCompany,Image,Image,Image,byte
 0,"皮革陆行鸟鞍",0,"",0,0,1,0,0,"皮革陆行鸟鞍",0,0,0,0,0,0,0,0
 1,"碧海陆行鸟鞍",0,"",0,0,1,0,0,"碧海陆行鸟鞍",65538,65541,65538,1,58549,58553,58551,1
 2,"碧海陆行鸟半装甲",0,"",0,0,1,0,0,"碧海陆行鸟半装甲",65542,65542,65542,1,58501,58502,58503,2

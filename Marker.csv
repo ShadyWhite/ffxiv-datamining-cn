@@ -1,7 +1,6 @@
 ﻿key,0,1,2
-#,Icon,SortOrder,Name
-offset,4,8,0
-int32,Int32,UInt8,String
+#,Icon,,Name
+int32,Image,byte,str
 0,0,0,""
 1,61201,1,"攻击1"
 2,61202,2,"攻击2"

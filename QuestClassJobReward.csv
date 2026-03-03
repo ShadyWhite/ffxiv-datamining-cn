@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
-#,ClassJobCategory,RewardItem[0],RewardItem[1],RewardItem[2],RewardItem[3],RewardAmount[0],RewardAmount[1],RewardAmount[2],RewardAmount[3],RequiredItem[0],RequiredItem[1],RequiredItem[2],RequiredItem[3],,,RequiredAmount[0],RequiredAmount[1],RequiredAmount[2],RequiredAmount[3],,,,,,,,,,,,,,
-offset,40,0,4,8,12,41,42,43,44,16,20,24,28,32,36,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62
-int32,UInt8,UInt32,UInt32,UInt32,UInt32,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool
+#,ClassJobCategory,Reward{Item}[0],Reward{Item}[1],Reward{Item}[2],Reward{Item}[3],Reward{Amount}[0],Reward{Amount}[1],Reward{Amount}[2],Reward{Amount}[3],Required{Item}[0],Required{Item}[1],Required{Item}[2],Required{Item}[3],Required{Amount}[0],Required{Amount}[1],Required{Amount}[2],Required{Amount}[3],,,,,,,,,,,,,,,,
+int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,Item,uint32,uint32,byte,byte,byte,byte,byte,byte,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool
 0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
 1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
 1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False

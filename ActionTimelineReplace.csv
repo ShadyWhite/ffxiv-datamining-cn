@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Old,New
-offset,0,2
-int32,UInt16,UInt16
+int32,ActionTimeline,ActionTimeline
 0,0,0
 1,5464,5464
 2,4964,4966

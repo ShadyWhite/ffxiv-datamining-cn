@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_CLSWVR500_00654_SEQ_00","裁衣匠行会的雷多伦特·罗斯有些小道消息要告诉冒险者。"
 1,"TEXT_CLSWVR500_00654_SEQ_01","接受了雷多伦特·罗斯的委托。将<Sheet(ItemHQ,　3215,0)/>、<Sheet(ItemHQ,　3475,0)/>和<Sheet(ItemHQ,　2895,0)/>各1个，交给乌尔达哈裁衣匠行会的雷多伦特·罗斯。"
 2,"TEXT_CLSWVR500_00654_SEQ_02","将<Sheet(ItemHQ,　3215,0)/>、<Sheet(ItemHQ,　3475,0)/>和<Sheet(ItemHQ,　2895,0)/>交给了雷多伦特·罗斯。和乌尔达哈黄金广场的瓦瓦鲁卡谈谈。"

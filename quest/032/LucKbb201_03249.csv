@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_LUCKBB201_03249_SEQ_00","※本任务是特职舞者的开放任务。
 
 利姆萨·罗敏萨下层甲板兴奋的海都居民想推荐冒险者看某个表演。"

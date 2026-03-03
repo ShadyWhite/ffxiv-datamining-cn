@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41
 #,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Talk[0],Talk[1],Talk[2],Talk[3],Talk[4],Talk[5]
-offset,11,23,35,47,59,71,8,20,32,44,56,68,0,12,24,36,48,60,9,21,33,45,57,69,10,22,34,46,58,70,4,16,28,40,52,64,72,76,80,84,88,92
-int32,PackedBool0,PackedBool0,PackedBool0,PackedBool0,PackedBool0,PackedBool0,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int8,Int32,Int32,Int32,Int32,Int32,Int32,String,String,String,String,String,String
+int32,bit&01,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32,uint32,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,int32,int32,int32,int32,int32,int32,str,str,str,str,str,str
 0,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0","0","0","0","0","0"
 1,False,False,False,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,"带来了吗？","谢谢！","哦……真遗憾……","0","0","0"
 2,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"我的委托完成了？","太好了！","还没有吗……","还能再多给我点吗？","那到时候再和我说一下吧！","已经足够了！非常感谢你！"

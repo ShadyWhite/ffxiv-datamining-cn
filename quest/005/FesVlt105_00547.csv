@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESVLT105_00547_SEQ_00","※本任务是特定期间内的任务。
 
 米·凯特露天剧场的奥尔特芬斯，希望听取冒险者的报告。"

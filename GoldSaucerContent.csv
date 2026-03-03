@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
-#,,TimeLimit,,ContentFinderCondition
-offset,4,5,0,2
-int32,UInt8,UInt8,UInt16,UInt16
+#,,,,
+int32,byte,byte,uint16,uint16
 0,0,10,0,0
 1,7,10,589,197
 2,7,10,590,198

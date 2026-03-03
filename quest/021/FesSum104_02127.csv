@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM104_02127_SEQ_00","※本任务是特定期间内的任务。
 
 红莲节执行委员佩·欧碧雅诺想就特别奖励一事对冒险者进行说明。"

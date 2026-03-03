@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ307_01799_SEQ_00","不洁三塔的特·伊斯拉垂涎欲滴。"
 1,"TEXT_HEAVNZ307_01799_SEQ_01","和特·伊斯拉进行了交谈。前往龙堡参天高地的阿瓦隆尼亚古陆，讨伐<Sheet(BNpcName,3577,0)/>，获取3份<Sheet(EventItem,2001623,0)/>。"
 2,"TEXT_HEAVNZ307_01799_SEQ_02","获得了<Sheet(EventItem,2001623,0)/>。将<Sheet(EventItem,2001623,0)/>交给不洁三塔的特·伊斯拉。"

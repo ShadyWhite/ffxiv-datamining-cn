@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,Path,PathAlly,Type,RestrictYScale,LargeScale,
-offset,0,4,8,10,10,9
-int32,String,String,UInt8,PackedBool0,PackedBool1,Int8
+int32,str,str,byte,bit&01,bit&02,sbyte
 0,"","",0,True,False,0
 1,"general_1bf","general_1bpf",0,True,False,0
 2,"general02f","general02_pf",0,True,False,0

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Name,
-offset,0,4
-int32,String,UInt8
+int32,str,byte
 0,"道具箱",1
 1,"所有种类",0
 2,"装备",0

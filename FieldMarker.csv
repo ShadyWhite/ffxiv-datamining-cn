@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
 #,VFX,UiIcon,MapIcon,Name
-offset,4,8,10,0
-int32,Int32,UInt16,UInt16,String
+int32,VFX,Image,Image,str
 0,0,0,0,""
 1,302,61241,60474,"场景标记A"
 2,303,61242,60475,"场景标记B"

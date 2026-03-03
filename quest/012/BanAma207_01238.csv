@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANAMA207_01238_SEQ_00","灰阵营的纳尔基·冬想要冒险者做一件事。"
 1,"TEXT_BANAMA207_01238_SEQ_01","接受了纳尔基·冬的委托。在赞拉克南部的<Sheet(EObj,2003189,0)/>张望，打败现身的<Sheet(BNpcName,2300,0)/>，对其使用<Sheet(EventItem,2001193,0)/>。"
 2,"TEXT_BANAMA207_01238_SEQ_02","对<Sheet(BNpcName,2300,0)/>们使用了<Sheet(EventItem,2001193,0)/>。向灰阵营的纳尔基·冬报告。"
@@ -67,7 +66,8 @@ int32,String,String
 用<Sheet(EventItem,2001193,0)/>向他们毫无防备的身体泼水！
 对蜥蜴人族来说，这是最大的屈辱！"
 54,"TEXT_BANAMA207_01238_AMALJAAENEMYA_000_015","唔！好、好冷！"
-55,"TEXT_BANAMA207_01238_AMALJAAENEMYAB000_016","唔嗷嗷！这是……水？！"
+55,"TEXT_BANAMA207_01238_AMALJAAENEMYAB000_016","唔嗷嗷！
+这是……水？！"
 56,"TEXT_BANAMA207_01238_AMALJAAENEMYC_000_017","混、混蛋！
 太屈辱了！"
 57,"TEXT_BANAMA207_01238_AMALJAAENEMYD_000_018","水、水？！

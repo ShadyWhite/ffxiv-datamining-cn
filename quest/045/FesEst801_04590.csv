@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESEST801_04590_SEQ_00","※本任务是特定期间内的任务。
 
 米·凯特露天剧场的吉莉·阿里亚珀想要谈谈彩蛋狩猎的话题。"

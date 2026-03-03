@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESPDY304_02406_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的马夏·玛卡拉卡很在意冒险者决定让谁当这次公演的主演。"

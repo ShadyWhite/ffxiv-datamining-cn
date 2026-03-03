@@ -1,7 +1,6 @@
 ﻿key,0
 #,GrandCompany
-offset,0
-int32,Int8
+int32,GrandCompany
 1441792,0
 1441793,1
 1441794,2

@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,IconObjective0,IconObjective1
-offset,0,4
-int32,UInt32,UInt32
+#,Icon{Objective}[0],Icon{Objective}[1]
+int32,Image,Image
 0,0,0
 1,63909,63909
 2,63910,63910

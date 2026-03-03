@@ -1,7 +1,6 @@
 ﻿key,0
 #,Ratio
-offset,0
-int32,UInt16
+int32,uint16
 0,0
 1,140
 2,120

@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,ColorNum,FCRight,
-offset,2,3,0
-int32,UInt8,UInt8,UInt16
+int32,byte,byte,uint16
 0,1,0,1
 1,1,0,2
 2,1,0,3

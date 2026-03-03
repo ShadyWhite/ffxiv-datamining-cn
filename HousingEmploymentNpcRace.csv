@@ -1,7 +1,6 @@
 ﻿key,0
 #,Race
-offset,0
-int32,String
+int32,str
 0,"人族"
 1,"精灵族"
 2,"拉拉菲尔族"

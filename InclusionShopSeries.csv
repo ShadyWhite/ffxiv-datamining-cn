@@ -1,7 +1,6 @@
 ﻿key,0
 #,SpecialShop
-offset,0
-int32,UInt32
+int32,SpecialShop
 0.0,1769472
 1.0,1770088
 1.1,1770095

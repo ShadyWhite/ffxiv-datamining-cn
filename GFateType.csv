@@ -1,7 +1,6 @@
 ﻿key,0
 #,
-offset,0
-int32,UInt16
+int32,uint16
 0,65535
 1,91
 2,51

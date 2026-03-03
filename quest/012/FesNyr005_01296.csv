@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESNYR005_01296_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的马奉行想要确认宣传的成果。"

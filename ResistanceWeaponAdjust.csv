@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,MaxTotalStats,MaxEachStat,BaseParam[0],BaseParam[1],BaseParam[2],BaseParam[3],Image,
-offset,4,6,8,9,10,11,0,12
-int32,UInt16,UInt16,UInt8,UInt8,UInt8,UInt8,UInt32,UInt8
+int32,uint16,uint16,BaseParam,BaseParam,BaseParam,BaseParam,Image,byte
 0,0,0,0,0,0,0,0,0
 32669,331,144,19,27,44,45,80812,0
 32670,462,202,22,27,44,45,80813,0

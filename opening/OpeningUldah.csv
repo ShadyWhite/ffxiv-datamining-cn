@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_OPENINGULDAH_WYMOND_000_10","喂，你要上哪溜达呢。
 没听见我叫你过来吗？"
 1,"TEXT_OPENINGULDAH_TUTUMOKO_000_10","喂，害怕得想回去了吗？

@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4
-#,RecipeLevel,,CrafterLevel,GathererLevel,FisherLevel
-offset,0,2,4,6,8
-int32,UInt16,UInt16,UInt16,UInt16,UInt16
+#,,,,,
+int32,uint16,uint16,uint16,uint16,uint16
 0,0,0,0,0,0
 1,1,1,1,0,0
 2,2,2,1,0,0

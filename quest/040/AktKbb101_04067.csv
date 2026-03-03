@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_AKTKBB101_04067_SEQ_00","※本任务是特职贤者的开放任务。
 
 利姆萨·罗敏萨下层甲板的北洋风格的女性正在很好奇地张望。"

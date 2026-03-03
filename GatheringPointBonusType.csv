@@ -1,7 +1,6 @@
 ﻿key,0
 #,Text
-offset,0
-int32,String
+int32,str
 0,""
 1,"获得率＋<Value>IntegerParameter(1)</Value>%"
 2,"获得率×<Value>IntegerParameter(1)</Value>"

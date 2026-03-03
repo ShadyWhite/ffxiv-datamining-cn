@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,,,
-offset,0,6,4
-int32,String,PackedBool0,UInt16
+int32,str,bit&01,uint16
 0,"",False,0
 1,"第1关：新手教学",False,349
 2,"第2关：到处都是巧儿鸟",False,349

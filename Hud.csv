@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,,,
-offset,0,4,8
-int32,String,String,String
+int32,str,str,str
 0,"热键栏1","Hotbar1","hot1"
 1,"热键栏2","Hotbar2","hot2"
 2,"热键栏3","Hotbar3","hot3"

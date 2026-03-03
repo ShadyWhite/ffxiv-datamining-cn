@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,,,,,,,,,
-offset,0,4,8,12,18,14,16,18,18
-int32,Int32,Int32,Int32,UInt16,PackedBool0,UInt16,UInt16,PackedBool1,PackedBool2
+int32,int32,int32,int32,uint16,bit&01,uint16,uint16,bit&02,bit&04
 4259840,0,0,0,0,False,0,0,False,False
 4259841,0,0,0,0,False,0,0,False,False
 4259842,11103140,11170639,10923822,400,False,2,306,True,False

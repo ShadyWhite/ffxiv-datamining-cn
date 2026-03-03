@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESXMS202_02376_SEQ_00","※本任务是特定期间内的任务。
 
 学者走廊的黑发医生有事情想要委托给冒险者。"

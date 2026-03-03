@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,BasePlate,TopBorder,BottomBorder,Backing,PatternOverlay,PortraitFrame,PlateFrame,Accent,SortKey,Name
-offset,4,18,19,6,8,10,12,14,16,0
-int32,UInt16,UInt8,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,String
+int32,CharaCardBase,CharaCardHeader,CharaCardHeader,CharaCardDecoration,CharaCardDecoration,CharaCardDecoration,CharaCardDecoration,CharaCardDecoration,uint16,str
 0,0,0,0,0,0,0,0,0,0,"自定义"
 1,2,1,0,11,1,0,0,0,1,"基础"
 2,3,3,3,11,2,0,0,0,2,"简约"
@@ -111,7 +110,7 @@ int32,UInt16,UInt8,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,String
 106,52,0,0,158,0,152,154,156,4000,"随身神典石1"
 107,53,0,0,159,0,153,155,157,4001,"随身神典石2"
 108,145,80,0,669,0,0,670,0,2345,"宇宙探索3"
-109,0,0,0,0,0,0,0,0,0,""
+109,3,0,0,0,671,672,0,0,2405,"多变迷宫：商客奇谭"
 110,146,81,0,0,0,0,673,0,16,"简约风格1"
 111,147,82,0,0,0,0,674,0,17,"简约风格2"
 112,148,83,0,0,0,0,675,0,18,"简约风格3"

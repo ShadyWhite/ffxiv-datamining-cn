@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Item,IsHQ,,,QuestRequired[0],QuestRequired[1],AchievementRequired,,StateRequired,Patch
-offset,0,23,20,21,4,8,12,22,16,18
-int32,Int32,PackedBool0,UInt8,UInt8,Int32,Int32,Int32,UInt8,UInt16,UInt16
+#,Item,,,,Quest{Required}[0],Quest{Required}[1],Achievement{Required},,State{Required},Patch
+int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262144.0,4594,False,0,0,0,0,0,0,0,0
 262144.1,4595,False,0,0,0,0,0,0,0,0
 262144.2,4596,False,0,0,0,0,0,0,0,0

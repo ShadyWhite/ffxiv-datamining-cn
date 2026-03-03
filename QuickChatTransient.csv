@@ -1,7 +1,6 @@
 ﻿key,0
-#,TextOutput
-offset,0
-int32,String
+#,Text{Output}
+int32,str
 0,""
 1,"该指令只能在“水晶冲突”中使用。
 使用后会在小队频道中显示固定的发言内容。

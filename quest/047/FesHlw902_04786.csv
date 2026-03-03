@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESHLW902_04786_SEQ_00","※本任务是特定期间内的任务。
 
 格雷洛姆农场的布尔塞爸爸想要教训城中的魔物。"

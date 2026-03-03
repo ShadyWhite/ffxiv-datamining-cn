@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,Name,NameShort,NameFemale,Description,NameEnglish,LevelMax,JobIndex,LevelUnlock[0],Action[0],LevelUnlock[1],Action[1],LevelUnlock[2],Action[2],LevelUnlock[3],Action[3],LevelUnlock[4],Action[4]
-offset,0,4,8,12,16,40,41,42,20,43,24,44,28,45,32,46,36
-int32,String,String,String,String,String,UInt8,UInt8,UInt8,UInt32,UInt8,UInt32,UInt8,UInt32,UInt8,UInt32,UInt8,UInt32
+#,,,,,,,,,,,,,,,,,
+int32,str,str,str,str,str,byte,byte,byte,uint32,byte,uint32,byte,uint32,byte,uint32,byte,uint32
 0,"辅助自由人","辅助自由人","","源自某位冒险者的起点与终点的记忆。
 能够习得利于探索的辅助技能。","Phantom Freelancer",0,16,5,41650,10,41651,15,46606,0,0,0,0
 1,"辅助骑士","辅助骑士","","源自某位骑士的忠心与名誉的记忆。

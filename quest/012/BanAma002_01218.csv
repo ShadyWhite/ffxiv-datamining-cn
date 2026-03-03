@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANAMA002_01218_SEQ_00","灰阵营的哈姆基·夏有事想要拜托冒险者。"
 1,"TEXT_BANAMA002_01218_SEQ_01","名为炎牙众的蜥蜴人一派意欲行凶。前往南萨纳兰红迷宫的<Sheet(EObj,2002931,0)/>，阻止他们。"
 2,"TEXT_BANAMA002_01218_SEQ_02","打倒了来袭的炎牙众。和紧张的商人谈谈。"

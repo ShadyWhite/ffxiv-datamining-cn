@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Model,AttachmentPoint,,,Action,Order,Icon,Transient,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
-offset,16,26,27,28,18,24,20,22,0,8,4,9,10,11,12,13
-int32,UInt16,UInt8,UInt8,UInt8,UInt16,Int16,UInt16,UInt16,String,Int8,String,Int8,Int8,Int8,Int8,Int8
+#,Model,,,,,Order,Icon,Transient,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+int32,uint16,byte,byte,byte,uint16,int16,Image,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 0,0,0,0,0,0,-1,0,0,"",0,"",0,0,1,0,0
 1,2939,1,1,1,2,0,8001,1,"阳伞",0,"",0,0,1,0,0
 2,2940,1,1,1,2,1,8002,2,"天蓝阳伞",0,"",0,0,1,0,0
@@ -55,5 +54,5 @@ int32,UInt16,UInt8,UInt8,UInt8,UInt16,Int16,UInt16,UInt16,String,Int8,String,Int
 50,4678,1,1,1,2,48,8049,34,"仙子阳伞",0,"",0,0,1,0,0
 51,4679,1,1,1,2,49,8050,35,"蓝色仙子阳伞",0,"",0,0,1,0,0
 52,0,0,0,0,0,0,0,0,"",0,"",0,0,0,0,0
-53,0,0,0,0,0,0,0,0,"",0,"",0,0,0,0,0
+53,4816,1,1,1,2,50,8052,36,"天方阳伞",0,"",0,0,1,0,0
 54,4817,1,1,1,2,51,8053,37,"魔石精伞",0,"",0,0,1,0,0

@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,IconOld,IconNew
-offset,0,4
-int32,UInt32,Int32
+#,Icon{Old},Icon{New}
+int32,Image,Image
 1,60801,66001
 2,208,158
 3,202,152

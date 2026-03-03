@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,Name,Description,Icon,IconStatus,UnlockLink,Sort
-offset,0,4,8,12,16,18
-int32,String,String,Int32,Int32,UInt16,UInt8
+#,Name,Description,Icon,Icon{Status},Reward,Sort
+int32,str,str,Image,Image,uint16,byte
 0,"","",0,0,0,0
 1,"","",0,0,0,0
 2,"离开","让搭档离开",901,214001,18,1

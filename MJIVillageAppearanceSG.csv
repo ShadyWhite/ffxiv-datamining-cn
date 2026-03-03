@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,VillageAppearanceData[0].SGB,VillageAppearanceData[1].SGB,VillageAppearanceData[2].SGB,VillageAppearanceData[3].SGB,VillageAppearanceData[4].SGB,VillageAppearanceData[0].UnknownParam,VillageAppearanceData[1].UnknownParam,VillageAppearanceData[2].UnknownParam,VillageAppearanceData[3].UnknownParam,VillageAppearanceData[4].UnknownParam
-offset,4,12,20,28,36,0,8,16,24,32
-int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32,UInt32,UInt32,UInt32,UInt32
+#,SGB[0],SGB[1],SGB[2],SGB[3],SGB[4],,,,,
+int32,ExportedSG,ExportedSG,ExportedSG,ExportedSG,ExportedSG,uint32,uint32,uint32,uint32,uint32
 0,0,0,0,0,0,0,0,0,0,0
 1,30025,30041,30061,32640,34887,11,12,13,0,0
 2,30026,30042,30062,32694,35030,11,12,13,0,0

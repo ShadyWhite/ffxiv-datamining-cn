@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,ItemAnimus,ItemScroll,MateriaLimit,ItemNovus,Icon,
-offset,0,4,16,8,12,17
-int32,UInt32,UInt32,UInt8,UInt32,Int32,Int8
+#,Item{Animus},Item{Scroll},MateriaLimit,Item{Novus},Icon,
+int32,Item,Item,byte,Item,Image,sbyte
 0,0,0,0,0,0,0
 1,7834,7873,53,7863,80152,1
 2,7835,7874,75,7864,80153,0

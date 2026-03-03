@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
-#,UpgradeAction,,,BaseAction,ComboTreeLayout,GroupedCell,
-offset,0,10,11,4,8,13,12
-int32,UInt32,UInt8,UInt8,UInt32,UInt16,PackedBool0,UInt8
+#,,,,,,,
+int32,uint32,byte,byte,uint32,uint16,bit&01,byte
 0.0,0,0,0,0,0,False,0
 1.0,9,0,0,0,100,False,0
 1.1,15,0,0,0,110,False,0

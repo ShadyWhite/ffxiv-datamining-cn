@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Item,GatheringItemLevel,,,PerceptionReq,,IsHidden,SublimeVariant,,
-offset,8,12,19,19,14,0,19,4,18,16
-int32,Int32,UInt16,PackedBool0,PackedBool1,UInt16,UInt32,PackedBool2,UInt32,UInt8,UInt16
+#,Item,GatheringItemLevel,,Quest,,IsHidden,,,,
+int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint32,byte,uint16
 0,0,0,False,False,0,0,False,0,0,0
 1,2,1,True,False,0,0,False,0,0,65535
 2,3,1,True,False,0,0,False,0,0,65535

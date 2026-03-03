@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Supply,Ratio
-offset,2,0
-int32,Int16,UInt16
+int32,int16,uint16
 0,18,160
 1,10,130
 2,2,100

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,BaseParam,Name
-offset,4,0
-int32,UInt8,String
+int32,BaseParam,str
 0,0,""
 1,6,"柔韧性"
 2,19,"柔韧性"

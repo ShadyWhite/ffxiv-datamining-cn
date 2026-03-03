@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_SUBCTS711_02387_SEQ_00",""
 1,"TEXT_SUBCTS711_02387_SEQ_01",""
 2,"TEXT_SUBCTS711_02387_SEQ_02",""
@@ -71,4 +70,4 @@ int32,String,String
 但希望你能先去磨练自身再来。"
 55,"TEXT_SUBCTS711_02387_SYSTEM_000_110","若要领取或继续推进本任务，
 需要满足以下条件。"
-56,"TEXT_SUBCTS711_02387_SYSTEM_000_111","当前职业为17级以上的战斗精英或魔法导师。"
+56,"TEXT_SUBCTS711_02387_SYSTEM_000_111","当前职业为17或更高等级的战斗精英或魔法导师。"

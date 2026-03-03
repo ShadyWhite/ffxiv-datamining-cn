@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
-#,,Quest,TextLong,TextShort,TextCommentary,,Section
-offset,20,12,0,4,8,21,16
-int32,UInt8,UInt32,String,String,String,PackedBool0,UInt32
+#,,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604480,0,0,"","","",False,0
 3604481,0,0,"","","",False,0
 3604482,0,68737,"多玛方城战解说","多玛方城战解说","",True,2
@@ -30,4 +29,4 @@ int32,UInt8,UInt32,String,String,String,PackedBool0,UInt32
 3604505,2,0,"深层迷宫","深层迷宫解说","",True,37
 3604506,0,0,"","","",True,36
 3604507,0,0,"询问有关蜃景幻界新月岛南征之章","蜃景幻界新月岛","",True,35
-3604508,0,0,"「スプリグ・クリーニング」について聞く","SPRIG CLEANING","スプリグ・クリーニング解説",True,39
+3604508,0,0,"询问有关嫩枝大清扫的事情","嫩枝大清扫解说","",True,39

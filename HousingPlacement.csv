@@ -1,7 +1,6 @@
 ﻿key,0
 #,Text
-offset,0
-int32,String
+int32,str
 0,""
 1,"确定要进行布置吗？
 布置之后会变成旧品，无法再到市场上出售。

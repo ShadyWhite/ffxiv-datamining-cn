@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESVLX002_04809_SEQ_00","※本任务是特定期间内的任务。
 
 米·凯特露天剧场的阿丝特丽德在等待冒险者做好准备。"

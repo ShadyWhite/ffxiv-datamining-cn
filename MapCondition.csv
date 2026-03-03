@@ -1,7 +1,6 @@
 ﻿key,0,1,2
-#,InstanceContent,Quest,QuestSequence
-offset,4,0,6
-int32,UInt16,Int32,UInt8
+#,,Quest,
+int32,uint16,Quest,byte
 0,0,0,0
 1,67,0,0
 2,68,0,0

@@ -1,7 +1,6 @@
 ﻿key,0,1,2
-#,Trait1,Trait2,Trait3
-offset,0,2,4
-int32,UInt16,UInt16,UInt16
+#,Trait{1},Trait{2},Trait{3}
+int32,Trait,Trait,Trait
 0,0,0,0
 1,0,0,0
 2,0,0,0

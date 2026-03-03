@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,Neutral,Recognized,Friendly,Trusted,Respected,Honored,Sworn,AlliedBloodsworn,Item,ItemQuantity[0],ItemQuantity[1],ItemQuantity[2],ItemQuantity[3],ItemQuantity[4],ItemQuantity[5],ItemQuantity[6],ItemQuantity[7]
-offset,4,6,8,10,12,14,16,18,0,20,21,22,23,24,25,26,27
-int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
+#,Neutral,Recognized,Friendly,Trusted,Respected,Honored,Sworn,Allied/Bloodsworn,Item,Item{Quantity}[0],Item{Quantity}[1],Item{Quantity}[2],Item{Quantity}[3],Item{Quantity}[4],Item{Quantity}[5],Item{Quantity}[6],Item{Quantity}[7]
+int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,Item,byte,byte,byte,byte,byte,byte,byte,byte
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,180,180,195,195,210,210,225,240,0,0,0,0,0,0,0,0,0
 2,240,240,290,290,340,390,390,430,21080,1,1,1,2,2,2,3,3

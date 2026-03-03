@@ -1,7 +1,6 @@
 ﻿key,0
 #,Quest
-offset,0
-int32,Int32
+int32,Quest
 0,67017
 1,67019
 2,67018

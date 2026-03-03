@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,SpotMain,SpotSub,PlaceName
-offset,0,4,8
-int32,UInt32,UInt32,UInt32
+int32,FishingSpot,FishingSpot,PlaceName
 0,0,0,0
 1,237,238,3444
 2,239,240,3445

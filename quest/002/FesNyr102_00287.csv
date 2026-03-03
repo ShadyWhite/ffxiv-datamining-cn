@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESNYR102_00287_SEQ_00","※本任务是特定期间内的任务。
 
 利姆萨·罗敏萨的羊奉行希望冒险者汇报在三大城邦的任务成果。"

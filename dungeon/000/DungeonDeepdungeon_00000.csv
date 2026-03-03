@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_DUNGEONDEEPDUNGEON_00000_EDDA_000_000","又有人来了呢……"
 1,"TEXT_DUNGEONDEEPDUNGEON_00000_EDDA_000_100","得把你消灭掉才行呢……
 是不是呀 阿维尔……"

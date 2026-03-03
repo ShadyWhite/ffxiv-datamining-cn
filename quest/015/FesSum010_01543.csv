@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM010_01543_SEQ_00","※本任务是特定期间内的任务。
 
 红莲节执行委员长荷尔玛伽会将特别奖励发给参加了所有红莲节活动的冒险者。"

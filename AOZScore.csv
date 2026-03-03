@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
-#,IsVisible,Score,Name,Description
-offset,12,8,0,4
-int32,PackedBool0,Int32,String,String
+#,IsHidden,Score,Name,Description
+int32,bit&01,int32,str,str
 0,False,0,"",""
 1,True,15000,"高速通关","在挑战时间内通关"
 2,True,5000,"标速通关","在标准时间内通关"

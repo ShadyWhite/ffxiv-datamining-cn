@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
-#,IsNetworked,Permission,LogMessage,LogMessagePriority
-offset,6,4,0,5
-int32,PackedBool0,UInt8,UInt32,UInt8
+#,,,LogMessage,
+int32,bit&01,byte,LogMessage,byte
 0,False,0,0,0
 1,False,0,7701,200
 2,False,0,7702,200

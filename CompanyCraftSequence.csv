@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,ResultItem,Category,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart[0],CompanyCraftPart[1],CompanyCraftPart[2],CompanyCraftPart[3],CompanyCraftPart[4],CompanyCraftPart[5],CompanyCraftPart[6],CompanyCraftPart[7],Order
-offset,4,8,12,16,20,24,26,28,30,32,34,36,38,0
-int32,Int32,Int32,Int32,Int32,Int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32
+int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,uint32
 0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
 1,9462,1,0,1,-1,1,0,0,0,0,0,0,0,1
 2,9463,1,0,1,14,2,0,0,0,0,0,0,0,2

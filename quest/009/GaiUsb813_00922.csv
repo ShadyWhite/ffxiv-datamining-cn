@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSB813_00922_SEQ_00","蓝雾营地的帕帕瓦兹有话想和冒险者说。"
 1,"TEXT_GAIUSB813_00922_SEQ_01","<Sheet(EventItem,2000714,0)/>的出货已经回归正常。向乌尔达哈蓝玉大街国际市场的辛特戈特报告。"
 2,"TEXT_GAIUSB813_00922_SEQ_02","向辛特戈特报告了恢复出货的消息。等他拿到<Sheet(EventItem,2000714,0)/>后，就可以立即备货发送了。"

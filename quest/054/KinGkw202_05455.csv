@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_KINGKW202_05455_SEQ_00","幻境村的利迪尔赛尔好像在思考什么。"
 1,"TEXT_KINGKW202_05455_SEQ_01","※本任务无法直接从日志放弃。
 　需要放弃时请和利迪尔赛尔进行对话。

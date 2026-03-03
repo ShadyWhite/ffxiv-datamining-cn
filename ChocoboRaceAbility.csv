@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Name,Description,Icon,ChocoboRaceAbilityType,Value
-offset,0,4,8,13,12
-int32,String,String,UInt32,Int8,UInt8
+int32,str,str,Image,ChocoboRaceAbilityType,byte
 0,"","",0,0,0
 1,"陆行鸟冲刺","冲刺。
 持续时间：1秒",70001,1,1

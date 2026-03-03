@@ -1,7 +1,6 @@
 ﻿key,0
-#,UnlockQuest
-offset,0
-int32,UInt32
+#,
+int32,uint32
 0,65536
 14002,0
 15492,0

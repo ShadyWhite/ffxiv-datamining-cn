@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,Name,Description
-offset,0,4
-int32,String,String
+#,,
+int32,str,str
 0,"",""
 1,"变身泥球","变身为泥球"
 2,"变身爆弹之母","变身为爆弹之母"

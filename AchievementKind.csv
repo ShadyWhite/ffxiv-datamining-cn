@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,Name,Order
-offset,0,4
-int32,String,UInt8
+int32,str,byte
 0,"",0
 1,"战斗",1
 2,"玩家对战",2

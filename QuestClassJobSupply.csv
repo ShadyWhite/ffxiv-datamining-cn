@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
 #,ClassJobCategory,,ENpcResident,Item,AmountRequired,ItemHQ,,,,,,
-offset,26,27,4,8,28,30,12,16,20,24,29,0
-int32,UInt8,UInt8,UInt32,UInt32,UInt8,PackedBool0,UInt32,UInt32,UInt32,UInt16,UInt8,UInt8
+int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01,uint32,uint32,uint32,uint16,byte,byte
 0.0,0,0,0,0,0,False,0,0,0,0,0,0
 1.0,0,0,0,0,0,False,0,0,0,0,0,0
 1.1,0,0,0,0,0,False,0,0,0,0,0,0

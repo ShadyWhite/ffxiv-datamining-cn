@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4
-#,Name,Icon,IconDutyFinder,,
-offset,0,4,8,12,13
-int32,String,UInt32,UInt32,UInt8,UInt8
+#,Name,Icon,Icon{DutyFinder},,
+int32,str,Image,Image,byte,byte
 0,"",0,0,0,0
 1,"随机任务",61807,0,0,0
 2,"迷宫挑战",61801,60831,1,1

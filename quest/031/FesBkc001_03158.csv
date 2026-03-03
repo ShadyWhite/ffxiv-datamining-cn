@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESBKC001_03158_SEQ_00","※本任务是特定期间内的任务。
 
 乌尔达哈的琪琵·嘉奇亚正在收集情报。"

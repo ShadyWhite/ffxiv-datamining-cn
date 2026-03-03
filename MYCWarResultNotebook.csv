@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,Number,,Link,Quest,,Icon,Image,Rarity,NameJP,Name,Description
-offset,28,29,30,12,16,20,24,31,8,0,4
-int32,UInt8,UInt8,UInt8,Int32,Int32,Int32,Int32,UInt8,String,String,String
+int32,byte,byte,byte,Quest,int32,Image,Image,byte,str,str,str
 0,0,0,0,0,0,0,0,0,"","",""
 1,1,0,0,69478,0,72556,72501,1,"バイシャーエン・ウルガッシュ","白沙恩·乌尔嘉失","54岁。硌狮族。出生于旧博兹雅王都博兹雅。
 博兹雅义军的领导者。

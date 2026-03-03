@@ -1,7 +1,6 @@
 ﻿key,0
 #,Name
-offset,0
-int32,String
+int32,str
 0,""
 1,"转轮台"
 2,"以太转轮"

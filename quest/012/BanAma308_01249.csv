@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANAMA308_01249_SEQ_00","灰阵营的雅德夫·夏想要冒险者解除后顾之忧。"
 1,"TEXT_BANAMA308_01249_SEQ_01","接受了雅德夫·夏的委托。在不悔战阵的<Sheet(EObj,2003087,0)/>等待，讨伐出现的<Sheet(BNpcName,2304)/>，获取3个<Sheet(EventItem,2001170,0)/>。"
 2,"TEXT_BANAMA308_01249_SEQ_02","讨伐了<Sheet(BNpcName,2304)/>，获得了<Sheet(EventItem,2001170,0)/>。对赞拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>。"

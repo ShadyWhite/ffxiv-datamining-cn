@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Name,,
-offset,0,4,5
-int32,String,UInt8,UInt8
+int32,str,byte,byte
 0,"",0,0
 1,"",0,0
 2,"",1,0

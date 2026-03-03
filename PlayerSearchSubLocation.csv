@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,SortKey,PlaceName,Location,Name0,Name1,Name2
-offset,20,12,16,0,4,8
-int32,UInt8,Int32,Int32,String,String,String
+#,,,,,,
+int32,byte,int32,int32,str,str,str
 0,0,0,0,"無効","無効","無効"
 1,1,0,0,"ワールド全体","world","全世界"
 2,2,500,1,"利姆萨·罗敏萨","Limsa Lominsa","利姆萨·罗敏萨"

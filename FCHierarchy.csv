@@ -1,7 +1,6 @@
 ﻿key,0
 #,Name
-offset,0
-int32,String
+int32,str
 0,"部队长"
 1,"指挥官"
 2,"成员"

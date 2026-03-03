@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESEST006_01419_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的吉莉·阿里亚珀，想委托冒险者去完成彩蛋狩猎的任务。"

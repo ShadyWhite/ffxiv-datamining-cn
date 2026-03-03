@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESNYX101_05186_SEQ_00","※本任务是特定期间内的任务。
 
 舰尾楼的巳奉行希望冒险者能参加他们举办的降神节庆典。"

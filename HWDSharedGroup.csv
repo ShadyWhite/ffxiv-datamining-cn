@@ -1,7 +1,6 @@
 ﻿key,0,1
-#,LGBSharedGroup,Param
-offset,0,4
-int32,UInt32,UInt8
+#,LGB{SharedGroup},Param
+int32,uint32,HWDSharedGroupControlParam
 0.0,0,0
 1.0,7988590,1
 1.1,8157411,2

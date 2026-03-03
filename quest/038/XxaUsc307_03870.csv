@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_XXAUSC307_03870_SEQ_00","小麦酒港的西艾娜，有情报想要告诉冒险者。"
 1,"TEXT_XXAUSC307_03870_SEQ_01","获得了有关<Sheet(EventItem,2003020,0)/>的重要线索。向格里达尼亚旧街的赫丁询问详情。"
 2,"TEXT_XXAUSC307_03870_SEQ_02","从赫丁那里听说了关于拥有偏属性水晶的魔石精——格吉的事情。在中央林区中魔石精巢穴的<Sheet(EObj,2002195,0)/>使用<Sheet(EventItem,2003019,0)/>，并从出现的<Sheet(BNpcName,1982,0)/>身上获取<Sheet(EventItem,2003020,0)/>。"

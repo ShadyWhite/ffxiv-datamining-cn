@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3
-#,Name[0],Name[1],Charges[0],Charges[1]
-offset,0,4,8,9
-int32,UInt32,UInt32,UInt8,UInt8
+#,Name,,Charges,
+int32,Action,uint32,byte,byte
 0,0,0,0,0
 1,7816,0,9,0
 2,8517,0,3,0

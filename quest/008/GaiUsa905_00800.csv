@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSA905_00800_SEQ_00","秋瓜浮村的埃塞尔梅尔想要将纽扣交给冒险者。"
 1,"TEXT_GAIUSA905_00800_SEQ_01","埃塞尔梅尔说<Sheet(EventItem,2000630,0)/>是解决怪异事件的突破口，将其交给了冒险者。让格里达尼亚魔女咖啡馆的店主缪恩查看<Sheet(EventItem,2000630,0)/>，她或许知道些什么。"
 2,"TEXT_GAIUSA905_00800_SEQ_02","缪恩对<Sheet(EventItem,2000630,0)/>没有什么印象。让在以太之光广场执行警备的伯娜迪特查看<Sheet(EventItem,2000630,0)/>。"

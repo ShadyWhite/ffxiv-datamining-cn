@@ -1,7 +1,6 @@
 ﻿key,0
 #,Name
-offset,0
-int32,String
+int32,str
 0,"最高速度"
 1,"加速力"
 2,"体力"

@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,Name,Description,,Action,UnlockLink,Recast,UIPriority,Icon,,
-offset,0,4,16,12,14,17,18,8,19,19
-int32,String,String,UInt8,UInt16,UInt16,UInt8,UInt8,Int32,PackedBool0,PackedBool1
+int32,str,str,byte,Action,uint16,byte,byte,Image,bit&01,bit&02
 0,"","",0,0,0,0,0,0,False,False
 1,"自动攻击","以一定时间为间隔自动进行普通攻击。",1,0,0,0,7,101,False,False
 2,"跳跃","通过跳跃可以跃过较小的高低差。",1,0,0,0,11,102,False,False

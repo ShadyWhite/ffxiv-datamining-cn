@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_MANFST206_00509_SEQ_00","流沙屋的莫莫蒂，要告诉冒险者有关拂晓血盟的事情。"
 1,"TEXT_MANFST206_00509_SEQ_01","为了解决艾欧泽亚所面临的问题，拂晓血盟需要伙伴。而<Highlight>ObjectParameter(1)</Highlight>则被他们看中……前往拂晓血盟的据点，位于西萨纳兰的黄昏湾。和沙之家的接待员对话。"
 2,"TEXT_MANFST206_00509_SEQ_02","遇到了沙之家的接待员塔塔露。拂晓血盟的盟主正在沙之家里面的拂晓之间等着<Highlight>ObjectParameter(1)</Highlight>。和拂晓之间前面的拂晓血盟成员对话。"

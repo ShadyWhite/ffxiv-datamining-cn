@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSB908_00931_SEQ_00","大审门的神殿骑士肖诺来想要拆除瓦砾。"
 1,"TEXT_GAIUSB908_00931_SEQ_01","被龙族击碎的<Sheet(EObj,2002159,0)/>堵塞了道路。拆除<Sheet(EObj,2002159,0)/>。"
 2,"TEXT_GAIUSB908_00931_SEQ_02","拆除了<Sheet(EObj,2002159,0)/>。向大审门的神殿骑士肖诺来报告。"

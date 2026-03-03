@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
-#,,Customize[0],Customize[1],Customize[2],Customize[3],Customize[4],Customize[5],Customize[6],Customize[7],Customize[8],Customize[9],Customize[10],Customize[11],Customize[12],Customize[13],Customize[14],Customize[15],Customize[16],Customize[17],Customize[18],,
-offset,42,0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40
-int32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16
+#,,,,,,,,,,,,,,,,,,,,,,
+int32,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,77,1,5,1,5,2,1,4,4,1,6,3,1,1,6,3,1,1,1,0,0,0
 2,28,7,11,7,11,8,12,10,10,7,11,9,12,7,11,9,12,7,11,0,0,0

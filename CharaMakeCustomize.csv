@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
-#,FeatureID,Icon,UnlockLink,IsPurchasable,Hint,HintItem,
-offset,14,0,12,16,4,8,15
-int32,UInt8,UInt32,UInt16,PackedBool0,UInt32,UInt32,UInt8
+#,FeatureID,Icon,Data,IsPurchasable,Hint,HintItem,
+int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 0,0,0,0,False,0,0,0
 1,1,131001,0,False,0,0,0
 2,2,131002,0,False,0,0,0

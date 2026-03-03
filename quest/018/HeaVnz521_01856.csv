@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ521_01856_SEQ_00","惋惜之晶遗迹观察细致的莫古力非常害怕。"
 1,"TEXT_HEAVNZ521_01856_SEQ_01","观察细致的莫古力在遗迹参观学习时被正在产卵的魔物吓到了。在惋惜之晶遗迹讨伐3只<Sheet(BNpcName,4287,0)/>。"
 2,"TEXT_HEAVNZ521_01856_SEQ_02","讨伐了<Sheet(BNpcName,4287,0)/>。向惋惜之晶遗迹观察细致的莫古力报告。"

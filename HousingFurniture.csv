@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,ModelKey,HousingItemCategory,UsageType,UsageParameter,Placement,AquariumTier,CustomTalk,Item,DestroyOnRemoval,,,Unplacement,UnplacementStorage,,
-offset,12,14,15,0,16,17,4,8,21,21,18,19,20,21,21
-int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,UInt8,UInt8,UInt8,PackedBool2,PackedBool3
+#,ModelKey,HousingItemCategory,UsageType,UsageParameter,,AquariumTier,CustomTalk,Item,DestroyOnRemoval,,,,,,
+int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,byte,bit&04,bit&08
 196608,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
 196609,1,13,0,0,0,0,0,6601,False,False,0,0,0,True,False
 196610,2,13,0,0,0,0,0,6602,False,False,0,0,0,True,False
@@ -1721,11 +1720,11 @@ int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt8,UInt32,UInt32,PackedBool0,PackedBool
 198324,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
 198325,1182,14,7,78,0,0,721109,50359,True,False,7,4,11,True,False
 198326,1290,15,0,0,0,0,0,50360,False,False,3,0,0,True,False
-198327,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
-198328,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
-198329,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
-198330,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
-198331,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
-198332,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
+198327,1581,12,0,0,0,0,0,50416,False,False,0,0,0,True,False
+198328,1582,16,0,0,0,0,0,50417,False,False,0,0,0,True,False
+198329,1583,16,0,0,0,0,0,50418,False,False,0,0,0,True,False
+198330,1584,12,0,0,0,0,0,50419,False,False,0,0,0,True,False
+198331,1585,14,0,0,0,0,0,50420,False,False,0,0,0,True,False
+198332,1586,12,0,0,0,0,0,50421,False,False,0,0,0,True,False
 198333,1587,14,0,0,0,0,0,50423,False,False,0,0,0,True,False
 198334,1588,14,0,0,0,0,0,50424,False,False,0,0,0,True,False

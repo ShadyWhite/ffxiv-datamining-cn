@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ009_01734_SEQ_00","隼巢附近的席甘好像回忆起了旧日时光。"
 1,"TEXT_HEAVNZ009_01734_SEQ_01","和席甘进行了交谈。击退危险的魔物，调查隼巢附近的<Sheet(EObj,2006041,0)/>，回收<Sheet(EventItem,2001736,0)/>。"
 2,"TEXT_HEAVNZ009_01734_SEQ_02","回收了<Sheet(EventItem,2001736,0)/>。将<Sheet(EventItem,2001736,0)/>交给隼巢附近的席甘。"

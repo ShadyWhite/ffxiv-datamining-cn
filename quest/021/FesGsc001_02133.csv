@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESGSC001_02133_SEQ_00","※本任务是特定期间内的任务。
 
 奇妙广场的奥利尔正在招募愿意体验新活动的志愿者。"

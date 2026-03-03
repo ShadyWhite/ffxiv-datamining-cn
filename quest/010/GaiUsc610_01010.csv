@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSC610_01010_SEQ_00","石场水车的猎人伊萨穆瓦想要筹备某种魔物的肉。"
 1,"TEXT_GAIUSC610_01010_SEQ_01","接受了筹备<Sheet(EventItem,2000845,0)/>的委托。讨伐<Sheet(BNpcName,15,0)/>，获取5份<Sheet(EventItem,2000845,0)/>。"
 2,"TEXT_GAIUSC610_01010_SEQ_02","获得了<Sheet(EventItem,2000845,0)/>。将其交给石场水车的伊萨穆瓦。"

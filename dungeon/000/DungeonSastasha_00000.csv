@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_DUNGEONSASTASHA_00000_COLIBRI_000_000","来了 来了 入侵者！
 肮脏 卑鄙的 冒险者！"
 1,"TEXT_DUNGEONSASTASHA_00000_MADISON_001_000","这次不会再输给你们了！

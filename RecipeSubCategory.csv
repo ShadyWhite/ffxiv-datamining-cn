@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,4,0
-int32,UInt8,String
+int32,byte,str
 0,0,""
 1,0,"重建计划第四期"
 2,1,"重建计划第三期"

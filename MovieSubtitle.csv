@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,StartTime,EndTime
-offset,0,4
-int32,Float32,Float32
+int32,single,single
 0,0,0
 1,5,0
 2,9,15.5

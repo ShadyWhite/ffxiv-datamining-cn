@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSXT101_04796_SEQ_00","※本任务是特定期间内的任务。
 
 翠玉大街的新人冒险者正在寻找光之战士。"

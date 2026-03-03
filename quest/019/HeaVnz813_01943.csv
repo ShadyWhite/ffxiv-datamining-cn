@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ813_01943_SEQ_00","田园郡的米德奈特·迪尤想要找人帮忙配送。"
 1,"TEXT_HEAVNZ813_01943_SEQ_01","和米德奈特·迪尤进行了交谈，她委托冒险者配送商品。将<Sheet(EventItem,2001694,0)/>交给龙堡内陆低地沙利亚克河的费尔茨默克斯。"
 2,"TEXT_HEAVNZ813_01943_SEQ_02","将<Sheet(EventItem,2001694,0)/>交给了费尔茨默克斯，获得了<Sheet(EventItem,2001695,0)/>。将<Sheet(EventItem,2001695,0)/>交给田园郡的米德奈特·迪尤。"

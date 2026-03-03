@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESGSC202_03134_SEQ_00","※本任务是特定期间内的任务。
 
 金碟游乐场的成年莫古力希望冒险者能帮他一个忙。"

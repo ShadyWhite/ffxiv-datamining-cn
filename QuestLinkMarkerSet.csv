@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
 #,,,,,,,
-offset,4,0,6,7,8,9,9
-int32,UInt16,UInt32,UInt8,UInt8,UInt8,PackedBool0,PackedBool1
+int32,uint16,uint32,byte,byte,byte,bit&01,bit&02
 0,0,0,0,0,0,False,False
 1,0,0,0,0,0,False,False
 2,0,0,0,0,0,False,False
@@ -1758,7 +1757,7 @@ int32,UInt16,UInt32,UInt8,UInt8,UInt8,PackedBool0,PackedBool1
 1753,495,70969,5,6,255,False,False
 1754,495,70970,0,0,255,True,False
 1755,495,70970,1,3,255,False,False
-1756,0,0,0,0,0,False,False
+1756,509,70977,2,3,255,False,False
 1757,457,70971,1,255,255,False,False
 1758,439,70971,255,0,255,False,False
 1759,439,70972,0,0,255,True,False
@@ -1785,7 +1784,7 @@ int32,UInt16,UInt32,UInt8,UInt8,UInt8,PackedBool0,PackedBool1
 1780,495,70969,4,5,255,False,True
 1781,495,70969,6,255,255,False,True
 1782,495,70969,255,0,255,False,False
-1783,0,0,0,0,0,False,False
+1783,501,70977,3,5,255,False,False
 1784,510,70986,0,0,255,True,False
 1785,510,70986,1,0,255,False,False
 1786,510,70987,0,0,255,True,False

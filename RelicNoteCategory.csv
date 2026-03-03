@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,Text
-offset,4,0
-int32,Int8,String
+int32,sbyte,str
 0,0,""
 1,1,"讨伐敌人"
 2,2,"迷宫探险"

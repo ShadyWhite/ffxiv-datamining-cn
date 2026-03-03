@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Effect,Icon,Value
-offset,0,4,8
-int32,String,UInt32,Int16
+int32,str,Image,int16
 0,"",0,0
 1,"最大体力提高",9875,500
 2,"行动速度提高",9876,-3

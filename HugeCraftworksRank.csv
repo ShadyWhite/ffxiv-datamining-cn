@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,CrafterLevel,ExpRewardPerItem,
-offset,4,0,5
-int32,UInt8,UInt32,UInt8
+int32,byte,uint32,byte
 0,0,0,100
 1,70,259822,150
 2,73,295466,150

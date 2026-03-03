@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Name,FCAuthorityCategory,
-offset,0,4,8
-int32,String,Int32,UInt8
+int32,str,FCAuthorityCategory,byte
 0,"更新部队信息",1,1
 1,"",0,0
 2,"阶级设置",1,2

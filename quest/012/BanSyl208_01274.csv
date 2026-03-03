@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANSYL208_01274_SEQ_00","妖精暂留地的颇妮希亚有事情想请冒险者帮忙。"
 1,"TEXT_BANSYL208_01274_SEQ_01","对妖精领的<Sheet(EObj,2003040,0)/>使用<Sheet(EventItem,2001154,0)/>，讨伐3名随之出现的<Sheet(BNpcName,2313,0)/>。"
 2,"TEXT_BANSYL208_01274_SEQ_02","成功讨伐了伪装成<Sheet(EObj,2003040,0)/>的<Sheet(BNpcName,2313,0)/>。向妖精暂留地的颇妮希亚报告。"

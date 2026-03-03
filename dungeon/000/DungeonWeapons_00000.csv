@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000","代号——奈尔·范·达纳斯
 发现敌对单位……战斗开始！"
 1,"TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010","绿宝石神兵……看来这边是正确的！"

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_SUBSEA162_01148_SEQ_00","骷髅谷营地的威尔特希斯想要把一份工作委托给冒险者。"
 1,"TEXT_SUBSEA162_01148_SEQ_01","据威尔特希斯说，营地的物资中有东西不够了。讨伐<Sheet(BNpcName,1181,0)/>，收集<Sheet(EventItem,2000970,0)/>。"
 2,"TEXT_SUBSEA162_01148_SEQ_02","讨伐了<Sheet(BNpcName,1181,0)/>。将<Sheet(EventItem,2000970,0)/>交给骷髅谷营地的威尔特希斯。"

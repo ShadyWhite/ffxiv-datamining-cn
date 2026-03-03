@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_HEAVNZ209_01778_SEQ_00","尾羽集落的维尔尧姆正四处召集人手。"
 1,"TEXT_HEAVNZ209_01778_SEQ_01","维尔尧姆委托冒险者去采集<Sheet(EventItem,2001607,0)/>。前往龙堡参天高地的南方洞窟，获取<Sheet(EventItem,2001607,0)/>。"
 2,"TEXT_HEAVNZ209_01778_SEQ_02","获得了<Sheet(EventItem,2001607,0)/>。将<Sheet(EventItem,2001607,0)/>交给尾羽集落的维尔尧姆。"

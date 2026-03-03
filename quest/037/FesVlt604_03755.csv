@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESVLT604_03755_SEQ_00","※本任务是特定期间内的任务。
 
 格里达尼亚的罗德里戈正等待着冒险者给自己投票。"

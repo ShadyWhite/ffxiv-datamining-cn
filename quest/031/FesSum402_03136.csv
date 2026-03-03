@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM402_03136_SEQ_00","※本任务是特定期间内的任务。
 
 红莲节执行委员博德富安正在等待永夏魔城的参加者。"

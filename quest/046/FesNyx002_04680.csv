@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESNYX002_04680_SEQ_00","※本任务是特定期间内的任务。
 
 永恒川的辰奉行想要前往瀑布。"

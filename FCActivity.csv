@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,Text,SelfKind,TargetKind,NumParam,FCActivityCategory,IconType
-offset,0,4,5,6,7,8
-int32,String,UInt8,UInt8,UInt8,UInt8,Int8
+int32,str,byte,byte,byte,FCActivityCategory,sbyte
 0,"",0,0,0,0,-1
 1,"组建成了新部队！",0,0,0,1,0
 2,"部队等级提升为<Value>IntegerParameter(1)</Value>级！",0,0,1,1,0

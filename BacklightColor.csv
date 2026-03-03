@@ -1,7 +1,6 @@
 ﻿key,0
 #,Color
-offset,0
-int32,UInt32
+int32,Color
 0,0
 1,16777215
 2,65535

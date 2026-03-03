@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,,Name,Icon,Action,StackSize,Category,Quest,CastTime,CastTimeline,Timeline
-offset,0,12,4,13,14,15,16,17,18,8,24,26,28,29,20,30,31,32
-int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt16,UInt8,UInt8,UInt32,UInt8,UInt8,UInt8
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,,Name,Icon,Action,StackSize,,Quest,CastTime,CastTimeline,Timeline
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,byte,Quest,byte,EventItemCastTimeline,byte
 2000000,"",0,"",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2000001,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2000002,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
@@ -3809,8 +3808,8 @@ int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,PackedBool0,String,UInt16,UInt
 2003804,"绝缘粉",0,"",0,0,1,0,0,False,"",26110,1276,1,1,70966,1,0,4
 2003805,"俄匊斯碧玉",0,"",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2003806,"大块俄匊斯碧玉",0,"",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
-2003807,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003808,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003807,"请求支援警笛",0,"",0,0,1,0,0,False,"",25994,1,1,1,70982,0,0,1
+2003808,"超雷导线圈",0,"",0,0,1,0,0,False,"",20916,0,1,1,70982,0,0,0
 2003809,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003810,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003811,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

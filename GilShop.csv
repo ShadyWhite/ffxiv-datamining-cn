@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Name,Icon,Quest,AcceptTalk,FailTalk,,FestivalId,FestivalPhase
-offset,0,4,8,12,16,24,20,22
-int32,String,UInt32,UInt32,Int32,Int32,PackedBool0,UInt16,UInt16
+#,Name,Icon,Quest,AcceptTalk,FailTalk,,,
+int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262144,"",0,0,0,0,False,0,0
 262145,"",0,0,0,0,False,0,0
 262151,"购买道具",0,0,0,0,True,0,0

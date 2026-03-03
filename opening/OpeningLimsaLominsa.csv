@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02","喂，你上哪去？！
 快，来这边！"
 1,"TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03","等一下。

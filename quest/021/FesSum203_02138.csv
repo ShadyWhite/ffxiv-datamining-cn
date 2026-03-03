@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_FESSUM203_02138_SEQ_00","※本任务是特定期间内的任务。
 
 太阳海岸的防爆组队员嘉·喃歌正忙着检阅文件。"

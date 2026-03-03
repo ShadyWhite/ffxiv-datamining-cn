@@ -1,7 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,TopImage,BottomImage,FontColor,,,,UnlockCondition,,,,Category,,Name
-offset,4,8,22,23,24,25,12,14,16,18,26,20,0
-int32,Int32,Int32,UInt8,UInt8,UInt8,UInt8,UInt16,UInt16,UInt16,UInt16,UInt8,UInt16,String
+#,TopImage,BottomImage,FontColor,,,,UnlockCondition,,,,SortKey,Name,
+int32,Image,Image,byte,byte,byte,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
 0,196001,196251,0,0,0,0,1,0,0,0,0,0,"无"
 1,196002,196252,1,0,0,0,1,0,0,0,1,3,"半透明：黑色"
 2,196003,196253,1,0,0,0,1,0,0,0,1,1,"渐变色：蓝色"

@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_BANKJN005_02977_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 碧玉水的武盔想要夺回付丧。"
 1,"TEXT_BANKJN005_02977_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
@@ -115,7 +114,7 @@ int32,String,String
 72,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_026","你竟然这么了解我啊——！
 确实，我怎么可能会被红甲族追上啊——？
 再说，捉弄一下那些傲慢的家伙也不失为一种乐趣啊——！"
-73,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_027","好——，包在我身上——！
+73,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_027","好——包在我身上——！
 做好准备就出发——！"
 74,"TEXT_BANKJN005_02977_KABUTO_000_028","成……成功啦……
 虽然还只是第一个，但鄙人已经看到了希望……
@@ -138,7 +137,7 @@ int32,String,String
 81,"TEXT_BANKJN005_02977_BUNCHIN_000_034","哎……
 武盔，你不要这么焦躁——
 看，冷静下来，好好——看看啊——"
-82,"TEXT_BANKJN005_02977_MAKURA_000_035","喂——，对不起，来晚了——！
+82,"TEXT_BANKJN005_02977_MAKURA_000_035","喂——对不起，来晚了——！
 为了能派上用场，
 我们从凯苏提尔部那里搞来了一些武器——！"
 83,"TEXT_BANKJN005_02977_KABUTO_000_036","枕头……？！
@@ -198,7 +197,7 @@ int32,String,String
 进攻——！"
 108,"TEXT_BANKJN005_02977_HIRUMAKI_000_070","你这个碧甲族真是自作聪明——！！
 把我逼急了，我就砍掉你们的脑袋，
-和你那不相称武士盔一起，点缀我的神龛——！"
+和你那不相称的武士盔一起，点缀我的神龛——！"
 109,"TEXT_BANKJN005_02977_KABUTO_000_071","这里就交给鄙人吧！
 你快去救付丧！！"
 110,"TEXT_BANKJN005_02977_KABUTO_100_071","蛭卷，接招——！"

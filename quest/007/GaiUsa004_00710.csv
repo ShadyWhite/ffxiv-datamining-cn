@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
-offset,0,4
-int32,String,String
+int32,str,str
 0,"TEXT_GAIUSA004_00710_SEQ_00","关于给妖精族的见面礼，霍桑山寨的罗尔佛·霍桑想给冒险者一些建议。"
 1,"TEXT_GAIUSA004_00710_SEQ_01","罗尔佛·霍桑的妻子罗莎·霍桑较为清楚妖精族喜欢的东西。去盛花养蜂场和她谈谈。"
 2,"TEXT_GAIUSA004_00710_SEQ_02","妖精族好像喜欢<Sheet(EventItem,2000831,0)/>。在<Sheet(EObj,2001902,0)/>使用<Sheet(EventItem,2000571,0)/>，打倒随之出现的<Sheet(BNpcName,33,0)/>，获取<Sheet(EventItem,2000831,0)/>。"

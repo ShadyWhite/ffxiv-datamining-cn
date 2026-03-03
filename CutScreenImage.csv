@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Type,Image,
-offset,4,0,6
-int32,Int16,Int32,Int16
+int32,int16,int32,int16
 0,0,0,-1
 1,7,120501,-1
 2,1,120022,-1

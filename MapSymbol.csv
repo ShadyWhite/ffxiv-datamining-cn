@@ -1,7 +1,6 @@
 ﻿key,0,1,2
 #,Icon,PlaceName,DisplayNavi
-offset,0,4,8
-int32,Int32,Int32,PackedBool0
+int32,Image,PlaceName,bit&01
 0,0,0,False
 1,60453,1230,True
 2,60430,1231,True

@@ -1,7 +1,6 @@
 ﻿key,0
 #,Chapter
-offset,0
-int32,UInt16
+int32,QuestRedoChapter
 0.0,0
 1.0,22
 2.0,17

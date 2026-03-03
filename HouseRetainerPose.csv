@@ -1,7 +1,6 @@
 ﻿key,0
 #,ActionTimeline
-offset,0
-int32,UInt16
+int32,ActionTimeline
 0,783
 1,784
 2,855
