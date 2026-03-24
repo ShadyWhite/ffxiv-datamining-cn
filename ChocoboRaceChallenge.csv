@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,,,,
+#,Name,ChocoboRace,,RatingRequirement
 offset,0,4,6,8
 Int32,String,UInt16,UInt16,UInt16
 0,"",0,0,0

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,ClassSingular,,VoiceLine,ClassPlural
+#,ClassSingular,Name,VoiceLine,ClassPlural
 offset,12,0,8,4
 Int32,String,String,UInt32,String
 0,"","",0,""

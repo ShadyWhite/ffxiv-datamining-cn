@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,,,,,,,,
+#,Content,ClassJobLevelRequired,ClassJobLevelSync,ItemLevelRequired,ItemLevelSync,,RequiredSeals,RewardExperience
 offset,0,16,17,8,10,4,12,14
 Int32,UInt32,UInt8,UInt8,UInt16,UInt16,Int32,UInt16,UInt16
 0,0,0,0,0,0,0,0,0

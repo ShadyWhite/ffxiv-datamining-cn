@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,Name,PreviousComboAction,ClassJob
 offset,0,4,8
 Int32,Int32,Int32,Int8
 0,0,0,-1

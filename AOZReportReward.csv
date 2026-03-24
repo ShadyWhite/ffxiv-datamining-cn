@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
+#,FirstGilReward,FirstAlliedSealsReward,FirstTomestonesReward,GeneralGilReward,GeneralAlliedSealsReward,GeneralTomestonesReward
 offset,0,8,10,4,12,14
 Int32,UInt32,UInt16,UInt16,UInt32,UInt16,UInt16
 0,0,0,0,0,0,0

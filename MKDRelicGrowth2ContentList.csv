@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,Category,,Level,Description
+#,Category,Content,Level,Description
 offset,12,4,8,0
 Int32,UInt8,UInt32,UInt32,String
 0,0,5,0,"想要开放该任务，需要完成主线中最近更新的2个任务。"

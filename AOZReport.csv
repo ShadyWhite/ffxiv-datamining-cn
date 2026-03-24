@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,Reward,Order
+#,ContentFinderCondition,Reward,Order
 offset,0,4,5
 Int32,UInt32,UInt8,Int8
 0,0,0,-1
