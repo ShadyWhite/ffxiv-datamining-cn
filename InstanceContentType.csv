@@ -2,7 +2,7 @@
 #,,LookupIndex,,StartLogMessage,,,,SupportsPartyMemberPortraits,
 offset,5,4,5,0,5,5,5,5,5
 Int32,PackedBool0,UInt8,PackedBool1,UInt32,PackedBool2,PackedBool3,PackedBool4,PackedBool5,PackedBool6
-0,True,0,False,0,True,True,True,False,False
+0,False,0,False,0,True,True,True,False,False
 1,True,0,False,1531,True,True,True,True,False
 2,True,0,False,1531,True,True,True,True,False
 3,True,0,False,1531,True,True,True,True,False
@@ -24,4 +24,5 @@ Int32,PackedBool0,UInt8,PackedBool1,UInt32,PackedBool2,PackedBool3,PackedBool4,P
 19,False,0,False,1531,True,True,True,True,False
 20,False,0,False,1531,True,True,True,True,False
 21,False,0,False,1531,True,True,True,True,False
-22,True,1,True,1531,False,False,False,False,False
+22,False,0,False,1531,False,False,False,False,False
+23,False,0,False,0,False,False,False,False,False

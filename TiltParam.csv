@@ -28,9 +28,9 @@ Int32,UInt8,UInt8,PackedBool0,Float32,UInt8,UInt8
 23,1,40,False,1,0,0
 24,1,45,False,1,0,0
 25,1,50,False,1,0,0
-26,1,15,False,1,1,0
-27,1,30,False,1,1,0
-28,0,0,False,0,0,0
+26,1,10,False,1,1,0
+27,1,15,False,1,1,0
+28,1,30,False,1,1,0
 29,0,0,False,0,0,0
 30,2,5,False,1,0,0
 31,2,10,False,1,0,0
