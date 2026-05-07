@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Image,UnlockQuest,Data,Sort,,,Scale,OffsetX,OffsetY
+#,Image,UnlockQuest,,UnlockText,Data,Sort,Scale,OffsetX,OffsetY
 offset,12,16,20,24,28,30,0,4,8
 Int32,UInt32,UInt32,UInt32,UInt32,UInt16,UInt8,Float32,Float32,Float32
 0.0,0,0,0,0,0,0,1,0,0

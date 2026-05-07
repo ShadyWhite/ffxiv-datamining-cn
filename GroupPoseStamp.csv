@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,StampIcon,,Category,,,,,,,,Name
+#,StampIcon,,Category,SortKey,UnlockType,UnlockCriteria,Festival,,,,Name
 offset,8,12,16,24,26,4,20,27,27,27,0
 Int32,Int32,Int32,Int32,UInt16,UInt8,UInt32,Int32,PackedBool0,PackedBool1,PackedBool2,String
 0,0,0,0,0,10,0,0,False,False,False,"无"

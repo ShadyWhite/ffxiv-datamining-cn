@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,,Content,,UnlockQuest0,UnlockQuest1,UnlockQuest2,,Map,ContentLinkType
+#,ContentLinkType,Content,,UnlockQuest0,UnlockQuest1,UnlockQuest2,,Map,Icon
 offset,28,0,29,4,8,12,16,20,24
 Int32,UInt8,UInt32,PackedBool0,UInt32,UInt32,UInt32,UInt32,UInt32,Int32
 0,0,0,False,0,0,0,0,0,0

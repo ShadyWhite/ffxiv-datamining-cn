@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,,Image,,Type
+#,Type,Image,,
 offset,8,0,10,4
 Int32,Int16,Int32,Int16,Int32
 0,0,0,-1,0

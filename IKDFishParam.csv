@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,Fish,IKDContentBonus,
+#,Fish,PartyBonus,IndividualBonus
 offset,0,4,5
 Int32,UInt32,UInt8,UInt8
 0,0,0,0

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Objective,Requirement,,Image,Order
+#,Objective,Requirement,BonusMultiplier,Image,Order
 offset,0,4,12,8,14
 Int32,String,String,UInt16,UInt32,UInt8
 0,"","",100,0,0

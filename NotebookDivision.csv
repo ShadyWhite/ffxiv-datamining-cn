@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,,SecretRecipeBookGroups[0],,SecretRecipeBookGroups[1],AllowedCraftTypes[0],AllowedCraftTypes[1],AllowedCraftTypes[2],AllowedCraftTypes[3],AllowedCraftTypes[4],AllowedCraftTypes[5],AllowedCraftTypes[6],AllowedCraftTypes[7],RequiresSecretRecipeBookGroupUnlock
+#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,,,RequiresSecretRecipeBookGroupUnlock,SecretRecipeBookGroups[0],SecretRecipeBookGroups[1],AllowedCraftTypes[0],AllowedCraftTypes[1],AllowedCraftTypes[2],AllowedCraftTypes[3],AllowedCraftTypes[4],AllowedCraftTypes[5],AllowedCraftTypes[6],AllowedCraftTypes[7]
 offset,0,8,9,10,4,11,12,23,13,14,15,16,17,18,19,20,21,22
 Int32,String,UInt8,UInt8,UInt8,UInt32,UInt8,UInt8,PackedBool0,UInt8,UInt8,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool
 0,"1-5",0,0,0,0,0,0,False,0,0,True,True,True,True,True,True,True,True

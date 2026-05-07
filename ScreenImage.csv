@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Image,Type,Lang,,Jingle
+#,Image,Jingle,Type,Lang,
 offset,0,8,10,11,4
 Int32,UInt32,Int16,Int8,PackedBool0,Int32
 0,0,-1,1,True,0

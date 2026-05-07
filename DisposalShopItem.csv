@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,ItemDisposed,,ItemReceived,,QuantityReceived,
+#,ItemDisposed,DisposedHq,ItemReceived,,QuantityReceived,
 offset,4,14,8,14,0,12
 Int32,Int32,PackedBool0,Int32,PackedBool1,UInt32,UInt16
 3473408.0,0,False,0,False,0,0

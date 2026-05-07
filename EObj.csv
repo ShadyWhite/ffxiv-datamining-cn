@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,,,,,,,,EyeCollision,SgbPath,EventHighAddition,PopType,Data,DirectorControl,Target,,,,AddedIn53,Invisibility,,
+#,,,,,,,,,PopType,Data,Invisibility,SgbPath,EyeCollision,DirectorControl,Target,,,,,AddedIn53,
 offset,11,12,13,14,15,16,17,18,6,0,7,4,19,19,19,9,10,19,8,19,19
 Int32,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,UInt8,UInt32,UInt8,UInt16,PackedBool0,PackedBool1,PackedBool2,Int8,Int8,PackedBool3,UInt8,PackedBool4,PackedBool5
 2000000,False,False,False,False,False,False,False,False,3,0,7,0,True,False,True,0,0,False,0,False,False

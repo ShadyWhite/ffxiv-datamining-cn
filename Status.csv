@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
-#,Name,Description,Icon,,MaxStacks,ClassJobCategory,StatusCategory,HitEffect,VFX,LockMovement,,LockActions,LockControl,Transfiguration,IsGaze,CanDispel,InflictedByActor,IsPermanent,NoLogVfx,PartyListPriority,CanIncreaseRewards,,CanStatusOff,ParamModifier,ParamEffect,IsFcBuff,Log,Invisibility,,,TargetType,Flags,Flag2,,,,
+#,Name,Description,Icon,,MaxStacks,ClassJobCategory,StatusCategory,HitEffect,VFX,LockMovement,,LockActions,LockControl,Transfiguration,IsGaze,CanDispel,,InflictedByActor,IsPermanent,PartyListPriority,CanIncreaseRewards,NoLogVfx,,ParamModifier,ParamEffect,CanStatusOff,Log,IsFcBuff,,Invisibility,TargetType,Flags,Flag2,,,,
 offset,0,4,8,20,21,22,23,24,16,33,33,33,33,33,33,33,33,34,34,25,26,34,34,12,27,34,18,34,32,34,28,29,30,34,35,35,31
 Int32,String,String,UInt32,UInt8,UInt8,UInt8,UInt8,UInt8,UInt16,PackedBool0,PackedBool1,PackedBool2,PackedBool3,PackedBool4,PackedBool5,PackedBool6,PackedBool7,PackedBool0,PackedBool1,UInt8,UInt8,PackedBool2,PackedBool3,Int32,UInt8,PackedBool4,UInt16,PackedBool5,Int8,PackedBool6,UInt8,UInt8,UInt8,PackedBool7,PackedBool0,PackedBool1,UInt8
 0,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0

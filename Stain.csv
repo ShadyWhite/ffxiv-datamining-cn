@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Color,IsMetallic,IsHousingApplicable,Shade,SubOrder,InlineName,Name,,
+#,Color,Shade,SubOrder,Item[0],Item[1],InlineName,Name,IsMetallic,IsHousingApplicable
 offset,8,20,21,12,16,0,4,22,22
 Int32,UInt32,UInt8,UInt8,UInt32,UInt32,String,String,PackedBool0,PackedBool1
 0,0,2,1,5728,0,"","无染色",False,True
