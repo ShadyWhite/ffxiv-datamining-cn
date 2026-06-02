@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,,,,,,ItemRewardType,RewardAmount,,,,
+#,BaseExperience,GilMultiplier,GCSealsMultiplier,CurrencyA,CurrencyB,CurrencyC,Item[0],ItemQuantity[0],ItemMaxLevelCondition[0],Item[1],ItemQuantity[1],ItemMaxLevelCondition[1]
 offset,8,10,12,14,16,18,0,20,22,4,21,23
 Int32,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt32,UInt8,UInt8,UInt32,UInt8,UInt8
 0,0,0,0,0,0,0,0,0,0,0,0,0

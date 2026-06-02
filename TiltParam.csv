@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
+#,RotationOrigin,TiltAngle,ReverseRotation,TiltSpeed,,
 offset,4,5,8,0,6,7
 Int32,UInt8,UInt8,PackedBool0,Float32,UInt8,UInt8
 0,0,0,False,0,0,0

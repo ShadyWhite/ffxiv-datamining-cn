@@ -393,7 +393,7 @@ Int32,UInt16,UInt8,UInt8,UInt32,UInt8,UInt32,UInt32,PackedBool0,PackedBool1,Pack
 131460,0,0,0,0,0,0,0,False,False,False,0,0,0,False,False
 131461,360,17,0,0,0,0,51271,False,False,True,0,0,0,False,True
 131462,0,0,0,0,0,0,0,False,False,False,0,0,0,False,False
-131463,0,0,0,0,0,0,0,False,False,False,0,0,0,False,False
-131464,0,0,0,0,0,0,0,False,False,False,0,0,0,False,False
+131463,363,17,0,0,0,0,51280,False,False,True,0,0,0,False,True
+131464,364,17,0,0,0,0,51281,False,False,True,0,0,0,False,True
 131465,362,17,0,0,0,0,51295,False,False,True,5,0,0,False,True
 131466,0,0,0,0,0,0,0,False,False,False,0,0,0,False,False
