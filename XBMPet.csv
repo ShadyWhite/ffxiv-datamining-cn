@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
-#,,,,,,,,,,,,,,,,,,,,,,
+#,Pet,,,,,Action,LocationKey,Location,,,,,,,,,,,,,,
 offset,16,24,25,26,12,20,27,22,0,4,8,28,29,30,31,32,33,34,35,36,37,38
 Int32,Int32,UInt8,UInt8,UInt8,UInt32,UInt16,UInt8,UInt16,String,String,String,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool,Bool
 0,0,0,0,0,0,0,0,0,"","","",False,False,False,False,False,False,False,False,False,False,False

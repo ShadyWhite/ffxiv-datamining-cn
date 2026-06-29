@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Level,MinLevel,MaxLevel,Emote,IsInitial,,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
+#,Level,MinLevel,MaxLevel,Emote,IsInitial,Weather,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,,Name,Impression,Description
 offset,12,16,42,36,43,44,38,40,20,24,28,32,45,0,4,8
 Int32,Int32,Int32,UInt8,UInt16,UInt8,UInt8,UInt16,UInt16,Int32,Int32,Int32,Int32,PackedBool0,String,String,String
 2162688,4876856,0,0,22,1,2,800,1159,27,81501,81001,81451,True,"梭鱼埠头","某位商人所见的风景。向下望去，三艘红帆军舰列队停泊，彰显着利姆萨·罗敏萨作为海之都的深厚实力。","军用埠头，利姆萨·罗敏萨引以为傲的旗舰舰队“黑涡舰队”在此停泊。一般市民是禁止进入的，不过，可以从视野好的地方看到旗舰凯旋号及整个舰队的英姿。"
