@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,Name,,
+#,Name,IsAllSaintsWake,WeatherRate
 offset,0,4,5
 Int32,String,UInt8,UInt8
 0,"",0,0

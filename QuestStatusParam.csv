@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,Status,StatusParam2,StatusParam1
 offset,0,4,2
 Int32,UInt16,UInt8,Int16
 0,0,0,0

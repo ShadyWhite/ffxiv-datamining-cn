@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,,,,,,,,,,,,,,,,,
+#,Name,Material[0],Quantity[0],Material[1],Quantity[1],Material[2],Quantity[2],Material[3],Quantity[3],Material[4],Quantity[4],Material[5],Quantity[5],Material[6],Quantity[6],Material[7],Quantity[7]
 offset,0,4,12,5,13,6,14,7,15,8,16,9,17,10,18,11,19
 Int32,String,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8,UInt8
 0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

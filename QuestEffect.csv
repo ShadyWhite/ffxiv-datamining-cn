@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,,,,,,,,,,,,,,,
+#,Effects[0].Type,Effects[1].Type,Effects[2].Type,Effects[3].Type,Effects[0].Param1,Effects[1].Param1,Effects[2].Param1,Effects[3].Param1,Effects[0].Param2,Effects[1].Param2,Effects[2].Param2,Effects[3].Param2,OutOfRangeWarningMessage,OutOfRangeMessage,
 offset,8,20,32,44,0,12,24,36,4,16,28,40,48,52,56
 Int32,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,PackedBool0
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
@@ -342,7 +342,7 @@ Int32,UInt8,UInt8,UInt8,UInt8,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,UInt32,U
 337,8,0,0,0,387,0,0,0,0,0,0,0,0,0,False
 338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 339,8,8,0,0,389,390,0,0,0,0,0,0,0,0,False
-340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
+340,43,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False

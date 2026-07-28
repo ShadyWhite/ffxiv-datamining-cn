@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,Weather[0],Weather[1],Weather[2],Weather[3],Weather[4]
 offset,0,4,8,12,16
 Int32,Int32,Int32,Int32,Int32,Int32
 0,0,0,0,0,0

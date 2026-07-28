@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,,Type,Outcome
 offset,8,0,4
 Int32,PackedBool0,String,String
 0,False,"無効","無効"
