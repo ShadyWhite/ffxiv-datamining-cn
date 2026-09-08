@@ -27,4 +27,4 @@ Int32,Int32,UInt8,UInt8,UInt8,UInt8,Int32,String,String,String,PackedBool0,Packe
 22,5,10,30,3,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"拼刀","快速连击按钮抗住攻击！"
 23,2,22,17,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"脱离","快速连击按钮挣脱出来，帮助库伊奇！"
 24,2,20,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"脱离","快速连击按钮突破攻击！"
-25,0,0,0,0,0,0,"","","",False,False,False,False,"",""
+25,2,20,30,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"脱离","快速连击按钮挣脱出来吧！"

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,QuestCustomTodoIndex,Quest,
+#,Mode,CounterValue,QuestCustomTodoIndex,Quest,
 offset,6,4,7,0,8
 Int32,UInt8,UInt16,UInt8,UInt32,UInt8
 5,2,0,0,71041,255

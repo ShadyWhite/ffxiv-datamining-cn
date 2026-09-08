@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,,,
+#,Name,,
 offset,0,6,4
 Int32,String,PackedBool0,UInt16
 0,"",False,0

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
 offset,0,12,4,13,14,15,16,17,8,20,24,28,38,32,34,36,39
 Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,Int32,Int32,Int32,UInt8,UInt16,UInt16,UInt16,UInt8
 0,"皮革陆行鸟鞍",0,"",0,0,1,0,0,"皮革陆行鸟鞍",0,0,0,0,0,0,0,0
@@ -110,7 +110,7 @@ Int32,String,Int8,String,Int8,Int8,Int8,Int8,Int8,String,Int32,Int32,Int32,UInt8
 105,"狂奔装甲",0,"",0,0,1,0,0,"狂奔装甲",65636,65636,65636,0,58816,58818,58817,166
 106,"宇宙探索装甲",0,"",0,0,1,0,0,"宇宙探索装甲",65637,65637,65637,0,58819,58821,58820,85
 107,"虚王装甲",0,"",0,0,1,0,0,"虚王装甲",65638,65638,65638,0,58822,58824,58823,167
-108,"野餐鸟甲",0,"",0,0,1,0,0,"野餐鸟甲",65639,65639,65639,0,58825,58827,58826,86
+108,"野餐装甲",0,"",0,0,1,0,0,"野餐装甲",65639,65639,65639,0,58825,58827,58826,86
 109,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
 110,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
 111,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0

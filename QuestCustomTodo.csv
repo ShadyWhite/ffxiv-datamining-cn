@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,,,,,,,,,,,,,,,
+#,DataType,Index[0],MaxValue[0],Index[1],MaxValue[1],Index[2],MaxValue[2],Index[3],MaxValue[3],Index[4],MaxValue[4],Index[5],MaxValue[5],Index[6],MaxValue[6]
 offset,28,0,14,2,16,4,18,6,20,8,22,10,24,12,26
 Int32,UInt8,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16,UInt16
 0,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0

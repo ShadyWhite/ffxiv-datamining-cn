@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,,,,
+#,OffsetX,OffsetY,Width,Height
 offset,4,6,0,2
 Int32,Int16,Int16,UInt16,UInt16
 0,-1,-1,0,0

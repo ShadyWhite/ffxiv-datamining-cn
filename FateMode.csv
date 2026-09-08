@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,MotivationIcon,MotivationMapMarker,ObjectiveIcon,ObjectiveMapMarker
+#,LogMessage,MotivationIcon,MotivationMapMarker,ObjectiveIcon,ObjectiveMapMarker
 offset,0,4,8,12,16
 Int32,UInt32,UInt32,UInt32,UInt32,UInt32
 0,2001,60093,60458,60732,60512
